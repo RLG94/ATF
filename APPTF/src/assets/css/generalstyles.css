@@ -1,0 +1,124 @@
+:root{
+    --text-color:#000000;
+    --main-color:#800080;
+    --secondary-color:#C49644;
+    --violet-black:#410852;
+    --golden-black:#7D5208;
+    --violet-white:#884E9B;
+    --golden-white:#EABE72;
+   
+   
+}
+
+
+
+:root {
+    background-color: var(--main-color);
+    font-family: "sedan SC", serif !important;
+}
+
+
+/* DISPLAY NAVBAR */
+
+#generalNavigation{
+    
+    background-color: var(--secondary-color);
+    border-top: 4px solid var(--violet-black);
+    border-bottom: 4px solid var(--violet-black);
+}
+.navbar-toggler{
+    
+    background-color: var(--violet-black);
+    border: 3px solid var(--golden-white);
+}
+.navbar-toggler-icon{
+    background-image: url("data:image/svg+xml;charset=UTF8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='%23C49644' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+
+.navbar-brand{
+    color: var(--violet-black);
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    font-weight: 800;
+    font-family: "Sedan SC", serif;
+    
+    font-weight: bolder;
+    flex-wrap:nowrap;
+    top: -3px;
+}
+#botonMenu{ 
+   position: absolute;
+   left: 77vw;
+   height: 6vh;
+}
+#p1{
+    font-size: 35px;
+    margin-top: -13px;
+    font-weight: 900;
+    -webkit-text-stroke: 0.1px rgba(193, 184, 155, 0.219);
+}
+#p2{
+    margin-left: 10px;
+    margin-top:-6px;
+    font-size: small;
+}
+#p1,#p2{
+   
+    text-shadow: 0px 0px 2px rgb(253, 249, 255);
+    
+}
+#p3{ position: relative;
+     top: 18px;
+     right: 32px;
+     transform: rotate(-12deg);
+     color: var(--text-color);
+     text-shadow: 2px 2px 3px rgb(128, 255, 0);
+     font-family: "Rock Salt";
+     font-style: italic;
+}
+
+.navbar-brand img {
+    width: 50px;
+    height: auto;
+    margin:2px;
+    margin-right: 12px;
+    border: 3px solid var(--golden-white);
+    border-radius: 3px;
+}
+
+
+
+.dropdown-menu strong{
+    color: rgb(246, 0, 0);
+    text-shadow: 0px 0px 22px rgb(74, 74, 74);
+    font-family: "Rock Salt";
+    margin-left: 35px;
+
+}
+.dropdown-menu em{
+    font-family: "Rock Salt";
+    font-size: 12px;
+    color: rgb(153, 86, 86);
+
+}
+
+#anarkista{
+    margin-left: 50px;
+    width: 8%;
+    height: 8%;
+    
+}
+
+.nav-link {
+    font-weight: 800;
+    font-family: "Sedan SC", serif;
+}
+
+.unstyled-link {
+    color: inherit;
+    text-decoration: none;
+    cursor: none;
+    
+}

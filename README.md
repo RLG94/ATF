@@ -1,3 +1,3 @@
 # ATF repositorio compartido para la APPTF
 
-Display completo de todos los usuarios de la app con su puntuacion anctualizada
+Mobile based app made in Angular, Colaborating AndoniAlvarez & RoberL.(frontEnd) with Nirei (BackEnd)
