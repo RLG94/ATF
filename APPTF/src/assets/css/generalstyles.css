@@ -142,6 +142,7 @@ section{
     padding-left: 12px;
     padding-right: 12px;
     padding-top: 15px;
+    max-width: 1400PX;
     
     font-family: "sedan SC", serif !important;
    border-left:10px double var(--text-color) ;
