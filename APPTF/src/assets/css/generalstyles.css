@@ -13,10 +13,20 @@
 
 
 :root {
-    background-color: var(--main-color);
+    background-color: var(--violet-black);
     font-family: "sedan SC", serif !important;
 }
 
+:root h1 {
+   display: flex;
+   flex-direction: column;
+   line-height: 38px;
+    font-size: 23px;
+    letter-spacing: 0.9vw;
+    font-weight: 800;
+    
+   
+}
 
 /* DISPLAY NAVBAR */
 
@@ -121,4 +131,69 @@
     text-decoration: none;
     cursor: none;
     
+}
+
+
+/* SECTION DISPLAY*/
+section{
+    display: flex;
+    text-align: center;
+    margin: 0px auto;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 15px;
+    
+    font-family: "sedan SC", serif !important;
+   border-left:10px double var(--text-color) ;
+   border-right:10px double var(--violet-black) ;
+    width: 100%;
+    background: var(--violet-white);
+   
+}
+#rulesNow h1{
+    padding-left: -10px;
+    padding-right: -10px;
+    margin-left: -17px;
+    margin-right: -17px;
+
+    
+}
+section strong{
+     font-family: "Rock Salt";
+}
+#rulesNow #title strong{
+    color: rgba(241, 255, 85, 0.944);
+    text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.893);
+}
+#strgA{
+    color: rgb(197, 131, 0);
+    text-shadow: 2px 2px 4px rgb(42, 38, 38);
+}
+#strgB{
+    color: rgb(255, 90, 90);
+    text-shadow: 2px 2px 6px rgb(221, 0, 255);
+}
+header i{
+    color: rgba(241, 255, 85, 0.944);
+    text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.893);
+}
+#strgC{color: rgb(0, 0, 0);
+    text-shadow: 1px 2px 3px rgb(255, 0, 0);
+
+}
+#strgD{color: rgb(56, 194, 58);
+    text-shadow: 1px 2px 3px rgb(69, 96, 98);
+    
+}
+#strgE{color: rgb(0, 13, 255);
+    text-shadow: 1px 2px 3px rgb(106, 159, 164);
+    
+}
+#strgF{color: rgb(243, 179, 179);
+    text-shadow: 1px 2px 3px rgb(23, 1, 102);
+    
+}
+#strgG{
+    color: rgb(208, 54, 54);
+    text-shadow: 1px 2px 3px rgb(0, 0, 0);
 }
