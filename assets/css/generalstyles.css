@@ -90,12 +90,11 @@
 }
 
 .navbar-brand img {
-    width: 50px;
+    width: 55px;
     height: auto;
-    margin:2px;
-    margin-right: 12px;
-    border: 3px solid var(--golden-white);
-    border-radius: 3px;
+   
+    margin-right: 5px;
+  
 }
 
 
@@ -193,11 +192,33 @@ header i{
     text-shadow: 1px 2px 3px rgb(106, 159, 164);
     
 }
-#strgF{color: rgb(243, 179, 179);
+#strgF{
+    color: rgb(243, 179, 179);
     text-shadow: 1px 2px 3px rgb(23, 1, 102);
     
 }
 #strgG{
     color: rgb(208, 54, 54);
     text-shadow: 1px 2px 3px rgb(0, 0, 0);
+}
+
+
+
+/* HOME */
+
+#imgHome{
+    width: 300px;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border: 6px solid rgb(254, 50, 227);
+    border-radius: 3px;
+}
+#home1{
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 2px 3px rgb(255, 0, 0);
+}
+#home2{
+    color: rgb(204, 161, 7);
+    text-shadow: 1px 2px 3px rgb(34, 80, 24);
 }
