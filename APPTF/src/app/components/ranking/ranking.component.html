@@ -1,35 +1,5 @@
 
-  <!-- <table class="table">
-    <thead>
-      <tr>
-        <th scope="col">#</th>
-        <th scope="col">Name</th>
-        <th scope="col">Puntis</th>
-        <th scope="col">Symbol</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th scope="row">1</th>
-        <td>Mark</td>
-        <td>Otto</td>
-        <td></td>
-      </tr>
-      <tr>
-        <th scope="row">2</th>
-        <td>Jacob</td>
-        <td>Thornton</td>
-        <td>at</td>
-      </tr>
-      <tr>
-        <th scope="row">3</th>
-        <td colspan="2">Larry the Bird</td>
-        <td>witter</td>
-      </tr>
-    </tbody>
-  </table> -->
-
-  <h1>Ranking de participantes</h1>
+ <h1>Ranking de participantes</h1>
 
   <form id="busqueda-form" class="d-flex" role="search">
       <input class="form-control me-2 p-2" type="search" id="searchPlayer" [(ngModel)]="textoBusqueda" name = "textoBusqueda" placeholder="Buscar Concursante" aria-label="Search">
@@ -40,47 +10,42 @@
   <!-- <button (click)="clonarObjetoConLodash()">Clonar</button> -->
   <!-- <button (click)="confirmarDiferencias()">Confirmar</button> -->
 
-  <table *ngIf="usuarioEncontrado">
+  <table *ngIf="!mostrarTable">
     <thead>
       <tr>
         <th (click)="ordenarPorPuntis()">Puesto</th>
         <th (click)="ordenarPorNombre()">Nombre</th>
         <th (click)="ordenarPorPuntis()">Puntos</th>
-        <th (click)="ordenarPorLogros()">Logros</th>
+        <th>Imagen</th>
       </tr>
     </thead>
     <tbody>
-      <tr >
-        <td [ngStyle]="usuarioEncontrado.posicion != null ? getStyle(usuarioEncontrado.posicion) : {}">{{ usuarioEncontrado.posicion }}</td>
-        <td>{{ usuarioEncontrado.nombre }}</td>
-        <td>{{ usuarioEncontrado.puntis }}</td>
-        <td>{{ usuarioEncontrado.ganador }}</td>
+      <tr *ngFor="let usuario of usuarioEncontrado; let i = index">
+        <td [ngStyle]="usuario.posicion != null ? getStyle(usuario.posicion) : {}">{{ usuario.posicion }}</td>
+        <td>{{ usuario.nombre }}</td>
+        <td>{{ usuario.puntis }}</td>
+        <td style="width: 2vh;"><img style="width: 60%;border-radius: 16px;" src="{{usuario.imagen}}" alt="">
+        </td>
       </tr>
       
     </tbody>
   </table>
-  <table *ngIf="!usuarioEncontrado">
+  <table *ngIf="mostrarTable">
     <thead>
       <tr>
         <th (click)="ordenarPorPuntis()">Puesto</th>
         <th (click)="ordenarPorNombre()">Nombre</th>
         <th (click)="ordenarPorPuntis()">Puntos</th>
-        <th (click)="ordenarPorLogros()">Logros</th>
+        <th>Imagen</th>
       </tr>
     </thead>
     <tbody>
-      <tr *ngIf="usuarioEncontrado">
-        <td>{{ usuarioEncontrado.id }}</td>
-        <td>{{ usuarioEncontrado.nombre }}</td>
-        <td>{{ usuarioEncontrado.puntis }}</td>
-        <td>{{ usuarioEncontrado.ganador }}</td>
-      </tr>
+      
       <tr class="inactive" *ngFor="let usuario of usuarios; let i = index">
-        <td [ngStyle]="usuario.posicion != null ? getStyle(usuario.posicion) : {}">{{ usuario.posicion }}</td>
-        <td>{{ usuario.nombre }}</td>
+        <td style="width:2vh" [ngStyle]="usuario.posicion != null ? getStyle(usuario.posicion) : {}">{{ usuario.posicion }}</td>
+        <td>{{ usuario.nombre }} <i *ngFor="let icono of generarArray(usuario.ganador)" class="fas fa-trophy"></i></td>
         <td>{{ usuario.puntis }} </td>
-        <td>
-          <i *ngFor="let icono of generarArray(usuario.ganador)" class="fas fa-trophy"></i>
+        <td style="width: 2vh;"><img style="width: 60%;border-radius: 16px;" src="{{usuario.imagen}}" alt="">
         </td>
      
       </tr>
