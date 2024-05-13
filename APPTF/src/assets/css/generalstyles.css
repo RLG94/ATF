@@ -143,16 +143,17 @@ body{
     
 }
 section{
-    
+    position: relative;
     display: flex;
     text-align: center;
     margin: 0px auto;
+    align-items: center;
     justify-content: center;
     font-family: "sedan SC", serif !important;
     border-left:10px double var(--violet-black) ;
     border-right:10px double var(--violet-black) ;
     padding-top: 15px;
-    width: 96%;
+    width: 90%;
     padding-left: 4%;
     padding-right: 4%;
     padding-bottom: 8%;

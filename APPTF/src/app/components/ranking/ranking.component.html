@@ -36,7 +36,7 @@
         <th (click)="ordenarPorPuntis()">Puesto</th>
         <th (click)="ordenarPorNombre()">Nombre</th>
         <th (click)="ordenarPorPuntis()">Puntos</th>
-        <th>Imagen</th>
+        <th>Foto</th>
       </tr>
     </thead>
     <tbody>
@@ -45,7 +45,7 @@
         <td style="width:2vh" [ngStyle]="usuario.posicion != null ? getStyle(usuario.posicion) : {}">{{ usuario.posicion }}</td>
         <td>{{ usuario.nombre }} <i *ngFor="let icono of generarArray(usuario.ganador)" class="fas fa-trophy"></i></td>
         <td>{{ usuario.puntis }} </td>
-        <td style="width: 2vh;"><img style="width: 60%;border-radius: 16px;" src="{{usuario.imagen}}" alt="">
+        <td style="width: 5vh;"><img style="width: 110%;border-radius: 16%; margin: -5px -10px; padding: -5px;max-height: 36px;" src="{{usuario.imagen}}" alt="">
         </td>
      
       </tr>
