@@ -32,24 +32,50 @@
   <p>Ranking de participantes</p>
 
   <form class="d-flex" role="search">
-      <input class="form-control me-2" type="search" id="searchPlayer" [(ngModel)]="textoBusqueda" name = "textoBusqueda" placeholder="Buscar Concursante" aria-label="Search">
+      <input class="form-control me-2 p-2" type="search" id="searchPlayer" [(ngModel)]="textoBusqueda" name = "textoBusqueda" placeholder="Buscar Concursante" aria-label="Search">
       <button class="btn btn-outline-warning" (click)="buscarUsuario()" type="submit">Buscar</button>
+      <button class="btn btn-outline-warning" styles="width:10px" (click)="limpiarFiltro()" type="submit">Limpiar</button>
   </form>
   <hr>
-  <h2>Aquí se mostrarán los participantes</h2>
-  <button (click)="ordenarPorPuntis()">Ordenar por Puntos</button>
-  <button (click)="ordenarPorNombre()">Ordenar por Nombre</button>
-  <table>
+  <!-- <button (click)="clonarObjetoConLodash()">Clonar</button> -->
+  <!-- <button (click)="confirmarDiferencias()">Confirmar</button> -->
+
+  <table *ngIf="usuarioEncontrado">
     <thead>
       <tr>
-        <th>Puesto</th>
-        <th>Nombre</th>
-        <th>Puntos</th>
-        <th>Logros</th>
+        <th (click)="ordenarPorPuntis()">Puesto</th>
+        <th (click)="ordenarPorNombre()">Nombre</th>
+        <th (click)="ordenarPorPuntis()">Puntos</th>
+        <th (click)="ordenarPorLogros()">Logros</th>
       </tr>
     </thead>
     <tbody>
-      <tr *ngFor="let usuario of usuarios; let i = index">
+      <tr >
+        <td>{{ usuarioEncontrado.id }}</td>
+        <td>{{ usuarioEncontrado.nombre }}</td>
+        <td>{{ usuarioEncontrado.puntis }}</td>
+        <td>{{ usuarioEncontrado.ganador }}</td>
+      </tr>
+      
+    </tbody>
+  </table>
+  <table *ngIf="!usuarioEncontrado">
+    <thead>
+      <tr>
+        <th (click)="ordenarPorPuntis()">Puesto</th>
+        <th (click)="ordenarPorNombre()">Nombre</th>
+        <th (click)="ordenarPorPuntis()">Puntos</th>
+        <th (click)="ordenarPorLogros()">Logros</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngIf="usuarioEncontrado">
+        <td>{{ usuarioEncontrado.id }}</td>
+        <td>{{ usuarioEncontrado.nombre }}</td>
+        <td>{{ usuarioEncontrado.puntis }}</td>
+        <td>{{ usuarioEncontrado.ganador }}</td>
+      </tr>
+      <tr class="inactive" *ngFor="let usuario of usuarios; let i = index">
         <td [ngStyle]="usuario.posicion != null ? getStyle(usuario.posicion) : {}">{{ usuario.posicion }}</td>
         <td>{{ usuario.nombre }}</td>
         <td>{{ usuario.puntis }} </td>
@@ -60,9 +86,5 @@
       </tr>
     </tbody>
   </table>
-  <div *ngIf="usuarioEncontrado">
-    <td>ID: {{ usuarioEncontrado.id }}</td>
-    <td>Nombre: {{ usuarioEncontrado.nombre }}</td>
-    <td>Puntos: {{ usuarioEncontrado.puntis }}</td>
-    <td>Ganador: {{ usuarioEncontrado.ganador }}</td>
-  </div>
+  
+
