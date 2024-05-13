@@ -51,7 +51,7 @@
     </thead>
     <tbody>
       <tr >
-        <td>{{ usuarioEncontrado.id }}</td>
+        <td [ngStyle]="usuarioEncontrado.posicion != null ? getStyle(usuarioEncontrado.posicion) : {}">{{ usuarioEncontrado.posicion }}</td>
         <td>{{ usuarioEncontrado.nombre }}</td>
         <td>{{ usuarioEncontrado.puntis }}</td>
         <td>{{ usuarioEncontrado.ganador }}</td>
