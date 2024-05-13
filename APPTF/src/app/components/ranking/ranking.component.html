@@ -21,7 +21,8 @@
         <td [ngStyle]="usuario.posicion != null ? getStyle(usuario.posicion) : {}">{{ usuario.posicion }}</td>
         <td>{{ usuario.nombre }}</td>
         <td>{{ usuario.puntis }}</td>
-        <td>{{ usuario.ganador }}</td>
+        <td style="width: 2vh;"><img style="width: 60%;border-radius: 16px;" src="{{usuario.imagen}}" alt="">
+        </td>
       </tr>
       
     </tbody>
