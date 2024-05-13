@@ -70,15 +70,20 @@ export class RankingComponent implements OnInit {
   getStyle(posicion: number) {
     switch(posicion) {
       case 1:
-        return { 'background-color': '#E3D500' };
+        return { 'background-color': '#D4AF37','background-image':'linear-gradient(25deg, rgba(255, 255, 255, 0.6) 10%, rgba(255, 255, 255, 0.7) 30%, rgba(255, 255, 255, 0.5) 45%, rgba(255, 255, 255, 0.5) 50%, rgba(255, 255, 255, 0.7) 78%, rgba(255, 255, 255, 0.6) 100%)',
+        'background-size':'100% 100%'};
       case 2:
-        return { 'background-color': '#BEBEBE' };
+        return { 'background-color': '#C0C0C0','background-image':'linear-gradient(25deg, rgba(255, 255, 255, 0.8) 10%, rgba(255, 255, 255, 0.7) 20%, rgba(255, 255, 255, 0.5) 30%, rgba(255, 255, 255, 0.5) 50%, rgba(255, 255, 255, 0.9) 80%, rgba(255, 255, 255, 0.6) 100%)',
+        'background-size':'100% 100%'};
       case 3:
-        return { 'background-color': '#762c28' };
+        return { 'background-color': '#762c28' ,'background-image':'linear-gradient(25deg, rgba(255, 255, 255, 0.6) 10%, rgba(255, 255, 255, 0.7) 20%, rgba(255, 255, 255, 0.5) 40%, rgba(255, 255, 255, 0.5) 50%, rgba(255, 255, 255, 0.7) 80%, rgba(255, 255, 255, 0.6) 90%)',
+        'background-size':'100% 100%'};
       default:
         return {};
     }
+    
   }
+  
   textoBusqueda: string = '';
   usuarioEncontrado: any = null;
   tablaUsuarios: boolean = true;

@@ -29,12 +29,12 @@
     </tbody>
   </table> -->
 
-  <p>Ranking de participantes</p>
+  <h1>Ranking de participantes</h1>
 
-  <form class="d-flex" role="search">
+  <form id="busqueda-form" class="d-flex" role="search">
       <input class="form-control me-2 p-2" type="search" id="searchPlayer" [(ngModel)]="textoBusqueda" name = "textoBusqueda" placeholder="Buscar Concursante" aria-label="Search">
-      <button class="btn btn-outline-warning" (click)="buscarUsuario()" type="submit">Buscar</button>
-      <button class="btn btn-outline-warning" styles="width:10px" (click)="limpiarFiltro()" type="submit">Limpiar</button>
+      <button id="btn-buscar" class="btn" (click)="buscarUsuario()" type="submit">Buscar</button>
+      <button id="btn-limpiar" class="btn btn-outline-warning" styles="width:10px" (click)="limpiarFiltro()" type="submit">Limpiar</button>
   </form>
   <hr>
   <!-- <button (click)="clonarObjetoConLodash()">Clonar</button> -->
