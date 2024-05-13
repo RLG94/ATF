@@ -1,8 +1,68 @@
-<p>Ranking de participantes</p>
 
-<form class="d-flex" role="search">
-    <input class="form-control me-2" type="search" placeholder="Buscar Concursante" aria-label="Search">
-    <button class="btn btn-outline-warning" type="submit">Buscar</button>
+  <!-- <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Name</th>
+        <th scope="col">Puntis</th>
+        <th scope="col">Symbol</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">1</th>
+        <td>Mark</td>
+        <td>Otto</td>
+        <td></td>
+      </tr>
+      <tr>
+        <th scope="row">2</th>
+        <td>Jacob</td>
+        <td>Thornton</td>
+        <td>at</td>
+      </tr>
+      <tr>
+        <th scope="row">3</th>
+        <td colspan="2">Larry the Bird</td>
+        <td>witter</td>
+      </tr>
+    </tbody>
+  </table> -->
+
+  <p>Ranking de participantes</p>
+
+  <form class="d-flex" role="search">
+      <input class="form-control me-2" type="search" id="searchPlayer" [(ngModel)]="textoBusqueda" name = "textoBusqueda" placeholder="Buscar Concursante" aria-label="Search">
+      <button class="btn btn-outline-warning" (click)="buscarUsuario()" type="submit">Buscar</button>
   </form>
- <hr>
+  <hr>
   <h2>Aquí se mostrarán los participantes</h2>
+  <button (click)="ordenarPorPuntis()">Ordenar por Puntos</button>
+  <button (click)="ordenarPorNombre()">Ordenar por Nombre</button>
+  <table>
+    <thead>
+      <tr>
+        <th>Puesto</th>
+        <th>Nombre</th>
+        <th>Puntos</th>
+        <th>Logros</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let usuario of usuarios; let i = index">
+        <td [ngStyle]="usuario.posicion != null ? getStyle(usuario.posicion) : {}">{{ usuario.posicion }}</td>
+        <td>{{ usuario.nombre }}</td>
+        <td>{{ usuario.puntis }} </td>
+        <td>
+          <i *ngFor="let icono of generarArray(usuario.ganador)" class="fas fa-trophy"></i>
+        </td>
+     
+      </tr>
+    </tbody>
+  </table>
+  <div *ngIf="usuarioEncontrado">
+    <td>ID: {{ usuarioEncontrado.id }}</td>
+    <td>Nombre: {{ usuarioEncontrado.nombre }}</td>
+    <td>Puntos: {{ usuarioEncontrado.puntis }}</td>
+    <td>Ganador: {{ usuarioEncontrado.ganador }}</td>
+  </div>
