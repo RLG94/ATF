@@ -394,11 +394,20 @@ p{
 hr{
     color: var(--golden-white);
 }
+.fiesta a{
+    text-decoration: none;
+    color: var(--violet-black);
+}
 .fiesta h3{
     font-family: "Sedan SC", serif;
     font-size: large;
     font-weight: 600;
 
+}
+#temporal{
+    padding-top: -11px;
+    margin-top: -11px;
+    font-size: smaller;
 }
 .fiesta h2{
     font-family: "Sedan SC", serif;
@@ -407,9 +416,19 @@ hr{
    
     color: var(--golden-white);
     text-shadow: 0px 1px 4px var(--violet-black);
-    width: 40%;
+    width: 50%;
     margin: 0px auto;
     margin-bottom: 3%;
+}
+.fiesta h4{
+    border-radius: 3px;
+   position: relative;
+   top: -4px;
+    font-family: "Sedan SC", serif;
+    background-color:var(--golden-white);
+    width: 30%;
+    margin: 0px auto;
+    font-size: small;
 }
 .fiesta img{
     width: 75%;
