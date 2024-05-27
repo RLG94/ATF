@@ -7,8 +7,9 @@ import { CalendarioComponent } from './components/calendario/calendario.componen
 import { ErrorComponent } from './components/error/error.component';
 import { ReglamentoComponent } from './components/reglamento/reglamento.component';
 import { HomeComponent } from './components/home/home.component';
-
-
+import { inject } from '@angular/core';
+import { Firestore, collectionData, collection } from '@angular/fire/firestore';
+import { Observable } from 'rxjs';
 @Component({
   selector: 'app-root',
   standalone: true,
@@ -17,5 +18,8 @@ import { HomeComponent } from './components/home/home.component';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'APPTF';
+  title = 'apptf';
+
+  ngOnInit() {
+  }
 }

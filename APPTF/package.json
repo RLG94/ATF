@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:APPTF": "node dist/apptf/server/server.mjs"
+    "serve:ssr:apptf": "node dist/apptf/server/server.mjs"
   },
   "private": true,
   "dependencies": {
@@ -16,6 +16,7 @@
     "@angular/common": "^17.3.0",
     "@angular/compiler": "^17.3.0",
     "@angular/core": "^17.3.0",
+    "@angular/fire": "^17.1.0",
     "@angular/forms": "^17.3.0",
     "@angular/material": "^17.3.8",
     "@angular/platform-browser": "^17.3.0",
@@ -26,6 +27,7 @@
     "@fortawesome/fontawesome-free": "^6.5.2",
     "bootstrap": "^5.3.3",
     "express": "^4.18.2",
+    "firebase": "^10.12.1",
     "lodash": "^4.17.21",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",

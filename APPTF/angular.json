@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "APPTF": {
+    "apptf": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -68,10 +68,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "APPTF:build:production"
+              "buildTarget": "apptf:build:production"
             },
             "development": {
-              "buildTarget": "APPTF:build:development"
+              "buildTarget": "apptf:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -79,7 +79,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "buildTarget": "APPTF:build"
+            "buildTarget": "apptf:build"
           }
         },
         "test": {
