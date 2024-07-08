@@ -448,7 +448,9 @@ hr{
      text-shadow: 2px 2px 3px rgb(128, 255, 0);
 }
 /* PRIZES*/
-
+#copas p,#medallas p{font-size: large;
+    
+}
 #premios-titulo{
     text-shadow: 1px 1px 2px #eabe726f;
     margin-top: 3%;
