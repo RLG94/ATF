@@ -447,11 +447,195 @@ hr{
     color: var(--text-color);
      text-shadow: 2px 2px 3px rgb(128, 255, 0);
 }
+/* PRIZES*/
 
+#premios-titulo{
+    text-shadow: 1px 1px 2px #eabe726f;
+    margin-top: 3%;
+    margin-bottom: 10%;
+}
+#ganador{
+    position: relative;
+    width: 100%;
+    
+}
+#ganador::before {
+    content: '';
+    background-image: url('../images/luz.png');
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: center; 
+    opacity: 0.25; 
+    position: absolute;
+    top: 0%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+    margin-bottom: 2%;
+}
+
+#ganador > * {
+    position: relative;
+    z-index: 1;
+}
+
+#campeon1{
+    text-shadow: 1px 1px 5px rgb(255, 194, 10) !important;
+}
+#campeon2{
+    text-shadow: 1px 1px 5px rgb(197, 197, 197) !important;
+}
+
+#campeon3{
+   
+    text-shadow: 1px 1px 4px rgb(246, 129, 4) !important;
+}
+
+#honesto{
+    position: relative;
+    width: 100%;
+    
+}
+#honesto::before {
+    content: '';
+    background-image: url('../images/Medals/honesto.png');
+    background-repeat: no-repeat; 
+    background-size: contain;
+    background-position: center; 
+    opacity: 0.17; 
+    position: absolute;
+    top: 0%;
+    left: 0;
+    right: 0;
+    bottom: -10%;
+    z-index: 0;
+   
+}
+#buitre{
+    position: relative;
+    width: 100%;
+    
+}
+#buitre::before {
+    content: '';
+    background-image: url('../images/Medals/buitre.png');
+    background-repeat: no-repeat; 
+    background-size: contain;
+    background-position: center; 
+    opacity: 0.17; 
+    position: absolute;
+    top: -10%;
+    left: 0;
+    right: 0;
+    bottom: -10%;
+    z-index: 0;
+   
+}
+#sacrificado{
+    position: relative;
+    width: 100%;
+    
+}
+#sacrificado::before {
+    content: '';
+    background-image: url('../images/Medals/sacrificado.png');
+    background-repeat: no-repeat; 
+    background-size: contain;
+    background-position: center; 
+    opacity: 0.17; 
+    position: absolute;
+    top: 0%;
+    left: 0;
+    right: 0;
+    bottom: -20%;
+    z-index: 0;
+   
+}
+#manana{
+    position: relative;
+    width: 100%;
+    
+}
+#manana::before {
+    content: '';
+    background-image: url('../images/Medals/manana.png');
+    background-repeat: no-repeat; 
+    background-size: contain;
+    background-position: center; 
+    opacity: 0.17; 
+    position: absolute;
+    top: 30%;
+    left: 0;
+    right: 0;
+    bottom: 10%;
+    z-index: 0;
+   
+}
+#carretera{
+    position: relative;
+    width: 100%;
+    
+}
+#carretera::before {
+    content: '';
+    background-image: url('../images/Medals/correcaminos.png');
+    background-repeat: no-repeat; 
+    background-size: contain;
+    background-position: center; 
+    opacity: 0.17; 
+    position: absolute;
+    top: 10%;
+    left: 0;
+    right: 0;
+    bottom: -10%;
+    z-index: 0;
+   
+}
+#revelacion{
+    position: relative;
+    width: 100%;
+    
+}
+#revelacion::before {
+    content: '';
+    background-image: url('../images/Medals/revelacion.png');
+    background-repeat: no-repeat; 
+    background-size: contain;
+    background-position: center; 
+    opacity: 0.17; 
+    position: absolute;
+    top: 10%;
+    left: 0;
+    right: 0;
+    bottom: -30%;
+    z-index: 0;
+   
+}
+#antisistema{
+    position: relative;
+    width: 100%;
+    
+}
+#antisistema::before {
+    content: '';
+    background-image: url('../images/Medals/antisistema.png');
+    background-repeat: no-repeat; 
+    background-size: contain;
+    background-position: center; 
+    opacity: 0.17; 
+    position: absolute;
+    top: 5%;
+    left: 0;
+    right: 0;
+    bottom: -20%;
+    z-index: 0;
+   
+}
 
 
 /* MEDIA QUERI COMPUTER VIEW */
-@media screen and (min-width: 768px){
+@media screen and (min-width: 1068px){
 
 footer{
     margin-bottom: -3px;
@@ -461,6 +645,20 @@ footer p{
     margin-top: 0%;
    
 }
+
+#ganador::before {background-image: none;}
+
 }
+
+
+
+
+
+
+
+
+
+
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
