@@ -14,6 +14,8 @@
 #cuba{
     height: 20%;
     width: 20%;
+    border: 2px var(--violet-white) solid;
+    border-radius: 10%;
 }
 :root {
     background-color: var(--violet-black);
