@@ -11,7 +11,10 @@
 }
 
 
-
+#cuba{
+    height: 10%;
+    width: 10%;
+}
 :root {
     background-color: var(--violet-black);
     font-family: "sedan SC", serif !important;
