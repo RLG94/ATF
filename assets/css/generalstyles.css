@@ -11,9 +11,9 @@
 }
 
 
-#cuba{
-    height: 20%;
-    width: 20%;
+#img-home{
+    height: 150px;
+    width: 150px;
     border: 2px var(--violet-white) solid;
     border-radius: 10%;
 }
