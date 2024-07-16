@@ -29,8 +29,8 @@ export class RankingComponent implements OnInit {
     { id: '43', nombre: 'Alejandro Barba', puntis: 4, ganador: 0, posicion: null, imagen: "https://imgur.com/Hg14P65.jpeg" },
     { id: '42', nombre: 'Alejandro Ces', puntis: 2, ganador: 0, posicion: null, imagen: "https://imgur.com/N65lQWi.jpeg" },
     { id: '41', nombre: 'Alejandro Fraga', puntis: 5, ganador: 0, posicion: null, imagen: "https://imgur.com/10ZfN8x.jpeg" },
-    { id: '45', nombre: 'Alicia Relojero', puntis: 5, ganador: 0, posicion: null, imagen: "https://imgur.com/m1EsTYR.jpeg" },
-    { id: '7', nombre: 'Alvaro Relojero', puntis:5, ganador: 0, posicion: null, imagen: "https://img.freepik.com/fotos-premium/personaje-dibujos-animados-sombrerero-loco-gafas-vapor-sombrero-generativo-ai_974533-60607.jpg" },
+    { id: '45', nombre: 'Alicia Relojero', puntis: 6, ganador: 0, posicion: null, imagen: "https://imgur.com/m1EsTYR.jpeg" },
+    { id: '7', nombre: 'Alvaro Relojero', puntis:6, ganador: 0, posicion: null, imagen: "https://img.freepik.com/fotos-premium/personaje-dibujos-animados-sombrerero-loco-gafas-vapor-sombrero-generativo-ai_974533-60607.jpg" },
     { id: '26', nombre: 'Alvaro Verde', puntis: 2, ganador: 0, posicion: null, imagen: "https://i.imgur.com/mMEBKcM.jpeg" },
     { id: '8', nombre: 'Ana Esfenoides', puntis: 7, ganador: 0, posicion: null, imagen: "https://i.imgur.com/8YWExKM.jpeg" },
     { id: '2', nombre: 'Andoni Álvarez', puntis: 0, ganador: 0, posicion: null, imagen: "https://avatars.githubusercontent.com/u/153908128?v=4"},
@@ -42,23 +42,27 @@ export class RankingComponent implements OnInit {
     { id: '11', nombre: 'Carlos Nogueira', puntis: 3, ganador: 0, posicion: null, imagen: "https://imgur.com/YvwjqvG.jpeg" },
     { id: '28', nombre: 'Cora Diaz', puntis: 4, ganador: 0, posicion: null, imagen: "https://imgur.com/zoJjy5v.jpeg" },
     { id: '29', nombre: 'Cristina Casas', puntis: 5, ganador: 0, posicion: null, imagen: "https://i.imgur.com/eQfFIe4.jpeg" },
-    { id: '30', nombre: 'Deborah Forrester', puntis: 5, ganador: 0, posicion: null, imagen: "https://i.imgur.com/LP5Idr3.jpeg" },
+    { id: '30', nombre: 'Deborah Forrester', puntis: 6, ganador: 0, posicion: null, imagen: "https://i.imgur.com/LP5Idr3.jpeg" },
     { id: '53', nombre: 'Diego Novio Belén', puntis: 5, ganador: 0, posicion: null, imagen: "https://imgur.com/J493wRE.jpeg" },
     { id: '12', nombre: 'Don Facto', puntis: 7, ganador: 1, posicion: null, imagen: "https://imgur.com/njXo3mJ.jpeg" },
-    { id: '31', nombre: 'Francisco Encabo', puntis: 5, ganador: 0, posicion: null, imagen: "https://i.imgur.com/LP5Idr3.jpeg" },
+    { id: '51', nombre: 'Helena Aurora', puntis: 3, ganador: 0, posicion: null, imagen: "https://i.imgur.com/UBrQPAZ.jpeg" },
+    { id: '31', nombre: 'Francisco Encabo', puntis: 6, ganador: 0, posicion: null, imagen: "https://i.imgur.com/LP5Idr3.jpeg" },
     { id: '13', nombre: 'Frank Díaz', puntis: 3, ganador: 0, posicion: null, imagen: "https://imgur.com/Zxott5t.jpeg" },
     { id: '14', nombre: 'Gojo Carracedo', puntis: 5, ganador: 0, posicion: null, imagen: "https://imgur.com/Dfdenvn.jpeg" },
+    { id: '49', nombre: 'Iria Ventosinos', puntis: 5, ganador: 0, posicion: null, imagen: "https://i.imgur.com/UBrQPAZ.jpeg" },
     { id: '32', nombre: 'Isa Vázquez', puntis: 1, ganador: 0, posicion: null, imagen: "https://imgur.com/hperML2.jpeg" },
     { id: '34', nombre: 'Jack Ruan', puntis: 0, ganador: 0, posicion: null, imagen: "https://imgur.com/oYAwRY0.jpeg" },
+    { id: '48', nombre: 'Jacobo Camba', puntis: 3, ganador: 0, posicion: null, imagen: "https://imgur.com/E0ntJlr.jpeg" },
     { id: '15', nombre: 'Javi Llinares', puntis: 4, ganador: 0, posicion: null, imagen: "https://media.licdn.com/dms/image/C4D03AQHoDPsk5BCx4A/profile-displayphoto-shrink_800_800/0/1663077274007?e=1721260800&v=beta&t=EFpBYLcsUE8dOJMqdmNi-mkQKPzznYYsgx0ECY0335Q" },
     { id: '44', nombre: 'Kike Lagares', puntis: 0, ganador: 0, posicion: null, imagen: "https://imgur.com/kyRyBfK.jpeg" },
-    { id: '17', nombre: 'Laura Lua', puntis: 3, ganador: 0, posicion: null, imagen: "https://i.imgur.com/UBrQPAZ.jpeg" },
+    { id: '17', nombre: 'Laura Lua', puntis: 4, ganador: 0, posicion: null, imagen: "https://i.imgur.com/UBrQPAZ.jpeg" },
     { id: '38', nombre: 'Lidia Vilanova', puntis: 0, ganador: 0, posicion: null, imagen: "https://imgur.com/vYgEpQk.jpeg" },
     { id: '40', nombre: 'Maria Ubeda', puntis: 0, ganador: 0, posicion: null, imagen: "https://imgur.com/cOPjYLv.jpeg" },
     { id: '47', nombre: 'Maria Selgas', puntis: 7, ganador: 1, posicion: null, imagen: "https://imgur.com/pjWxyj2.jpeg" },
     { id: '19', nombre: 'Marta Cortizas', puntis: 3, ganador: 0, posicion: null, imagen: "https://media.licdn.com/dms/image/D4D03AQEcNubOb84q1Q/profile-displayphoto-shrink_200_200/0/1669409423435?e=1721260800&v=beta&t=GBq2LjiH50s23cKVK2lH-6weWXDaf093brDMlpHSHis" },
     { id: '20', nombre: 'Nacho Pena', puntis: 5, ganador: 0, posicion: null, imagen: "https://imgur.com/4uzrk2s.jpeg" },
     { id: '33', nombre: 'Nana del Hue', puntis: 1, ganador: 0, posicion: null, imagen: "https://imgur.com/ynrWbQd.jpeg" },
+    { id: '50', nombre: 'Nuria Medicinas', puntis: 6, ganador: 0, posicion: null, imagen: "https://imgur.com/9gw6fF2.jpeg" },
     { id: '21', nombre: 'Nirei Orange', puntis: 2, ganador: 0, posicion: null, imagen: "https://media.licdn.com/dms/image/C4D03AQEJwPpFpT9EPg/profile-displayphoto-shrink_200_200/0/1633338767202?e=1721260800&v=beta&t=Bq-0jQePmmeHCPMx4dcQgqEehGOcPPSGG0B0nr60R5M" },
     { id: '22', nombre: 'Pablo Vigo', puntis: 0, ganador: 0, posicion: null, imagen: "https://i.imgur.com/HgwvTu8.jpeg" },
     { id: '23', nombre: 'Paloma Redondo', puntis: 3, ganador: 2, posicion: null, imagen: "https://imgur.com/kqbpMDo.jpeg" },
@@ -68,7 +72,8 @@ export class RankingComponent implements OnInit {
     { id: '35', nombre: 'Ruben Rufo', puntis: 4, ganador: 0, posicion: null, imagen: "https://i.imgur.com/HgwvTu8.jpeg" },
     { id: '24', nombre: 'Sara Villamarín', puntis: 5, ganador: 1, posicion: null, imagen: "https://imgur.com/YhAM5KQ.jpeg" },
     { id: '6', nombre: 'Victor Castro', puntis: 7, ganador: 2, posicion: null, imagen: "https://imgur.com/0Ll40Sh.jpeg" },
-    { id: '48', nombre: 'Jacobo Camba', puntis: 3, ganador: 0, posicion: null, imagen: "https://imgur.com/E0ntJlr.jpeg" },
+    
+    
     
    
    
@@ -76,9 +81,9 @@ export class RankingComponent implements OnInit {
    
    
   
-  // { id: '49', nombre: '', puntis: 0, ganador: 0, posicion: null, imagen: "" },
-  // { id: '50', nombre: '', puntis: 0, ganador: 0, posicion: null, imagen: "" },
-  // { id: '51', nombre: '', puntis: 0, ganador: 0, posicion: null, imagen: "" },
+  // ,
+  // ,
+  // 
   // { id: '52', nombre: '', puntis: 0, ganador: 0, posicion: null, imagen: "" },
   // { id: '54', nombre: '', puntis: 0, ganador: 0, posicion: null, imagen: "" },
   // { id: '55', nombre: '', puntis: 0, ganador: 0, posicion: null, imagen: "" },
