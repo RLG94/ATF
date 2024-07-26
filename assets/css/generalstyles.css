@@ -12,10 +12,11 @@
 
 
 #img-home{
-    height: 150px;
-    width: 150px;
+    height: 190px;
+    width: 190px;
     border: 2px var(--violet-white) solid;
     border-radius: 10%;
+    margin-bottom: 6%;
 }
 :root {
     background-color: var(--violet-black);
