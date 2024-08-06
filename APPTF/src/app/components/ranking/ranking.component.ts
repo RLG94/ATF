@@ -51,7 +51,7 @@ export class RankingComponent implements OnInit {
     { id: '31', nombre: 'Francisco Encabo', puntis: 6, ganador: 0, posicion: null, imagen: "https://i.imgur.com/LP5Idr3.jpeg" },
     { id: '13', nombre: 'Frank Díaz', puntis: 7, ganador: 0, posicion: null, imagen: "https://imgur.com/Zxott5t.jpeg" },
     { id: '14', nombre: 'Gojo Carracedo', puntis: 8, ganador: 0, posicion: null, imagen: "https://imgur.com/Dfdenvn.jpeg" },
-    { id: '49', nombre: 'Iria Ventosinos', puntis: 9, ganador: 0, posicion: null, imagen: "https://i.imgur.com/UBrQPAZ.jpeg" },
+    { id: '49', nombre: 'Iria Ventosinos', puntis: 9, ganador: 0, posicion: null, imagen: "https://i.imgur.com/Uknj5o9.jpeg" },
     { id: '32', nombre: 'Isa Vázquez', puntis: 2, ganador: 0, posicion: null, imagen: "https://imgur.com/hperML2.jpeg" },
     { id: '34', nombre: 'Jack Ruan', puntis: 0, ganador: 0, posicion: null, imagen: "https://imgur.com/oYAwRY0.jpeg" },
     { id: '48', nombre: 'Jacobo Camba', puntis: 4, ganador: 0, posicion: null, imagen: "https://imgur.com/E0ntJlr.jpeg" },
