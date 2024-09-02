@@ -13,9 +13,9 @@
 
 #img-home{
     height: 190px;
-    width: 190px;
+    width: 260px;
     border: 2px var(--violet-white) solid;
-    border-radius: 10%;
+    border-radius: 55%;
     margin-bottom: 6%;
 }
 :root {
