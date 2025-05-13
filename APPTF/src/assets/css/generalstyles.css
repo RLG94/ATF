@@ -2,9 +2,9 @@
     --text-color:#000000;
     --main-color:#187db8;
     --secondary-color:#cc8b1b;
-    --blue-black:#2b4c7e;
+    --blue-black:#09234b;
     --golden-black:#7D5208;
-    --red-carmesi:#992d3f;
+    --red-carmesi:#8d081a;
     --golden-white:#e9c890;
    
    
@@ -37,17 +37,26 @@
    flex-direction: column;
    line-height: 38px;
     font-size: 23px;
+    color: var(--text-color);
     letter-spacing: 0.9vw;
     font-weight: 800;
     font-family: "sedan SC", serif;
     
-    text-shadow: 1px 1px 2px var(--golden-white);
+    text-shadow: 1px 1px 4px var(--golden-white);
 }
 :root h2 {
-    font-family: "sedan SC", serif;
+    font-family: "Cinzel", serif;
+    color:var(--golden-white);
+   text-shadow: 1px 1px 1px var(--golden-white);
 }
 :root h3 {
     font-family: "sedan SC", serif;
+    color:var(--secondary-color);
+    text-shadow: 1px 1px 8px rgb(41, 2, 2);
+}
+:root p{
+    color: var(--golden-white);
+    text-shadow: 1px 1px 1px rgb(44, 37, 37);
 }
 
 /* DISPLAY NAVBAR */
@@ -80,6 +89,10 @@
     flex-wrap:nowrap;
     top: -3px;
 }
+#logrosNav{
+    display: flex;
+   
+}
 #botonMenu{ 
    position: absolute;
    left: 77vw;
@@ -88,9 +101,16 @@
 #p1{
     font-size: 35px;
     margin-top: -11px;
+    color:var(--golden-black);
     font-weight: 900;
     margin-left: 55px;
     -webkit-text-stroke: 0.1px rgba(193, 184, 155, 0.219);
+}
+#imgNew{
+    margin-left: 5%;
+    width: 13%;
+    height: 10%;
+
 }
 
 #p1,#p2{
@@ -255,7 +275,7 @@ header i{
 footer{
     background-color: var(--secondary-color);
     border-top: 4px solid var(--red-carmesi);
-    color: var(--golden-white);
+    color: var(--main-color);
     display: flex;
     justify-content: space-between;
     flex-direction: row;
@@ -271,11 +291,11 @@ footer p{
     margin-top: 1%;
     text-align: center;
     font-size: smaller;
-    color: var(--blue-black);
+     color: var(--blue-black) !important;
     font-family: "Sedan SC", serif;
     font-weight: 900;
     -webkit-text-stroke: 0.1px rgba(193, 184, 155, 0.219);
-    text-shadow: 0px 0px 0.5px rgb(3, 3, 3);
+    text-shadow: 0px 0px 0.5px rgb(248, 244, 244) !important;
     padding-left: 1.5%;
     padding-right: 1.5%;
     
@@ -661,10 +681,25 @@ footer p{
 
 #ganador::before {background-image: none;}
 
+
+#imgNew{
+    margin-left: 2%;
+
+    height: 55%;
+    margin-bottom: none;
+    padding-bottom: none;
+    width: 10%;
 }
 
 
 
+
+
+
+
+
+
+}
 
 
 
