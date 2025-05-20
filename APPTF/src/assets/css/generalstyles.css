@@ -15,7 +15,12 @@
   font-family: "Cinzel", serif;
   font-weight: 800;
 }
-
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  width: 100%;
+}
 
 #img-home{
     height: 190px;
@@ -31,6 +36,8 @@
     
     
 }
+
+
 
 :root h1 {
    display: flex;
@@ -59,6 +66,7 @@
     text-shadow: 1px 1px 1px rgb(44, 37, 37);
 }
 
+
 /* DISPLAY NAVBAR */
 
 #generalNavigation{
@@ -84,6 +92,7 @@
     flex-direction: row;
     font-weight: 800;
     font-family: "Sedan SC", serif;
+    
     
     font-weight: bolder;
     flex-wrap:nowrap;
@@ -216,6 +225,7 @@ li{
 section strong{
      font-family: "cinzel" ,serif;
 }
+
 /* Seccion REGLAMENTO */
 
 #rulesNow #title strong{
