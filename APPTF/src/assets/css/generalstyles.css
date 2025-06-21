@@ -701,8 +701,23 @@ hr{
     text-shadow: 1px 1px 1px black !important;
 }
 
-.overflow-logros{
+.conquista {
+    background-image: url("/assets/images/logros/backgrounds/conquista.jpg");
+}
+
+.desfase {
     background-image: url("/assets/images/logros/backgrounds/desfase.jpg");
+}
+
+.olimpiadas {
+    background-image: url("/assets/images/logros/backgrounds/olimpiadas.jpg");
+}
+
+.inspiracion {
+    background-image: url("/assets/images/logros/backgrounds/inspiracion.jpg");
+}
+
+.overflow-logros{
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;

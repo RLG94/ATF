@@ -5,8 +5,31 @@
     "dificil": []
   },
   "inspiracion": {
-    "facil": [],
-    "medio": [],
+    "facil": [
+      {
+        "nombre": "Esto es temporal",
+        "descripcion": "Bébete un cubata del revés en un solo trago.",
+        "obtenido": [{ "nombre": "Nirei", "fecha": "2025-07-04" }],
+        "imagen": "/assets/images/logros/icons/cubatazo.jpg",
+        "requisitos": []
+      },
+      {
+        "nombre": "Mañaneo",
+        "descripcion": "Permanece de fiesta hasta las 7:00 AM.",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/mañaneo.jpg",
+        "requisitos": []
+      }
+    ],
+    "medio": [
+      {
+        "nombre": "Esto es temporal",
+        "descripcion": "Bébete un cubata del revés en un solo trago.",
+        "obtenido": [{ "nombre": "Nirei", "fecha": "2025-07-04" }],
+        "imagen": "/assets/images/logros/icons/cubatazo.jpg",
+        "requisitos": []
+      }
+    ],
     "dificil": []
   },
   "olimpiadas": {

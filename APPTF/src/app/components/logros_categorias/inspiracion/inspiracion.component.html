@@ -1,6 +1,59 @@
-<p>inspiracion works!</p>
+<h1 class="titulo-logro">INSPIRACION</h1>
+<h2 class="subtitulo-logro">RELLENAME</h2>
 
+<div>
+  <div class="overflow-logros inspiracion">
+    <div class="logros-row facil">
+      <div
+        *ngFor="let logro of logros('facil'); let i = index"
+        class="icono-logros"
+        [class.logro-obtenido]="logroObtenido('facil', i)"
+        [class.logro-bloqueado]="logroBloqueado('facil', i)"
+        (click)="mostrarDetalle('facil', i)"
+      >
+        <img src="{{ logro?.imagen }}" />
+      </div>
+    </div>
+    <div class="separador">
+      <p>1 punti</p>
+      <hr />
+    </div>
+    <div class="logros-row medio">
+      <div
+        *ngFor="let logro of logros('medio'); let i = index"
+        class="icono-logros logro1"
+        [class.logro-obtenido]="logroObtenido('medio', i)"
+        [class.logro-bloqueado]="logroBloqueado('medio', i)"
+        (click)="mostrarDetalle('medio', i)"
+      >
+        <img src="{{ logro?.imagen }}" />
+      </div>
+    </div>
+    <div class="separador">
+      <p>2 puntis</p>
+      <hr />
+    </div>
+    <div class="logros-row dificil">
+      <div
+        *ngFor="let logro of logros('dificil'); let i = index"
+        class="icono-logros logro1"
+        [class.logro-obtenido]="logroObtenido('dificil', i)"
+        [class.logro-bloqueado]="logroBloqueado('dificil', i)"
+        (click)="mostrarDetalle('dificil', i)"
+      >
+        <img src="{{ logro?.imagen }}" />
+      </div>
+    </div>
+    <div class="separador">
+      <p>3 puntis</p>
+      <hr />
+    </div>
+    <p class="firma">Diseño original de Andrea Ogando</p>
+  </div>
+</div>
 
+<button [routerLink]="['/logros']" routerLinkActive="router-link-active">
+  Volver
+</button>
 
-
-<button [routerLink]="['/logros']" routerLinkActive="router-link-active">Volver</button>
+<app-detalle-logro [indice]="indice"></app-detalle-logro>
