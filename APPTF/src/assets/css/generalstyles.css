@@ -801,9 +801,8 @@ footer p{
     width: 30%;
 
 }
-.i
 
-
+}
 
 
 
@@ -828,4 +827,11 @@ html, body { height: 100%; }
 
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
+
+.detalle-logro {
+    width: 100%;
+    background-color: var(--red-carmesi);
+    position: fixed;
+    bottom: 0;
+    left: 0;
 }

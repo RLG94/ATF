@@ -8,17 +8,24 @@ import { ErrorComponent } from './components/error/error.component';
 import { ReglamentoComponent } from './components/reglamento/reglamento.component';
 import { HomeComponent } from './components/home/home.component';
 import { PremiosComponent } from './components/premios/premios.component';
-
-
-
+import { DetalleLogroComponent } from './components/detalle-logro/detalle-logro.component';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, NavbarComponent, RouterModule, RankingComponent, CalendarioComponent, ErrorComponent, ReglamentoComponent, HomeComponent,PremiosComponent],
+  imports: [
+    RouterOutlet,
+    NavbarComponent,
+    RouterModule,
+    RankingComponent,
+    CalendarioComponent,
+    ErrorComponent,
+    ReglamentoComponent,
+    HomeComponent,
+    PremiosComponent,
+  ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss',
-  
 })
 export class AppComponent {
   title = 'APPTF';

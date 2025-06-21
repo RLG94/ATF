@@ -1,0 +1,33 @@
+{
+  "conquista": {
+    "facil": [
+      {
+        "nombre": "Cubatazzo",
+        "descripcion": "Bébete un cubata de un solo trago.",
+        "obtenido": [
+          { "nombre": "Víctor", "fecha": "2025-06-23" },
+          { "nombre": "Nirei", "fecha": "2025-07-04" }
+        ],
+        "imagen": "yaveremos.jpg",
+        "requisitos": []
+      }
+    ],
+    "medio": [],
+    "dificil": []
+  },
+  "inspiracion": {
+    "facil": [],
+    "medio": [],
+    "dificil": []
+  },
+  "olimpiadas": {
+    "facil": [],
+    "medio": [],
+    "dificil": []
+  },
+  "desfase": {
+    "facil": [],
+    "medio": [],
+    "dificil": []
+  }
+}
