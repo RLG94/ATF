@@ -1,4 +1,20 @@
-<div class="detalle-logro">
-  <p>{{ logro.nombre }}</p>
-  <p>{{ logro.descripcion }}</p>
+<div *ngIf="mostrar" class="detalle-logro">
+  <button class="boton-cerrar" (click)="cerrar()">
+    <i class="fas fa-chevron-down"></i>
+  </button>
+  <p>{{ logroBloqueado() ? "Bloqueado" : logro?.nombre }}</p>
+  <p [class.logro-bloqueado]="logroBloqueado()">
+    <img src="{{ logro?.imagen }}" />
+  </p>
+  <p *ngIf="!logroBloqueado()">{{ logro?.descripcion }}</p>
+  <div *ngIf="logroBloqueado()">
+    <p>Para ver este logro deben completarse ciertos logros anteriores.</p>
+  </div>
+  <div class="lista-obtenido" *ngIf="logroObtenido()">
+    <p>Obtenido por:</p>
+    ·
+    <span *ngFor="let fiestero of logro?.obtenido">
+      {{ fiestero.nombre }} en {{ formatearFecha(fiestero.fecha) }} ·
+    </span>
+  </div>
 </div>

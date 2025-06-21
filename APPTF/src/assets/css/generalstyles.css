@@ -692,44 +692,76 @@ hr{
 
 
 .firma{
-    position: absolute;
-    top: 80%;
-    left: 26%;
    font-size: 1.2vh;
-
 }
 
 
 
 .subtitulo-logro{font-size: 96% !important;
     text-shadow: 1px 1px 1px black !important;
-
-
 }
 
 .overflow-logros{
-    position: absolute;
-      display: flex;
+    background-image: url("/assets/images/logros/backgrounds/desfase.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 30em;
+    padding: 4em 0.5em 0em 0.5em;
+}
+.logros-row {
+    display: flex;
     flex-direction: row;
     justify-content: space-around;
-    top: 25%;
-    left: 15%;
-    width: 70%;
-    height: 80%;
 }
-.icono-logros{
-    z-index: 4;
-    
-  
+.icono-logros{  
     background-color: #cc8b1b;
-    width: 18%;
-    height: 8%;
+    width: 3.2em;
+    height: 3.2em;
     border: 2px solid black;
     border-radius: 3px;
 }
+.icono-logros > img {
+    width: 100%
+}
+.logro-obtenido {
+    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.5),
+                0 0 20px 10px rgba(255, 255, 255, 0.3),
+                0 0 30px 15px rgba(255, 255, 255, 0.2);
+    transition: box-shadow 0.3s ease;
+}
+.logro-bloqueado > img {
+    filter: grayscale(100%);
+}
+.lista-obtenido {
+    font-size: smaller;
+    color: var(--golden-white);
+    text-shadow: 1px 1px 1px rgb(44, 37, 37);
+}
+.lista-obtenido ul {
+    padding: 0;
+}
+.lista-obtenido li{
+    list-style-type: none;
+    padding: 0;
+}
 
-
-
+.separador {
+    font-size: 1.4vh;
+}
+.separador p {
+    width: 6em;
+    margin: 0 auto 0 auto;
+    background-color: #00000077;
+    border-radius: 5%;
+}
+.separador hr {
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+}
 
 
 
@@ -776,32 +808,10 @@ footer p{
     width: 10%;
 }
 
-
-
 .img-background-logros{
     position: relative;
     width: 60%;
-   
 }
-
-
-.firma{
-    position: absolute;
-    top: 80%;
-    left: 43%;
-    font-size: 1.6vh;
-
-}
-
-
-.overflow-logros{
-   
-    top: 16%;
-    left:35%;
-    width: 30%;
-
-}
-
 }
 
 
@@ -834,4 +844,13 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
     position: fixed;
     bottom: 0;
     left: 0;
+    padding: 5px 20px 20px 20px;
+    z-index: 2000;
+}
+
+.boton-cerrar {
+    background-color: transparent;
+    border: none;
+    color: var(--golden-white);
+    width: 100%;
 }
