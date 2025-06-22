@@ -5,7 +5,7 @@
     --blue-black:#09234b;
     --golden-black:#7D5208;
     --red-carmesi:#8d081a;
-    --golden-white:#e9c890;
+    --golden-white:#dac7a6;
    
    
 }
@@ -49,12 +49,12 @@ html, body {
     font-weight: 800;
     font-family: "sedan SC", serif;
     
-    text-shadow: 1px 1px 4px var(--golden-white);
+    text-shadow: 1px 1.5px 3px var(--golden-white);
 }
 :root h2 {
     font-family: "Cinzel", serif;
     color:var(--golden-white);
-   text-shadow: 1px 1px 1px var(--golden-white);
+   text-shadow: 1px 1px 3px var(--golden-white);
 }
 :root h3 {
     font-family: "sedan SC", serif;
@@ -676,6 +676,189 @@ hr{
    
 }
 
+/* LOGROS GENERAL */
+
+.boton_logros_volver{
+    background-color: var(--golden-black);
+  color: var(--golden-white);
+  font-size: large;
+  margin-top: 1em;
+ padding: 6px 16px 6px 16px ;
+ border-radius: 20px;
+ border: none;
+}
+
+
+#btn_logros_conquista{
+    background-image: url("/assets/images/logros/backgrounds/conquista.jpg");
+    background-size: cover;
+
+    
+
+
+}
+#btn_logros_conquista>h1{
+    color: var(--golden-white);
+    background-color: #00000088;
+    padding: 0px 10px 0px 10px;
+    margin-top: 15px;
+    text-shadow: none;
+    border-radius: 20px; 
+}
+#btn_logros_desfase{
+    background-image: url("/assets/images/logros/backgrounds/desfase.jpg");
+    background-size: cover;
+}
+#btn_logros_desfase>h1{
+    color: var(--golden-white);
+    background-color: #00000088;
+    padding: 0px 10px 0px 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-shadow: none;
+    border-radius: 20px; 
+}
+#btn_logros_inspiracion{
+    background-image: url("/assets/images/logros/backgrounds/inspiracion.jpg");
+    background-size: cover;
+}
+#btn_logros_inspiracion>h1{
+    color: var(--golden-white);
+    background-color: #00000088;
+    padding: 0px 10px 0px 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-shadow: none;
+    border-radius: 20px; 
+}
+
+#btn_logros_olimpiadas{
+    background-image: url("/assets/images/logros/backgrounds/olimpiadas.jpg");
+    background-size: cover;
+}
+#btn_logros_olimpiadas>h1{
+    color: var(--golden-white);
+    background-color: #00000088;
+    padding: 0px 10px 0px 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-shadow: none;
+    border-radius: 20px; 
+}
+/* LOGROS PESTAÑAS */
+
+
+
+.firma{
+   font-size: 1.2vh;
+}
+
+
+
+.subtitulo-logro{font-size: 96% !important;
+    text-shadow: 1px 1px 1px black !important;
+}
+
+.conquista {
+    background-image: url("/assets/images/logros/backgrounds/conquista.jpg");
+}
+
+.desfase {
+    background-image: url("/assets/images/logros/backgrounds/desfase.jpg");
+}
+
+.olimpiadas {
+    background-image: url("/assets/images/logros/backgrounds/olimpiadas.jpg");
+}
+
+.inspiracion {
+    background-image: url("/assets/images/logros/backgrounds/inspiracion.jpg");
+}
+
+.overflow-logros{
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 30em;
+    padding: 4em 0.5em 0em 0.5em;
+}
+.logros-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.icono-logros{  
+    background-color: #cc8b1b;
+    width: 3.2em;
+    height: 3.2em;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+.icono-logros > img {
+    width: 100%
+}
+.logro-obtenido {
+    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.5),
+                0 0 20px 10px rgba(255, 255, 255, 0.3),
+                0 0 30px 15px rgba(255, 255, 255, 0.2);
+    transition: box-shadow 0.3s ease;
+}
+.logro-bloqueado > img {
+    filter: grayscale(100%);
+}
+.lista-obtenido {
+    font-size: smaller;
+    color: var(--golden-white);
+    text-shadow: 1px 1px 1px rgb(44, 37, 37);
+}
+.lista-obtenido ul {
+    padding: 0;
+}
+.lista-obtenido li{
+    list-style-type: none;
+    padding: 0;
+}
+
+.separador {
+    font-size: 1.4vh;
+}
+.separador p {
+    width: 6em;
+    margin: 0 auto 0 auto;
+    background-color: #00000077;
+    border-radius: 5%;
+}
+.separador hr {
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* MEDIA QUERI COMPUTER VIEW */
 @media screen and (min-width: 1068px){
@@ -701,14 +884,10 @@ footer p{
     width: 10%;
 }
 
-
-
-
-
-
-
-
-
+.img-background-logros{
+    position: relative;
+    width: 60%;
+}
 }
 
 
@@ -717,6 +896,39 @@ footer p{
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 html, body { height: 100%; }
+
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
+
+.detalle-logro {
+    width: 100%;
+    
+
+    background-color: var(--red-carmesi);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 5px 20px 20px 20px;
+    z-index: 2000;
+}
+
+.boton-cerrar {
+    background-color: transparent;
+    border: none;
+    color: var(--golden-white);
+    width: 100%;
+}
