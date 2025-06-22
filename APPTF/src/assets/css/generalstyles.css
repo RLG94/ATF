@@ -189,7 +189,6 @@ body{
 }
 section{
     position: relative;
-    display: flex;
     text-align: center;
     margin: 0px auto;
     align-items: center;
@@ -764,6 +763,7 @@ hr{
 
 .conquista {
     background-image: url("https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/backgrounds/conquista.jpg");
+   
 }
 
 .desfase {
@@ -772,10 +772,12 @@ hr{
 
 .olimpiadas {
     background-image: url("https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/backgrounds/olimpiadas.jpg");
+   
 }
 
 .inspiracion {
     background-image: url("https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/backgrounds/inspiracion.jpg");
+   
 }
 
 .overflow-logros{
@@ -785,9 +787,12 @@ hr{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    border-top: solid 11px var(--golden-black);
+   
     height: 30em;
     padding: 4em 0.5em 0em 0.5em;
 }
+
 .logros-row {
     display: flex;
     flex-direction: row;
