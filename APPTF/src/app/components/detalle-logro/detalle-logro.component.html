@@ -2,7 +2,7 @@
   <button class="boton-cerrar" (click)="cerrar()">
     <i class="fas fa-chevron-down"></i>
   </button>
-  <p>{{ logroBloqueado() ? "Bloqueado" : logro?.nombre }}</p>
+  <p id="titulo-logro">{{ logroBloqueado() ? "Bloqueado" : logro?.nombre }}</p>
   <p [class.logro-bloqueado]="logroBloqueado()">
     <img src="{{ logro?.imagen }}" />
   </p>
@@ -11,10 +11,10 @@
     <p>Para ver este logro deben completarse ciertos logros anteriores.</p>
   </div>
   <div class="lista-obtenido" *ngIf="logroObtenido()">
-    <p>Obtenido por:</p>
+    <p id="titulo-obtenido">Obtenido por:</p>
     ·
     <span *ngFor="let fiestero of logro?.obtenido">
-      {{ fiestero.nombre }} en {{ formatearFecha(fiestero.fecha) }} ·
+      {{ fiestero.nombre }} ·
     </span>
   </div>
 </div>

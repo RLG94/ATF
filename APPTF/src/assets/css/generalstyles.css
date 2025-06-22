@@ -11,10 +11,13 @@
 }
 .estilo-glorioso {
   color: var(--text-color);
-  text-shadow: 1px 1px 5px rgb(255, 255, 255);
+  text-shadow: 1px 1px 9px rgb(255, 255, 255);
   font-family: "Cinzel", serif;
   font-weight: 800;
+  
 }
+
+
 html, body {
   margin: 0;
   padding: 0;
@@ -26,7 +29,7 @@ html, body {
     height: 190px;
     width: 260px;
     border: 2px var(--red-carmesi) solid;
-    border-radius: 55%;
+    border-radius: 8%;
     margin-bottom: 6%;
 }
 :root {
@@ -37,19 +40,31 @@ html, body {
     
 }
 
-
+#titulo-logro{
+    color: var(--golden-white);
+    font-size: large;
+    text-shadow: 2px 2px 5px var(--golden-black);
+    background-color: #dac7a648;
+   margin-left: 25%;
+   margin-right: 25%;
+   border-radius: 12px;
+}
+#titulo-obtenido{
+    text-decoration: underline 1px #dac7a6;
+    text-shadow: none;
+}
 
 :root h1 {
    display: flex;
    flex-direction: column;
    line-height: 38px;
     font-size: 23px;
-    color: var(--text-color);
+    color: var(--golden-white);
     letter-spacing: 0.9vw;
     font-weight: 800;
     font-family: "sedan SC", serif;
-    
-    text-shadow: 1px 1.5px 3px var(--golden-white);
+    font-size: xx-large;
+    text-shadow: 1px 1.5px 8px var(--golden-black);
 }
 :root h2 {
     font-family: "Cinzel", serif;
@@ -676,7 +691,33 @@ hr{
 }
 
 /* LOGROS GENERAL */
+.botonera {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 5px;
+  max-width: 300px; 
+  margin: 0 auto;
+  overflow: hidden;
+}
+.btn_logros h1 {
+    font-size: 100%;
+}
 
+ 
+
+.btn_logros{
+  padding: 10px;
+  text-align: center;
+  font-size: 1.7em;
+  font-weight: bold;
+  width: 100%;
+  height: 4.5em; 
+  background-color: #f0f0f0;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  cursor: pointer;
+}
 .boton_logros_volver{
     background-color: var(--golden-black);
   color: var(--golden-white);
@@ -899,11 +940,28 @@ section{display:flex}
 
 
 
+.btn_logros h1 {
+    font-size: 1em;   
+}
 
+ .botonera {
+  max-width: 500px; 
 
+}
 
+ 
 
-
+.btn_logros{
+  padding: 10px;
+  text-align: center;
+  
+  font-weight: bold;
+  width: 100%;
+  height: 4.5em; 
+  background-color: #f0f0f0;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  }
 
 
 
@@ -923,7 +981,7 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .detalle-logro {
     width: 100%;
     
-
+    border-top: 8px double var(--secondary-color);
     background-color: var(--red-carmesi);
     position: fixed;
     bottom: 0;
