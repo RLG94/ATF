@@ -1,48 +1,175 @@
 {
   "conquista": {
-    "facil": [],
-    "medio": [],
-    "dificil": []
-  },
-  "inspiracion": {
-    "facil": [
+     "facil": [
       {
-        "nombre": "Esto es temporal",
-        "descripcion": "Bébete un cubata del revés en un solo trago.",
-        "obtenido": [{ "nombre": "Nirei", "fecha": "2025-07-04" }],
-        "imagen": "/assets/images/logros/icons/cubatazo.jpg",
+        "nombre": "Minifundio",
+        "descripcion": "Puntúa en algún pueblo de menos de 1000 habitantes",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/minifundio.jpg",
         "requisitos": []
       },
       {
-        "nombre": "Mañaneo",
-        "descripcion": "Permanece de fiesta hasta las 7:00 AM.",
+        "nombre": "Aire Fresco",
+        "descripcion": "Puntúa en el campo, o en algún lugar alejado de la urbe",
         "obtenido": [],
-        "imagen": "/assets/images/logros/icons/mañaneo.jpg",
+        "imagen": "/assets/images/logros/icons/aire-fresco.jpg",
+        "requisitos": []
+      },
+      {
+        "nombre": "Topo",
+        "descripcion": "Puntúa en algún lugar por debajo del nivel del suelo",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/topo.jpg",
         "requisitos": []
       }
     ],
     "medio": [
       {
-        "nombre": "Esto es temporal",
-        "descripcion": "Bébete un cubata del revés en un solo trago.",
-        "obtenido": [{ "nombre": "Nirei", "fecha": "2025-07-04" }],
-        "imagen": "/assets/images/logros/icons/cubatazo.jpg",
+        "nombre": "Guiri Local",
+        "descripcion": "Puntúa fuera de Galicia",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/guiri-local.jpg",
+        "requisitos": [0]
+      },
+      {
+        "nombre": "Brebajes Místicos",
+        "descripcion": "Consigue probar 4 bebidas icónicas : Floreros, Maxia, Tumbadioses y Verditas",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/brebajes-misticos.jpg",
+        "requisitos": [1,2]
+      }
+    ],
+    "dificil": [
+      {
+        "nombre": "Expatriado",
+        "descripcion": "Puntúa en el extranjero",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/expatriado.jpg",
+        "requisitos": [0]
+      },
+      {
+        "nombre": "Lobo de mar",
+        "descripcion": "Celebra fiesta en una embarcación (no requiere 2 AM)",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/lobo-de-mar.jpg",
+        "requisitos": [0]
+      }
+    ]
+  },
+  "inspiracion": {
+    "facil": [
+      {
+        "nombre": "Altruísta",
+        "descripcion": "Colabora en algo relacionado con todo el sistema ATF ",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/altruista.jpg",
+        "requisitos": []
+      },
+      {
+        "nombre": "Takero",
+        "descripcion": "Realiza un graffiti con las siglas ATF",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/takero.jpg",
+        "requisitos": []
+      },
+       {
+        "nombre": "Lienzo Humano",
+        "descripcion": "Consigue que un borracho random pinte tu cuerpo",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/lienzo-humano.jpg",
         "requisitos": []
       }
     ],
-    "dificil": []
+    "medio": [
+      {
+        "nombre": "Cubatin Tarantino",
+        "descripcion": "Dirige a borrachos desconocidos para que representen una pequeña obra de teatro",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/cubatin-tarantino.jpg",
+        "requisitos": [1]
+      },
+       {
+        "nombre": "Alcoholic Rhapsody",
+        "descripcion": "Cantad una ópera ATF en mitad de la calle y puntuad esa noche",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/alcoholic-rhapsody.jpg",
+        "requisitos": [2]
+      }
+    ],
+    "dificil": [
+       {
+        "nombre": "Artista Consagrado",
+        "descripcion": "Crea cualquier tipo de obra artística de calidad relacionada con el ATF. Todo el ATF debe aceptarla por decisión unánime",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/artista-consagrado.jpg",
+        "requisitos": [0,1]
+      }
+    ]
   },
   "olimpiadas": {
-    "facil": [],
-    "medio": [],
-    "dificil": []
+    "facil": [ {
+        "nombre": "Tahúr",
+        "descripcion": "Gana una partida de ATF Heroes",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/tahur.jpg",
+        "requisitos": []
+      },
+      {
+        "nombre": "Alehop!",
+        "descripcion": "Salta al potro a un desconocido...Y que te salte el a ti!",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/alehop.jpg",
+        "requisitos": []
+      },
+      {
+        "nombre": "WOD",
+        "descripcion": "Haz 5 sentadillas (rompiendo paralelo) con un cubata en la cabeza.",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/wod.jpg",
+        "requisitos": []
+      },  {
+        "nombre": "Buena Suelte",
+        "descripcion": "Cuélate por algún AGUJELO DE LA BUENA SUELTE!",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/buena-suelte.jpg",
+        "requisitos": []
+      }
+    ],
+    "medio": [{
+        "nombre": "Mula de carga",
+        "descripcion": "Avanza con un miembro ATF a caballito durante al menos 300metros",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/mula-de-carga.jpg",
+        "requisitos": [1,2]
+      },
+      {
+        "nombre": "Velocista Imparable",
+        "descripcion": "Gana una carrera sin pantalones",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/velocista-imparable.jpg",
+        "requisitos": [3,2]
+      }],
+    "dificil": [{
+        "nombre": "Mar Adentro",
+        "descripcion": "Báñate en el mar (EN CALMA)",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/mar-adentro.jpg",
+        "requisitos": [0]
+      },
+      {
+        "nombre": "La Imposible",
+        "descripcion": "Haz una voltereta con un cubata en la mano sin derramar nada de contenido. No puedes usar una tapa sobre el vaso",
+        "obtenido": [],
+        "imagen": "/assets/images/logros/icons/la-imposible.jpg",
+        "requisitos": [1]
+      }]
   },
   "desfase": {
     "facil": [
       {
         "nombre": "Reversazzo",
         "descripcion": "Bébete un cubata del revés en un solo trago.",
-        "obtenido": [{ "nombre": "Nirei", "fecha": "2025-07-04" }],
+        "obtenido": [],
         "imagen": "/assets/images/logros/icons/cubatazo.jpg",
         "requisitos": []
       },
@@ -57,23 +184,23 @@
         "nombre": "Pudiente",
         "descripcion": "Púlete al menos 60€ en una fiesta.",
         "obtenido": [],
-        "imagen": "/assets/images/logros/icons/cubatazo.jpg",
+        "imagen": "/assets/images/logros/icons/pudiente.jpg",
         "requisitos": []
       }
     ],
     "medio": [
       {
         "nombre": "Guardería",
-        "descripcion": "Puntua ATF con algún menor (-18 años) en el grupo.",
+        "descripcion": "Puntúa ATF con algún menor (-18 años) en el grupo.",
         "obtenido": [],
-        "imagen": "/assets/images/logros/icons/cubatazo.jpg",
+        "imagen": "/assets/images/logros/icons/guarderia.jpg",
         "requisitos": [0]
       },
       {
         "nombre": "Geriátrico",
-        "descripcion": "Puntua ATF con algún viejo (+60 años) en el grupo.",
+        "descripcion": "Puntúa ATF con algún viejo (+60 años) en el grupo.",
         "obtenido": [],
-        "imagen": "/assets/images/logros/icons/cubatazo.jpg",
+        "imagen": "/assets/images/logros/icons/geriatrico.jpg",
         "requisitos": [1]
       }
     ],
@@ -82,14 +209,14 @@
         "nombre": "Politoxicómano",
         "descripcion": "Consume al menos tres(3) drogas ilegales la misma noche de fiesta.",
         "obtenido": [],
-        "imagen": "/assets/images/logros/icons/cubatazo.jpg",
+        "imagen": "/assets/images/logros/icons/politoxicomano.jpg",
         "requisitos": [0]
       },
       {
         "nombre": "Derrochador",
-        "descripcion": "Malgasta al menos 200€ en una fiesta.",
+        "descripcion": "(Mal)Gasta al menos 200€ en una fiesta.",
         "obtenido": [],
-        "imagen": "/assets/images/logros/icons/cubatazo.jpg",
+        "imagen": "/assets/images/logros/icons/derrochador.jpg",
         "requisitos": [1]
       }
     ]

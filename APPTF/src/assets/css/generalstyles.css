@@ -54,7 +54,7 @@ html, body {
 :root h2 {
     font-family: "Cinzel", serif;
     color:var(--golden-white);
-   text-shadow: 1px 1px 1px var(--golden-white);
+   text-shadow: 1px 1px 3px var(--golden-white);
 }
 :root h3 {
     font-family: "sedan SC", serif;
@@ -678,17 +678,78 @@ hr{
 
 /* LOGROS GENERAL */
 
+.boton_logros_volver{
+    background-color: var(--golden-black);
+  color: var(--golden-white);
+  font-size: large;
+  margin-top: 1em;
+ padding: 6px 16px 6px 16px ;
+ border-radius: 20px;
+ border: none;
+}
 
+
+#btn_logros_conquista{
+    background-image: url("/assets/images/logros/backgrounds/conquista.jpg");
+    background-size: cover;
+
+    
+
+
+}
+#btn_logros_conquista>h1{
+    color: var(--golden-white);
+    background-color: #00000088;
+    padding: 0px 10px 0px 10px;
+    margin-top: 15px;
+    text-shadow: none;
+    border-radius: 20px; 
+}
+#btn_logros_desfase{
+    background-image: url("/assets/images/logros/backgrounds/desfase.jpg");
+    background-size: cover;
+}
+#btn_logros_desfase>h1{
+    color: var(--golden-white);
+    background-color: #00000088;
+    padding: 0px 10px 0px 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-shadow: none;
+    border-radius: 20px; 
+}
+#btn_logros_inspiracion{
+    background-image: url("/assets/images/logros/backgrounds/inspiracion.jpg");
+    background-size: cover;
+}
+#btn_logros_inspiracion>h1{
+    color: var(--golden-white);
+    background-color: #00000088;
+    padding: 0px 10px 0px 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-shadow: none;
+    border-radius: 20px; 
+}
+
+#btn_logros_olimpiadas{
+    background-image: url("/assets/images/logros/backgrounds/olimpiadas.jpg");
+    background-size: cover;
+}
+#btn_logros_olimpiadas>h1{
+    color: var(--golden-white);
+    background-color: #00000088;
+    padding: 0px 10px 0px 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-shadow: none;
+    border-radius: 20px; 
+}
 /* LOGROS PESTAÑAS */
 
-.img-background-logros{
-    border: solid 3px var(--blue-black);
-    border-radius: 4%;
-    position: relative;
-    width: 100%;
-    height: 100%;
-    bottom: 10px;
-}
 
 
 .firma{
@@ -855,6 +916,8 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
 .detalle-logro {
     width: 100%;
+    
+
     background-color: var(--red-carmesi);
     position: fixed;
     bottom: 0;
