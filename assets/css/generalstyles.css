@@ -876,6 +876,7 @@ footer p{
     margin-top: 0%;
    
 }
+section{display:flex}
 
 #ganador::before {background-image: none;}
 
