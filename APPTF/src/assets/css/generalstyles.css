@@ -690,12 +690,9 @@ hr{
 
 
 #btn_logros_conquista{
-    background-image: url("/assets/images/logros/backgrounds/conquista.jpg");
+    background-image: url("https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/backgrounds/conquista.jpg");
     background-size: cover;
-
-    
-
-
+    border-radius: 8px;
 }
 #btn_logros_conquista>h1{
     color: var(--golden-white);
@@ -706,8 +703,9 @@ hr{
     border-radius: 20px; 
 }
 #btn_logros_desfase{
-    background-image: url("/assets/images/logros/backgrounds/desfase.jpg");
+    background-image: url("https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/backgrounds/desfase.jpg");
     background-size: cover;
+      border-radius: 8px;
 }
 #btn_logros_desfase>h1{
     color: var(--golden-white);
@@ -720,8 +718,9 @@ hr{
     border-radius: 20px; 
 }
 #btn_logros_inspiracion{
-    background-image: url("/assets/images/logros/backgrounds/inspiracion.jpg");
+    background-image: url("https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/backgrounds/inspiracion.jpg");
     background-size: cover;
+      border-radius: 8px;
 }
 #btn_logros_inspiracion>h1{
     color: var(--golden-white);
@@ -735,8 +734,9 @@ hr{
 }
 
 #btn_logros_olimpiadas{
-    background-image: url("/assets/images/logros/backgrounds/olimpiadas.jpg");
+    background-image: url("https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/backgrounds/olimpiadas.jpg");
     background-size: cover;
+      border-radius: 8px;
 }
 #btn_logros_olimpiadas>h1{
     color: var(--golden-white);
@@ -763,19 +763,19 @@ hr{
 }
 
 .conquista {
-    background-image: url("/assets/images/logros/backgrounds/conquista.jpg");
+    background-image: url("https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/backgrounds/conquista.jpg");
 }
 
 .desfase {
-    background-image: url("/assets/images/logros/backgrounds/desfase.jpg");
+    background-image: url("https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/backgrounds/desfase.jpg");
 }
 
 .olimpiadas {
-    background-image: url("/assets/images/logros/backgrounds/olimpiadas.jpg");
+    background-image: url("https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/backgrounds/olimpiadas.jpg");
 }
 
 .inspiracion {
-    background-image: url("/assets/images/logros/backgrounds/inspiracion.jpg");
+    background-image: url("https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/backgrounds/inspiracion.jpg");
 }
 
 .overflow-logros{
