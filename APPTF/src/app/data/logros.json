@@ -74,7 +74,7 @@
       {
         "nombre": "Takero",
         "descripcion": "Realiza un graffiti con las siglas ATF",
-        "obtenido": [{ "nombre": "Víctor Castro", "fecha": "2025-06-23" }, { "nombre": "Roberto Lago", "fecha": "2025-06-23" }, { "nombre": "Andrea Ogando", "fecha": "2025-06-23" }, { "nombre": "Nirei Orange", "fecha": "2025-06-23" }],
+        "obtenido": [{ "nombre": "Roberto Lago", "fecha": "2025-06-23" },{ "nombre": "Víctor Castro", "fecha": "2025-06-23" }, { "nombre": "Nirei Orange", "fecha": "2025-06-23" },{ "nombre": "Andrea Ogando", "fecha": "2025-06-23" }],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/takero.jpg",
         "requisitos": []
       },
@@ -147,7 +147,8 @@
           { "nombre": "Deborah Forrester", "fecha": "2025-06-23" },
           { "nombre": "Breogán Sousa", "fecha": "2025-06-23" },
           { "nombre": "Andrea Ogando", "fecha": "2025-06-23" },
-          { "nombre": "Roberto Lago", "fecha": "2025-06-23" }
+          { "nombre": "Roberto Lago", "fecha": "2025-06-23" },
+          { "nombre": "Perfe López", "fecha": "2025-06-23" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/wod.jpg",
         "requisitos": []
