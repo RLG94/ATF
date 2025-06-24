@@ -22,7 +22,8 @@
           { "nombre": "Nacho Pena", "fecha": "2025-06-23" },
           { "nombre": "Don Facto", "fecha": "2025-06-23" },
           { "nombre": "Víctor Castro", "fecha": "2025-06-23" },
-          { "nombre": "Perfe López", "fecha": "2025-06-23" }
+          { "nombre": "Perfe López", "fecha": "2025-06-23" },
+          { "nombre": "Cés", "fecha": "2025-06-23" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/topo.jpg",
         "requisitos": []
@@ -66,8 +67,13 @@
       {
         "nombre": "Altruísta",
         "descripcion": "Colabora en algo relacionado con todo el sistema ATF ",
-        "obtenido": [{ "nombre": "Roberto Lago", "fecha": "2025-06-23" }, { "nombre": "Nirei Orange", "fecha": "2025-06-23" }, { "nombre": "Andrea Ogando", "fecha": "2025-06-23" },
-        { "nombre": "Marta Cortízas", "fecha": "2025-06-23" }, { "nombre": "María Selgas", "fecha": "2025-06-23" }],
+        "obtenido": [
+          { "nombre": "Roberto Lago", "fecha": "2025-06-23" },
+          { "nombre": "Nirei Orange", "fecha": "2025-06-23" },
+          { "nombre": "Andrea Ogando", "fecha": "2025-06-23" },
+          { "nombre": "Marta Cortízas", "fecha": "2025-06-23" },
+          { "nombre": "María Selgas", "fecha": "2025-06-23" }
+        ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/altruista.jpg",
         "requisitos": []
       },
@@ -88,7 +94,10 @@
       {
         "nombre": "Alquimista",
         "descripcion": "Crea una bebida ATF que al menos sea... 'bebible'",
-        "obtenido": [{ "nombre": "María Selgas", "fecha": "2025-06-23" }, { "nombre": "Nirei Orange", "fecha": "2025-06-23" }],
+        "obtenido": [
+          { "nombre": "María Selgas", "fecha": "2025-06-23" },
+          { "nombre": "Nirei Orange", "fecha": "2025-06-23" }
+        ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/alquimista.jpg",
         "requisitos": []
       }
@@ -211,7 +220,8 @@
           { "nombre": "Nacho Pena", "fecha": "2025-06-23" },
           { "nombre": "Don Facto", "fecha": "2025-06-23" },
           { "nombre": "Víctor Castro", "fecha": "2025-06-23" },
-          { "nombre": "Perfe López", "fecha": "2025-06-23" }
+          { "nombre": "Perfe López", "fecha": "2025-06-23" },
+          { "nombre": "Cés", "fecha": "2025-06-23" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/mañaneo.jpg",
         "requisitos": []
