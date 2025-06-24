@@ -219,7 +219,9 @@
       {
         "nombre": "Pudiente",
         "descripcion": "Púlete al menos 60€ en una fiesta.",
-        "obtenido": [],
+        "obtenido": [
+          { "nombre": "Nirei Orange", "fecha": "2025-06-23" }
+        ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/pudiente.jpg",
         "requisitos": []
       }
