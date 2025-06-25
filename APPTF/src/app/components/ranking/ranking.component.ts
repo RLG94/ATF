@@ -289,7 +289,7 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen:
-        'https://media.licdn.com/dms/image/C4D03AQHoDPsk5BCx4A/profile-displayphoto-shrink_800_800/0/1663077274007?e=1721260800&v=beta&t=EFpBYLcsUE8dOJMqdmNi-mkQKPzznYYsgx0ECY0335Q',
+        'https://imgur.com/lBXekc6.jpeg',
     },
     {
       id: '44',
@@ -365,7 +365,7 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen:
-        'https://media.licdn.com/dms/image/C4D03AQEJwPpFpT9EPg/profile-displayphoto-shrink_200_200/0/1633338767202?e=1721260800&v=beta&t=Bq-0jQePmmeHCPMx4dcQgqEehGOcPPSGG0B0nr60R5M',
+        'https://avatars.githubusercontent.com/u/69577078?v=4',
     },
     {
       id: '22',
@@ -373,7 +373,7 @@ export class RankingComponent implements OnInit {
       puntis: 0,
       ganador: 0,
       posicion: null,
-      imagen: 'https://i.imgur.com/HgwvTu8.jpeg',
+      imagen: 'https://imgur.com/bJoHy5V.jpeg',
     },
     {
       id: '23',
@@ -433,6 +433,23 @@ export class RankingComponent implements OnInit {
       posicion: null,
       imagen: 'https://imgur.com/0Ll40Sh.jpeg',
     },
+     {
+      id: '67',
+      nombre: 'Danae',
+      puntis: 3,
+      ganador: 0,
+      posicion: null,
+      imagen: 'https://imgur.com/YCGuOin.jpeg',
+    },
+      {
+      id: '66',
+      nombre: 'Miguel Actor',
+      puntis: 0,
+      ganador: 0,
+      posicion: null,
+      imagen: 'https://imgur.com/2qK1J4g.jpeg',
+    },
+   
 
     // ,
     // ,
