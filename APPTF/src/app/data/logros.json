@@ -80,14 +80,21 @@
       {
         "nombre": "Takero",
         "descripcion": "Realiza un graffiti con las siglas ATF",
-        "obtenido": [{ "nombre": "Roberto Lago", "fecha": "2025-06-23" },{ "nombre": "Víctor Castro", "fecha": "2025-06-23" }, { "nombre": "Nirei Orange", "fecha": "2025-06-23" },{ "nombre": "Andrea Ogando", "fecha": "2025-06-23" }],
+        "obtenido": [{ "nombre": "Roberto Lago", "fecha": "2025-06-23" },
+                     { "nombre": "Víctor Castro", "fecha": "2025-06-23" }, 
+                     { "nombre": "Nirei Orange", "fecha": "2025-06-23" },
+                     { "nombre": "Andrea Ogando", "fecha": "2025-06-23" }],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/takero.jpg",
         "requisitos": []
       },
        {
         "nombre": "Lienzo Humano",
         "descripcion": "Consigue que un borracho random pinte tu cuerpo",
-        "obtenido": [],
+        "obtenido": [{"nombre":"Sara Mínguez", "fecha": "2025-07-04"},
+                     {"nombre": "Paloma Redondo", "fecha": "2025-07-04" },
+                     { "nombre": "Frank Díaz", "fecha": "2025-07-04" },
+                     { "nombre": "Nirei Orange", "fecha": "2025-07-04" },
+                     { "nombre": "Ale Lai", "fecha": "2025-07-04" }],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/lienzo-humano.jpg",
         "requisitos": []
       },
@@ -96,7 +103,8 @@
         "descripcion": "Crea una bebida ATF que al menos sea... 'bebible'",
         "obtenido": [
           { "nombre": "María Selgas", "fecha": "2025-06-23" },
-          { "nombre": "Nirei Orange", "fecha": "2025-06-23" }
+          { "nombre": "Nirei Orange", "fecha": "2025-06-23" },
+          { "nombre": "Sara Mínguez", "fecha": "2025-07-04" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/alquimista.jpg",
         "requisitos": []
@@ -140,7 +148,8 @@
       {
         "nombre": "Alehop!",
         "descripcion": "Salta al potro a un desconocido...Y que te salte el a ti!",
-        "obtenido": [],
+        "obtenido": [ { "nombre": "Roberto Lago", "fecha": "2025-07-04" }, 
+                      { "nombre": "Sara Mínguez", "fecha": "2025-07-04" }],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/alehop.jpg",
         "requisitos": []
       },
@@ -157,7 +166,10 @@
           { "nombre": "Breogán Sousa", "fecha": "2025-06-23" },
           { "nombre": "Andrea Ogando", "fecha": "2025-06-23" },
           { "nombre": "Roberto Lago", "fecha": "2025-06-23" },
-          { "nombre": "Perfe López", "fecha": "2025-06-23" }
+          { "nombre": "Perfe López", "fecha": "2025-06-23" },
+          { "nombre": "Sara Mínguez", "fecha": "2025-07-04" },
+          { "nombre": "Ale Lai", "fecha": "2025-07-04" },
+          { "nombre": "Paloma Redondo", "fecha": "2025-07-04" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/wod.jpg",
         "requisitos": []
@@ -167,8 +179,11 @@
         "obtenido": [
           { "nombre": "Víctor Castro", "fecha": "2025-06-23" },
           { "nombre": "Roberto Lago", "fecha": "2025-06-23" },
-          { "nombre": "Nirei Orange", "fecha": "2025-06-23" }
-        ],
+          { "nombre": "Nirei Orange", "fecha": "2025-06-23" },
+          { "nombre": "Sara Mínguez", "fecha": "2025-07-04" },
+          { "nombre": "Pablo Vigo", "fecha": "2025-07-04" },
+          { "nombre": "Ale Lai", "fecha": "2025-07-04" },
+          { "nombre": "Paloma Redondo", "fecha": "2025-07-04" }],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/buena-suelte.jpg",
         "requisitos": []
       }
