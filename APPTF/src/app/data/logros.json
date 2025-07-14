@@ -11,7 +11,46 @@
       {
         "nombre": "Aire Fresco",
         "descripcion": "Puntúa en el campo, o en algún lugar alejado de la urbe",
-        "obtenido": [],
+        "obtenido": [
+                     { "nombre": "Miguel Actor", "fecha": "2025-07-10" },
+                     { "nombre": "Kike Lagares", "fecha": "2025-07-10" },
+                     { "nombre": "Alejandro Barba", "fecha": "2025-07-10" },
+                     { "nombre": "Gojo Carracedo", "fecha": "2025-07-10" },
+                     { "nombre": "Cristina Casas", "fecha": "2025-07-10" },
+                     { "nombre": "Aitor Insunza", "fecha": "2025-07-10" },
+                     { "nombre": "Sara Villamarín", "fecha": "2025-07-10" },
+                     { "nombre": "Nirei Orange", "fecha": "2025-07-10" },
+                     { "nombre": "Andrea Ogando", "fecha": "2025-07-10" },
+                     { "nombre": "Roberto Lago", "fecha": "2025-07-10" },
+                     { "nombre": "Frank Díaz", "fecha": "2025-07-10" },
+                     { "nombre": "Paloma Redondo", "fecha": "2025-07-10" },
+                     { "nombre": "Fran Encabo", "fecha": "2025-07-10" },
+                     { "nombre": "Deborah Forrester", "fecha": "2025-07-10" },
+                     { "nombre": "María Selgas", "fecha": "2025-07-11" },
+                     { "nombre": "Breogán Sousa", "fecha": "2025-07-10" },
+                     { "nombre": "Víctor Castro", "fecha": "2025-07-10" },
+                     { "nombre": "Ana Esfenoides", "fecha": "2025-07-11" },
+                     { "nombre": "Nuria Medicinas", "fecha": "2025-07-11" },
+                     { "nombre": "Anxo Soilán", "fecha": "2025-07-11" },
+                     { "nombre": "Marta Cortízas", "fecha": "2025-07-11" },
+                     { "nombre": "Carlos Nogueira", "fecha": "2025-07-11" },
+                     { "nombre": "Andoni Álvarez", "fecha": "2025-07-11" },
+                     { "nombre": "Rebeca Llacer", "fecha": "2025-07-11" },
+                     { "nombre": "Álvaro Verde", "fecha": "2025-07-11" },
+                     { "nombre": "Mia Otero", "fecha": "2025-07-11" },
+                     { "nombre": "Alejandra Lai", "fecha": "2025-07-10" },
+                     { "nombre": "Isa Vázquez", "fecha": "2025-07-11" },
+                     { "nombre": "Sara Mínguez", "fecha": "2025-07-11" },
+                     { "nombre": "Jacobo Camba", "fecha": "2025-07-11" },
+                     { "nombre": "Javier Llinares", "fecha": "2025-07-11" },
+                     { "nombre": "Cora Díaz", "fecha": "2025-07-11" },
+                     { "nombre": "Nacho Pena", "fecha": "2025-07-11" },
+                     { "nombre": "Bea Pérez", "fecha": "2025-07-11" },
+                     { "nombre": "Iria Ventosinos", "fecha": "2025-07-11" },
+                     { "nombre": "Helena Risco", "fecha": "2025-07-11" },
+                     { "nombre": "Rodrigo Novo", "fecha": "2025-07-10" }
+                     
+    ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/aire-fresco.jpg",
         "requisitos": []
       },
@@ -23,7 +62,11 @@
           { "nombre": "Don Facto", "fecha": "2025-06-23" },
           { "nombre": "Víctor Castro", "fecha": "2025-06-23" },
           { "nombre": "Perfe López", "fecha": "2025-06-23" },
-          { "nombre": "Cés", "fecha": "2025-06-23" }
+          { "nombre": "Cés", "fecha": "2025-06-23" },
+          { "nombre": "Rebeca Llacer", "fecha": "2025-07-07" },
+          { "nombre": "Adrian Martínez", "fecha": "2025-07-07" },
+          { "nombre": "Danil Ruso", "fecha": "2025-07-07" },
+          { "nombre": "Kike Lagares", "fecha": "2025-07-07" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/topo.jpg",
         "requisitos": []
@@ -104,7 +147,9 @@
         "obtenido": [
           { "nombre": "María Selgas", "fecha": "2025-06-23" },
           { "nombre": "Nirei Orange", "fecha": "2025-06-23" },
-          { "nombre": "Sara Mínguez", "fecha": "2025-07-04" }
+          { "nombre": "Sara Mínguez", "fecha": "2025-07-04" },
+          { "nombre": "Víctor Castro", "fecha": "2025-07-07" },
+          { "nombre": "Ana Esfenoides", "fecha": "2025-07-07" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/alquimista.jpg",
         "requisitos": []
@@ -169,7 +214,8 @@
           { "nombre": "Perfe López", "fecha": "2025-06-23" },
           { "nombre": "Sara Mínguez", "fecha": "2025-07-04" },
           { "nombre": "Ale Lai", "fecha": "2025-07-04" },
-          { "nombre": "Paloma Redondo", "fecha": "2025-07-04" }
+          { "nombre": "Paloma Redondo", "fecha": "2025-07-04" },
+           { "nombre": "Marta Cortízas", "fecha": "2025-07-12" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/wod.jpg",
         "requisitos": []
@@ -183,7 +229,17 @@
           { "nombre": "Sara Mínguez", "fecha": "2025-07-04" },
           { "nombre": "Pablo Vigo", "fecha": "2025-07-04" },
           { "nombre": "Ale Lai", "fecha": "2025-07-04" },
-          { "nombre": "Paloma Redondo", "fecha": "2025-07-04" }],
+          { "nombre": "Paloma Redondo", "fecha": "2025-07-04" },
+          { "nombre": "Andoni Álvarez", "fecha": "2025-07-11" },
+          { "nombre": "Deborah Forrester", "fecha": "2025-07-11" },
+          { "nombre": "Aitor Insunza", "fecha": "2025-07-10" },
+          { "nombre": "Gojo Carracedo", "fecha": "2025-07-10" },
+          { "nombre": "Sara Villamarín", "fecha": "2025-07-10" },
+          { "nombre": "Rodrigo Novo", "fecha": "2025-07-10" },
+          { "nombre": "Andrea Ogando", "fecha": "2025-07-10" },
+          { "nombre": "Frank Díaz", "fecha": "2025-07-10" },
+          { "nombre": "Cristina Casas", "fecha": "2025-07-11" }
+        ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/buena-suelte.jpg",
         "requisitos": []
       }
@@ -191,14 +247,22 @@
     "medio": [{
         "nombre": "Mula de carga",
         "descripcion": "Avanza con un miembro ATF a caballito durante al menos 300metros",
-        "obtenido": [],
+        "obtenido": [ 
+            {"nombre": "Víctor Castro", "fecha": "2025-07-07" },
+            { "nombre": "Nirei Orange", "fecha": "2025-07-07" },
+            { "nombre": "Roberto Lago", "fecha": "2025-07-11" },
+            { "nombre": "Fran Encabo", "fecha": "2025-07-11" },
+            { "nombre": "Nacho Pena", "fecha": "2025-07-11" }
+          ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/mula-de-carga.jpg",
         "requisitos": [1,2]
       },
       {
         "nombre": "Velocista Imparable",
         "descripcion": "Gana una carrera sin pantalones",
-        "obtenido": [],
+        "obtenido": [
+                { "nombre": "Víctor Castro", "fecha": "2025-07-11" } 
+        ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/velocista-imparable.jpg",
         "requisitos": [3,2]
       }],
@@ -223,7 +287,8 @@
         "nombre": "Reversazzo",
         "descripcion": "Bébete un cubata del revés en un solo trago.",
         "obtenido": [
-          { "nombre": "Nirei Orange", "fecha": "2025-06-23" }
+          { "nombre": "Nirei Orange", "fecha": "2025-06-23" },
+          { "nombre": "Alejandro Barba", "fecha": "2025-07-07" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/cubatazo.jpg",
         "requisitos": []
@@ -233,10 +298,20 @@
         "descripcion": "Permanece de fiesta hasta las 7:00 AM.",
         "obtenido": [
           { "nombre": "Nacho Pena", "fecha": "2025-06-23" },
+          { "nombre": "Rebeca Llacer", "fecha": "2025-06-23" },
+          { "nombre": "Adrián Martínez", "fecha": "2025-06-23" },
           { "nombre": "Don Facto", "fecha": "2025-06-23" },
           { "nombre": "Víctor Castro", "fecha": "2025-06-23" },
           { "nombre": "Perfe López", "fecha": "2025-06-23" },
-          { "nombre": "Cés", "fecha": "2025-06-23" }
+          { "nombre": "Cés", "fecha": "2025-06-23" },
+          { "nombre": "Kike Lagares", "fecha": "2025-07-10" },
+          { "nombre": "Miguel Actor", "fecha": "2025-07-10" },
+          { "nombre": "Nirei Orange", "fecha": "2025-07-11" },
+          { "nombre": "Rodri Novo", "fecha": "2025-07-11" },
+          { "nombre": "Ana Esfenoides", "fecha": "2025-07-11" },
+          { "nombre": "Frank Díaz", "fecha": "2025-07-11" },
+          { "nombre": "Iria Ventosinos", "fecha": "2025-07-12" },
+          { "nombre": "Nacho Pena", "fecha": "2025-07-12" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/mañaneo.jpg",
         "requisitos": []
@@ -245,7 +320,9 @@
         "nombre": "Pudiente",
         "descripcion": "Púlete al menos 60€ en una fiesta.",
         "obtenido": [
-          { "nombre": "Nirei Orange", "fecha": "2025-06-23" }
+          { "nombre": "Nirei Orange", "fecha": "2025-06-23" },
+          { "nombre": "Nacho Pena", "fecha": "2025-07-12" },
+          { "nombre": "Andoni Álvarez", "fecha": "2025-07-10" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/pudiente.jpg",
         "requisitos": []
