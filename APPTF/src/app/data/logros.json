@@ -311,7 +311,9 @@
           { "nombre": "Ana Esfenoides", "fecha": "2025-07-11" },
           { "nombre": "Frank Díaz", "fecha": "2025-07-11" },
           { "nombre": "Iria Ventosinos", "fecha": "2025-07-12" },
-          { "nombre": "Nacho Pena", "fecha": "2025-07-12" }
+          { "nombre": "Nacho Pena", "fecha": "2025-07-12" },
+          { "nombre": "Helena Risco","fecha": "2025-07-11" },
+          { "nombre": "Patri Ludeña", "fecha": "2025-07-11" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/mañaneo.jpg",
         "requisitos": []
@@ -322,7 +324,12 @@
         "obtenido": [
           { "nombre": "Nirei Orange", "fecha": "2025-06-23" },
           { "nombre": "Nacho Pena", "fecha": "2025-07-12" },
-          { "nombre": "Andoni Álvarez", "fecha": "2025-07-10" }
+          { "nombre": "Andoni Álvarez", "fecha": "2025-07-10" },
+          { "nombre": "Patri Ludeña", "fecha": "2025-07-11" },
+          { "nombre": "Gojo Carracedo", "fecha": "2025-07-12" },
+          { "nombre": "Cristina Casas", "fecha": "2025-07-10" },
+            { "nombre": "María Selgas", "fecha": "2025-07-12" }
+          
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/pudiente.jpg",
         "requisitos": []
