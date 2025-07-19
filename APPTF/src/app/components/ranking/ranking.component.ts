@@ -24,7 +24,7 @@ export class RankingComponent implements OnInit {
     {
       id: '3',
       nombre: 'Adrian Martínez',
-      puntis: 4,
+      puntis: 5,
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/iGHvV9L.jpeg',
@@ -72,7 +72,7 @@ export class RankingComponent implements OnInit {
     {
       id: '41',
       nombre: 'Alejandro Fraga',
-      puntis: 0,
+      puntis: 1,
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/10ZfN8x.jpeg',
@@ -105,7 +105,7 @@ export class RankingComponent implements OnInit {
     {
       id: '8',
       nombre: 'Ana Esfenoides',
-      puntis: 11,
+      puntis: 12,
       ganador: 0,
       posicion: null,
       imagen: 'https://i.imgur.com/8YWExKM.jpeg',
@@ -294,7 +294,7 @@ export class RankingComponent implements OnInit {
     {
       id: '44',
       nombre: 'Kike Lagares',
-      puntis: 11,
+      puntis: 12,
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/kyRyBfK.jpeg',
@@ -353,7 +353,7 @@ export class RankingComponent implements OnInit {
     {
       id: '50',
       nombre: 'Nuria Medicinas',
-      puntis: 6,
+      puntis: 7,
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/9gw6fF2.jpeg',
@@ -394,7 +394,7 @@ export class RankingComponent implements OnInit {
     {
       id: '4',
       nombre: 'Rebeca Llacer',
-      puntis: 9,
+      puntis: 10,
       ganador: 0,
       posicion: null,
       imagen: 'https://i.imgur.com/8pDnFRW.jpeg',
@@ -416,6 +416,15 @@ export class RankingComponent implements OnInit {
       posicion: null,
       imagen: 'https://i.imgur.com/HgwvTu8.jpeg',
     },
+    
+          {
+      id: '73',
+      nombre: 'Rupert',
+      puntis: 7,
+      ganador: 0,
+      posicion: null,
+      imagen: 'https://imgur.com/APr7IdQ.jpeg',
+    },
     {
       id: '24',
       nombre: 'Sara Villamarín',
@@ -428,7 +437,7 @@ export class RankingComponent implements OnInit {
     {
       id: '6',
       nombre: 'Victor Castro',
-      puntis: 12+2,
+      puntis: 13+2,
       ganador: 2,
       posicion: null,
       imagen: 'https://imgur.com/0Ll40Sh.jpeg',

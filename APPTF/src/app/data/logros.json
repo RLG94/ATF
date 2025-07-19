@@ -137,6 +137,7 @@
                      {"nombre": "Paloma Redondo", "fecha": "2025-07-04" },
                      { "nombre": "Frank Díaz", "fecha": "2025-07-04" },
                      { "nombre": "Nirei Orange", "fecha": "2025-07-04" },
+                      { "nombre": "Mia Otero", "fecha": "2025-07-04" },
                      { "nombre": "Ale Lai", "fecha": "2025-07-04" }],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/lienzo-humano.jpg",
         "requisitos": []
@@ -149,7 +150,10 @@
           { "nombre": "Nirei Orange", "fecha": "2025-06-23" },
           { "nombre": "Sara Mínguez", "fecha": "2025-07-04" },
           { "nombre": "Víctor Castro", "fecha": "2025-07-07" },
-          { "nombre": "Ana Esfenoides", "fecha": "2025-07-07" }
+          { "nombre": "Ana Esfenoides", "fecha": "2025-07-07" },
+          { "nombre": "Nuria Medicinas", "fecha": "2025-07-18" },
+          { "nombre": "Alejandro Barba", "fecha": "2025-07-18" },
+          { "nombre": "Kike Lagares", "fecha": "2025-07-18" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/alquimista.jpg",
         "requisitos": []
@@ -194,7 +198,10 @@
         "nombre": "Alehop!",
         "descripcion": "Salta al potro a un desconocido...Y que te salte el a ti!",
         "obtenido": [ { "nombre": "Roberto Lago", "fecha": "2025-07-04" }, 
-                      { "nombre": "Sara Mínguez", "fecha": "2025-07-04" }],
+                      { "nombre": "Sara Mínguez", "fecha": "2025-07-04" },
+                      { "nombre": "Nuria Medicinas", "fecha": "2025-07-18" },
+                      { "nombre": "Víctor Castro", "fecha": "2025-07-18" }
+                    ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/alehop.jpg",
         "requisitos": []
       },
@@ -215,7 +222,8 @@
           { "nombre": "Sara Mínguez", "fecha": "2025-07-04" },
           { "nombre": "Ale Lai", "fecha": "2025-07-04" },
           { "nombre": "Paloma Redondo", "fecha": "2025-07-04" },
-           { "nombre": "Marta Cortízas", "fecha": "2025-07-12" }
+          { "nombre": "Marta Cortízas", "fecha": "2025-07-12" },
+          { "nombre": "Ana Esfenoides", "fecha": "2025-07-15" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/wod.jpg",
         "requisitos": []
@@ -238,7 +246,9 @@
           { "nombre": "Rodrigo Novo", "fecha": "2025-07-10" },
           { "nombre": "Andrea Ogando", "fecha": "2025-07-10" },
           { "nombre": "Frank Díaz", "fecha": "2025-07-10" },
-          { "nombre": "Cristina Casas", "fecha": "2025-07-11" }
+          { "nombre": "Cristina Casas", "fecha": "2025-07-11" },
+          { "nombre": "Nuria Medicinas", "fecha": "2025-07-18" },
+          { "nombre": "Ana Esfenoides", "fecha": "2025-07-18" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/buena-suelte.jpg",
         "requisitos": []
@@ -252,7 +262,8 @@
             { "nombre": "Nirei Orange", "fecha": "2025-07-07" },
             { "nombre": "Roberto Lago", "fecha": "2025-07-11" },
             { "nombre": "Fran Encabo", "fecha": "2025-07-11" },
-            { "nombre": "Nacho Pena", "fecha": "2025-07-11" }
+            { "nombre": "Nacho Pena", "fecha": "2025-07-11" },
+            { "nombre": "Nuria Medicinas", "fecha": "2025-07-18" }
           ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/mula-de-carga.jpg",
         "requisitos": [1,2]
@@ -288,7 +299,11 @@
         "descripcion": "Bébete un cubata del revés en un solo trago.",
         "obtenido": [
           { "nombre": "Nirei Orange", "fecha": "2025-06-23" },
-          { "nombre": "Alejandro Barba", "fecha": "2025-07-07" }
+          { "nombre": "Alejandro Barba", "fecha": "2025-07-07" },
+          { "nombre": "Ana Esfenoides", "fecha": "2025-07-18" },
+          { "nombre": "Nuria Medicinas", "fecha": "2025-07-18" },
+          { "nombre": "Víctor Castro", "fecha": "2025-07-18" },
+           { "nombre": "Kike Lagares", "fecha": "2025-07-18" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/cubatazo.jpg",
         "requisitos": []
@@ -328,7 +343,8 @@
           { "nombre": "Patri Ludeña", "fecha": "2025-07-11" },
           { "nombre": "Gojo Carracedo", "fecha": "2025-07-12" },
           { "nombre": "Cristina Casas", "fecha": "2025-07-10" },
-            { "nombre": "María Selgas", "fecha": "2025-07-12" }
+          { "nombre": "María Selgas", "fecha": "2025-07-12" },
+          { "nombre": "Fran Encabo", "fecha": "2025-07-11" }
           
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/pudiente.jpg",
