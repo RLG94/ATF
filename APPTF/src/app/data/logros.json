@@ -4,7 +4,12 @@
       {
         "nombre": "Minifundio",
         "descripcion": "Puntúa en algún pueblo de menos de 1000 habitantes",
-        "obtenido": [],
+        "obtenido": [
+            { "nombre": "Nuria Medicinas", "fecha": "2025-07-20" },
+            { "nombre": "Anxo Soilán", "fecha": "2025-07-20" },
+            { "nombre": "Iria Ventosinos", "fecha": "2025-07-20" },
+            { "nombre": "Ana Esfenoides", "fecha": "2025-07-20" }
+        ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/minifundio.jpg",
         "requisitos": []
       },
@@ -183,6 +188,15 @@
         "obtenido": [],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/artista-consagrado.jpg",
         "requisitos": [0,1]
+      },
+           {
+        "nombre": "Maestro Liador",
+        "descripcion": "Consigue liar un porro con párkinson para concienciar a la gente. Debe ser 'fumable'",
+        "obtenido": [
+           { "nombre": "Deborah Forrester", "fecha": "2025-07-12" }
+        ],
+        "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/maestro-liador.jpg",
+        "requisitos": []
       }
     ]
   },
@@ -287,7 +301,9 @@
       {
         "nombre": "La Imposible",
         "descripcion": "Haz una voltereta con un cubata en la mano sin derramar nada de contenido. No puedes usar una tapa sobre el vaso",
-        "obtenido": [],
+        "obtenido": [
+                { "nombre": "Sara Mínguez", "fecha": "2025-07-19" }
+        ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/la-imposible.jpg",
         "requisitos": [1]
       }]
@@ -355,14 +371,24 @@
       {
         "nombre": "Guardería",
         "descripcion": "Puntúa ATF con algún menor (-18 años) en el grupo.",
-        "obtenido": [],
+        "obtenido": [
+            { "nombre": "Nuria Medicinas", "fecha": "2025-07-20" },
+            { "nombre": "Anxo Soilán", "fecha": "2025-07-20" },
+            { "nombre": "Iria Ventosinos", "fecha": "2025-07-20" },
+            { "nombre": "Ana Esfenoides", "fecha": "2025-07-20" }
+        ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/guarderia.jpg",
         "requisitos": [0]
       },
       {
         "nombre": "Geriátrico",
         "descripcion": "Puntúa ATF con algún viejo (+60 años) en el grupo.",
-        "obtenido": [],
+        "obtenido": [
+            { "nombre": "Nuria Medicinas", "fecha": "2025-07-20" },
+            { "nombre": "Anxo Soilán", "fecha": "2025-07-20" },
+            { "nombre": "Iria Ventosinos", "fecha": "2025-07-20" },
+            { "nombre": "Ana Esfenoides", "fecha": "2025-07-20" }
+        ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/geriatrico.jpg",
         "requisitos": [1]
       }
