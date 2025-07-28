@@ -142,8 +142,13 @@
                      {"nombre": "Paloma Redondo", "fecha": "2025-07-04" },
                      { "nombre": "Frank Díaz", "fecha": "2025-07-04" },
                      { "nombre": "Nirei Orange", "fecha": "2025-07-04" },
-                      { "nombre": "Mia Otero", "fecha": "2025-07-04" },
-                     { "nombre": "Ale Lai", "fecha": "2025-07-04" }],
+                     { "nombre": "Mia Otero", "fecha": "2025-07-04" },
+                     { "nombre": "Ale Lai", "fecha": "2025-07-04" },
+                     { "nombre": "Ana Esfenoides", "fecha": "2025-07-11" },
+                     { "nombre": "Maria Selgas", "fecha": "2025-07-22" },
+                       { "nombre": "Mateo", "fecha": "2025-07-22" }
+                    ],
+                     
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/lienzo-humano.jpg",
         "requisitos": []
       },
@@ -158,7 +163,8 @@
           { "nombre": "Ana Esfenoides", "fecha": "2025-07-07" },
           { "nombre": "Nuria Medicinas", "fecha": "2025-07-18" },
           { "nombre": "Alejandro Barba", "fecha": "2025-07-18" },
-          { "nombre": "Kike Lagares", "fecha": "2025-07-18" }
+          { "nombre": "Kike Lagares", "fecha": "2025-07-18" },
+          { "nombre": "Roberto Lago", "fecha": "2025-07-19" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/alquimista.jpg",
         "requisitos": []
@@ -319,7 +325,8 @@
           { "nombre": "Ana Esfenoides", "fecha": "2025-07-18" },
           { "nombre": "Nuria Medicinas", "fecha": "2025-07-18" },
           { "nombre": "Víctor Castro", "fecha": "2025-07-18" },
-           { "nombre": "Kike Lagares", "fecha": "2025-07-18" }
+           { "nombre": "Kike Lagares", "fecha": "2025-07-18" },
+           { "nombre": "Sara Mínguez", "fecha": "2025-07-19" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/cubatazo.jpg",
         "requisitos": []
@@ -345,6 +352,7 @@
           { "nombre": "Nacho Pena", "fecha": "2025-07-12" },
           { "nombre": "Helena Risco","fecha": "2025-07-11" },
           { "nombre": "Patri Ludeña", "fecha": "2025-07-11" }
+        
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/mañaneo.jpg",
         "requisitos": []
@@ -360,7 +368,8 @@
           { "nombre": "Gojo Carracedo", "fecha": "2025-07-12" },
           { "nombre": "Cristina Casas", "fecha": "2025-07-10" },
           { "nombre": "María Selgas", "fecha": "2025-07-12" },
-          { "nombre": "Fran Encabo", "fecha": "2025-07-11" }
+          { "nombre": "Fran Encabo", "fecha": "2025-07-11" },
+            { "nombre": "Ana Esfenoides", "fecha": "2025-07-11" }
           
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/pudiente.jpg",
@@ -375,7 +384,26 @@
             { "nombre": "Nuria Medicinas", "fecha": "2025-07-20" },
             { "nombre": "Anxo Soilán", "fecha": "2025-07-20" },
             { "nombre": "Iria Ventosinos", "fecha": "2025-07-20" },
-            { "nombre": "Ana Esfenoides", "fecha": "2025-07-20" }
+            { "nombre": "Ana Esfenoides", "fecha": "2025-07-20" },
+            { "nombre": "Perfe López", "fecha": "2025-07-26" },
+            { "nombre": "Alejandra Mangano", "fecha": "2025-07-26" },
+            { "nombre": "Víctor Castro", "fecha": "2025-07-26" },
+            { "nombre": "Roberto Lago", "fecha": "2025-07-26" },
+            { "nombre": "Nirei Orange", "fecha": "2025-07-26" },
+            { "nombre": "Andrea Ogando", "fecha": "2025-07-26" },
+            { "nombre": "Javier Llinares", "fecha": "2025-07-26" },
+            { "nombre": "Cora Díaz", "fecha": "2025-07-26" },
+            { "nombre": "Alvaro Verde", "fecha": "2025-07-26" },
+            { "nombre": "Mía Otero", "fecha": "2025-07-26" },
+            { "nombre": "María Selgas", "fecha": "2025-07-26" },
+            { "nombre": "Breogán Sousa", "fecha": "2025-07-26" },
+            { "nombre": "Nacho Pena", "fecha": "2025-07-26" },
+            { "nombre": "Frank Díaz", "fecha": "2025-07-26" },
+            { "nombre": "Paloma Redondo", "fecha": "2025-07-26" },
+            { "nombre": "Cristina Casas", "fecha": "2025-07-26" },
+            { "nombre": "Gojo Carracedo", "fecha": "2025-07-26" },
+            { "nombre": "Don Facto", "fecha": "2025-07-26" },
+            { "nombre": "Mateo Iglesias", "fecha": "2025-07-26" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/guarderia.jpg",
         "requisitos": [0]
@@ -387,7 +415,26 @@
             { "nombre": "Nuria Medicinas", "fecha": "2025-07-20" },
             { "nombre": "Anxo Soilán", "fecha": "2025-07-20" },
             { "nombre": "Iria Ventosinos", "fecha": "2025-07-20" },
-            { "nombre": "Ana Esfenoides", "fecha": "2025-07-20" }
+            { "nombre": "Ana Esfenoides", "fecha": "2025-07-20" },
+            { "nombre": "Perfe López", "fecha": "2025-07-26" },
+            { "nombre": "Alejandra Mangano", "fecha": "2025-07-26" },
+            { "nombre": "Víctor Castro", "fecha": "2025-07-26" },
+            { "nombre": "Roberto Lago", "fecha": "2025-07-26" },
+            { "nombre": "Nirei Orange", "fecha": "2025-07-26" },
+            { "nombre": "Andrea Ogando", "fecha": "2025-07-26" },
+            { "nombre": "Javier Llinares", "fecha": "2025-07-26" },
+            { "nombre": "Cora Díaz", "fecha": "2025-07-26" },
+            { "nombre": "Alvaro Verde", "fecha": "2025-07-26" },
+            { "nombre": "Mía Otero", "fecha": "2025-07-26" },
+            { "nombre": "María Selgas", "fecha": "2025-07-26" },
+            { "nombre": "Breogán Sousa", "fecha": "2025-07-26" },
+            { "nombre": "Nacho Pena", "fecha": "2025-07-26" },
+            { "nombre": "Frank Díaz", "fecha": "2025-07-26" },
+            { "nombre": "Paloma Redondo", "fecha": "2025-07-26" },
+            { "nombre": "Cristina Casas", "fecha": "2025-07-26" },
+            { "nombre": "Gojo Carracedo", "fecha": "2025-07-26" },
+            { "nombre": "Don Facto", "fecha": "2025-07-26" },
+            { "nombre": "Mateo Iglesias", "fecha": "2025-07-26" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/geriatrico.jpg",
         "requisitos": [1]
