@@ -120,7 +120,8 @@
           { "nombre": "Nirei Orange", "fecha": "2025-06-23" },
           { "nombre": "Andrea Ogando", "fecha": "2025-06-23" },
           { "nombre": "Marta Cortízas", "fecha": "2025-06-23" },
-          { "nombre": "María Selgas", "fecha": "2025-06-23" }
+          { "nombre": "María Selgas", "fecha": "2025-06-23" },
+          { "nombre": "Paloma Redondo", "fecha": "2025-07-30" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/altruista.jpg",
         "requisitos": []

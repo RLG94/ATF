@@ -179,7 +179,7 @@ export class RankingComponent implements OnInit {
     {
       id: '28',
       nombre: 'Cora Diaz',
-      puntis: 6+2,
+      puntis: 7+2,
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/zoJjy5v.jpeg',
@@ -285,7 +285,7 @@ export class RankingComponent implements OnInit {
     {
       id: '15',
       nombre: 'Javi Llinares',
-      puntis: 6+2,
+      puntis: 7+2,
       ganador: 0,
       posicion: null,
       imagen:
@@ -360,7 +360,7 @@ export class RankingComponent implements OnInit {
     {
       id: '20',
       nombre: 'Nacho Pena',
-      puntis: 13+2,
+      puntis: 14+2,
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/4uzrk2s.jpeg',
@@ -394,7 +394,7 @@ export class RankingComponent implements OnInit {
     {
       id: '23',
       nombre: 'Paloma Redondo',
-      puntis: 11+2,
+      puntis: 12+2,
       ganador: 2,
       posicion: null,
       imagen: 'https://imgur.com/kqbpMDo.jpeg',
@@ -418,7 +418,7 @@ export class RankingComponent implements OnInit {
     {
       id: '1',
       nombre: 'Roberto Lago',
-      puntis: 15+2,
+      puntis: 16+2,
       ganador: 0,
       posicion: null,
       imagen:
@@ -486,7 +486,7 @@ export class RankingComponent implements OnInit {
      {
       id: '68',
       nombre: 'Sara Mínguez',
-      puntis: 6,
+      puntis: 7,
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/0IuzGWi.jpeg',
