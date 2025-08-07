@@ -91,7 +91,9 @@
           { "nombre": "Gojo Carracedo", "fecha": "2025-08-05" },
           { "nombre": "Javier Llinares", "fecha": "2025-08-05" },
           { "nombre": "Cora Díaz", "fecha": "2025-08-05" },
-          { "nombre": "Sara Mínguez", "fecha": "2025-08-05" }
+          { "nombre": "Sara Mínguez", "fecha": "2025-08-05" },
+          { "nombre": "Javi El Bueno", "fecha": "2025-08-05" }
+
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/topo.jpg",
         "requisitos": []
@@ -231,7 +233,12 @@
     "facil": [ {
         "nombre": "Tahúr",
         "descripcion": "Gana una partida de ATF Heroes",
-        "obtenido": [],
+        "obtenido": [
+          { "nombre": "Victor Castro", "fecha": "2025-08-04" },
+          { "nombre": "María Selgas", "fecha": "2025-08-04" },
+          { "nombre": "Rebeca Llacer", "fecha": "2025-08-04" },
+          { "nombre": "Breogán Sousa", "fecha": "2025-08-04" }
+      ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/tahur.jpg",
         "requisitos": []
       },

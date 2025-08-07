@@ -132,7 +132,7 @@ export class RankingComponent implements OnInit {
     {
       id: '27',
       nombre: 'Andrea Ogando',
-      puntis: 12+2,
+      puntis: 15+2,
       ganador: 0,
       posicion: null,
       imagen: 'https://i.imgur.com/kIGKlZK.jpeg',
@@ -299,6 +299,22 @@ export class RankingComponent implements OnInit {
       imagen:
         'https://imgur.com/lBXekc6.jpeg',
     },
+             {
+      id: '77',
+      nombre: 'Javi El Bueno',
+      puntis: 3,
+      ganador: 0,
+      posicion: null,
+      imagen: 'https://imgur.com/3AHrHId.jpeg',
+    },
+             {
+      id: '71',
+      nombre: 'José Ruiz ',
+      puntis: 5,
+      ganador: 0,
+      posicion: null,
+      imagen: '',
+    },
     {
       id: '44',
       nombre: 'Kike Lagares',
@@ -362,7 +378,7 @@ export class RankingComponent implements OnInit {
       puntis: 1,
       ganador: 0,
       posicion: null,
-      imagen: 'https://imgur.com/undefined.jpeg',
+      imagen: 'https://imgur.com/ghX05Hb.jpeg',
     },
     {
       id: '19',
@@ -376,7 +392,7 @@ export class RankingComponent implements OnInit {
     {
       id: '20',
       nombre: 'Nacho Pena',
-      puntis: 17+2,
+      puntis: 20+2,
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/4uzrk2s.jpeg',
@@ -394,7 +410,7 @@ export class RankingComponent implements OnInit {
     {
       id: '21',
       nombre: 'Nirei Orange',
-      puntis: 16+1+2,
+      puntis: 19+1+2,
               //desfase//desfase//
       ganador: 0,
       posicion: null,
@@ -420,7 +436,8 @@ export class RankingComponent implements OnInit {
     {
       id: '36',
       nombre: 'Perfe López',
-      puntis: 9+2,
+      puntis: 12+2,
+          //desfase//
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/EKEmIVj.jpeg',
@@ -489,7 +506,8 @@ export class RankingComponent implements OnInit {
     {
       id: '6',
       nombre: 'Victor Castro',
-      puntis: 22+2+2,
+      puntis: 22+2+2+1,
+        //desfase//olimpiadas//olimpiadas//
       ganador: 2,
       posicion: null,
       imagen: 'https://imgur.com/0Ll40Sh.jpeg',
@@ -534,14 +552,7 @@ export class RankingComponent implements OnInit {
       posicion: null,
       imagen: '',
     },
-           {
-      id: '71',
-      nombre: 'José Ruiz ',
-      puntis: 5,
-      ganador: 0,
-      posicion: null,
-      imagen: '',
-    },
+  
            {
       id: '76',
       nombre: 'Belén Sierra ',
