@@ -159,7 +159,8 @@
         "obtenido": [{ "nombre": "Roberto Lago", "fecha": "2025-06-23" },
                      { "nombre": "Víctor Castro", "fecha": "2025-06-23" }, 
                      { "nombre": "Nirei Orange", "fecha": "2025-06-23" },
-                     { "nombre": "Andrea Ogando", "fecha": "2025-06-23" }],
+                     { "nombre": "Andrea Ogando", "fecha": "2025-06-23" }
+                    ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/takero.jpg",
         "requisitos": []
       },
@@ -420,6 +421,9 @@
           { "nombre": "Fran Encabo", "fecha": "2025-07-11" },
           { "nombre": "Ana Esfenoides", "fecha": "2025-07-11" },
           { "nombre": "Roberto Lago", "fecha": "2025-08-03" }
+          
+          
+  
           
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/pudiente.jpg",
