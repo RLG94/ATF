@@ -92,7 +92,9 @@
           { "nombre": "Javier Llinares", "fecha": "2025-08-05" },
           { "nombre": "Cora Díaz", "fecha": "2025-08-05" },
           { "nombre": "Sara Mínguez", "fecha": "2025-08-05" },
-          { "nombre": "Javi El Bueno", "fecha": "2025-08-05" }
+          { "nombre": "Javi El Bueno", "fecha": "2025-08-05" },
+          { "nombre": "Nirei Orange", "fecha": "2025-07-25" },
+          { "nombre": "Iria Ventosinos", "fecha": "2025-07-25" }
 
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/topo.jpg",
@@ -143,7 +145,10 @@
           { "nombre": "Andrea Ogando", "fecha": "2025-06-23" },
           { "nombre": "Marta Cortízas", "fecha": "2025-06-23" },
           { "nombre": "María Selgas", "fecha": "2025-06-23" },
-          { "nombre": "Paloma Redondo", "fecha": "2025-07-30" }
+          { "nombre": "Paloma Redondo", "fecha": "2025-07-30" },
+          { "nombre": "Cristina Casas", "fecha": "2025-08-03" },
+          { "nombre": "Gojo Carracedo", "fecha": "2025-08-03" },
+          { "nombre": "Victor Castro", "fecha": "2025-08-03" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/altruista.jpg",
         "requisitos": []
@@ -169,7 +174,10 @@
                      { "nombre": "Ale Lai", "fecha": "2025-07-04" },
                      { "nombre": "Ana Esfenoides", "fecha": "2025-07-11" },
                      { "nombre": "Maria Selgas", "fecha": "2025-07-22" },
-                       { "nombre": "Mateo", "fecha": "2025-07-22" }
+                     { "nombre": "Mateo", "fecha": "2025-07-22" },
+                     { "nombre": "Sergio González", "fecha": "2025-08-08" }
+                   
+
                     ],
                      
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/lienzo-humano.jpg",
@@ -213,10 +221,9 @@
     "dificil": [
        {
         "nombre": "Artista Consagrado",
-        "descripcion": "Crea cualquier tipo de obra artística de calidad relacionada con el ATF. Todo el ATF debe aceptarla por decisión unánime",
-        "obtenido": [],
+        "descripcion": "Crea cualquier tipo de obra artística de gran calidad relacionada con el ATF. Todo el ATF debe estar de acuerdo en que es una obra maestra",
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/artista-consagrado.jpg",
-        "requisitos": [0,1]
+        "requisitos": []
       },
            {
         "nombre": "Maestro Liador",
@@ -237,7 +244,11 @@
           { "nombre": "Victor Castro", "fecha": "2025-08-04" },
           { "nombre": "María Selgas", "fecha": "2025-08-04" },
           { "nombre": "Rebeca Llacer", "fecha": "2025-08-04" },
-          { "nombre": "Breogán Sousa", "fecha": "2025-08-04" }
+          { "nombre": "Breogán Sousa", "fecha": "2025-08-04" },
+          { "nombre": "Paloma Redondo", "fecha": "2025-08-05" },
+          { "nombre": "Nirei Orange", "fecha": "2025-08-08" },
+          { "nombre": "Iria Ventosinos", "fecha": "2025-08-08" }
+        
       ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/tahur.jpg",
         "requisitos": []
@@ -261,6 +272,7 @@
           { "nombre": "Víctor Castro", "fecha": "2025-06-23" },
           { "nombre": "María Selgas", "fecha": "2025-06-23" },
           { "nombre": "Aitor Insunza", "fecha": "2025-06-23" },
+          { "nombre": "Don Facto", "fecha": "2025-06-23" },
           { "nombre": "Fran Encabo", "fecha": "2025-06-23" },
           { "nombre": "Deborah Forrester", "fecha": "2025-06-23" },
           { "nombre": "Breogán Sousa", "fecha": "2025-06-23" },
@@ -271,7 +283,8 @@
           { "nombre": "Ale Lai", "fecha": "2025-07-04" },
           { "nombre": "Paloma Redondo", "fecha": "2025-07-04" },
           { "nombre": "Marta Cortízas", "fecha": "2025-07-12" },
-          { "nombre": "Ana Esfenoides", "fecha": "2025-07-15" }
+          { "nombre": "Ana Esfenoides", "fecha": "2025-07-15" },
+          { "nombre": "Sergio González", "fecha": "2025-08-08" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/wod.jpg",
         "requisitos": []
@@ -296,7 +309,11 @@
           { "nombre": "Frank Díaz", "fecha": "2025-07-10" },
           { "nombre": "Cristina Casas", "fecha": "2025-07-11" },
           { "nombre": "Nuria Medicinas", "fecha": "2025-07-18" },
-          { "nombre": "Ana Esfenoides", "fecha": "2025-07-18" }
+          { "nombre": "Ana Esfenoides", "fecha": "2025-07-18" },
+          { "nombre": "Maria Selgas", "fecha": "2025-08-08" },
+          { "nombre": "Iria Ventosinos", "fecha": "2025-08-08" },
+          { "nombre": "Marta Cortízas", "fecha": "2025-08-08" },
+          { "nombre": "Perfe López", "fecha": "2025-08-08" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/buena-suelte.jpg",
         "requisitos": []
@@ -379,8 +396,12 @@
           { "nombre": "Iria Ventosinos", "fecha": "2025-07-12" },
           { "nombre": "Nacho Pena", "fecha": "2025-07-12" },
           { "nombre": "Helena Risco","fecha": "2025-07-11" },
-          { "nombre": "Patri Ludeña", "fecha": "2025-07-11" }
-        
+          { "nombre": "Patri Ludeña", "fecha": "2025-07-11" },
+          { "nombre": "Marta Cortízas", "fecha": "2025-08-03" },
+          { "nombre": "Carlos Nogueira", "fecha": "2025-08-03" },
+          { "nombre": "Nuria Medicinas", "fecha": "2025-08-03" },
+          { "nombre": "Sara Mínguez", "fecha": "2025-08-03" },
+          { "nombre": "Paloma Redondo", "fecha": "2025-08-03" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/mañaneo.jpg",
         "requisitos": []
@@ -397,7 +418,8 @@
           { "nombre": "Cristina Casas", "fecha": "2025-07-10" },
           { "nombre": "María Selgas", "fecha": "2025-07-12" },
           { "nombre": "Fran Encabo", "fecha": "2025-07-11" },
-            { "nombre": "Ana Esfenoides", "fecha": "2025-07-11" }
+          { "nombre": "Ana Esfenoides", "fecha": "2025-07-11" },
+          { "nombre": "Roberto Lago", "fecha": "2025-08-03" }
           
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/pudiente.jpg",
