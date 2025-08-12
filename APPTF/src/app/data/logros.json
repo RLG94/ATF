@@ -1,14 +1,14 @@
 {
   "conquista": {
-     "facil": [
+    "facil": [
       {
         "nombre": "Minifundio",
         "descripcion": "Puntúa en algún pueblo de menos de 1000 habitantes",
         "obtenido": [
-            { "nombre": "Nuria Medicinas", "fecha": "2025-07-20" },
-            { "nombre": "Anxo Soilán", "fecha": "2025-07-20" },
-            { "nombre": "Iria Ventosinos", "fecha": "2025-07-20" },
-            { "nombre": "Ana Esfenoides", "fecha": "2025-07-20" }
+          { "nombre": "Nuria Medicinas", "fecha": "2025-07-20" },
+          { "nombre": "Anxo Soilán", "fecha": "2025-07-20" },
+          { "nombre": "Iria Ventosinos", "fecha": "2025-07-20" },
+          { "nombre": "Ana Esfenoides", "fecha": "2025-07-20" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/minifundio.jpg",
         "requisitos": []
@@ -17,45 +17,44 @@
         "nombre": "Aire Fresco",
         "descripcion": "Puntúa en el campo, o en algún lugar alejado de la urbe",
         "obtenido": [
-                     { "nombre": "Miguel Actor", "fecha": "2025-07-10" },
-                     { "nombre": "Kike Lagares", "fecha": "2025-07-10" },
-                     { "nombre": "Alejandro Barba", "fecha": "2025-07-10" },
-                     { "nombre": "Gojo Carracedo", "fecha": "2025-07-10" },
-                     { "nombre": "Cristina Casas", "fecha": "2025-07-10" },
-                     { "nombre": "Aitor Insunza", "fecha": "2025-07-10" },
-                     { "nombre": "Sara Villamarín", "fecha": "2025-07-10" },
-                     { "nombre": "Nirei Orange", "fecha": "2025-07-10" },
-                     { "nombre": "Andrea Ogando", "fecha": "2025-07-10" },
-                     { "nombre": "Roberto Lago", "fecha": "2025-07-10" },
-                     { "nombre": "Frank Díaz", "fecha": "2025-07-10" },
-                     { "nombre": "Paloma Redondo", "fecha": "2025-07-10" },
-                     { "nombre": "Fran Encabo", "fecha": "2025-07-10" },
-                     { "nombre": "Deborah Forrester", "fecha": "2025-07-10" },
-                     { "nombre": "María Selgas", "fecha": "2025-07-11" },
-                     { "nombre": "Breogán Sousa", "fecha": "2025-07-10" },
-                     { "nombre": "Víctor Castro", "fecha": "2025-07-10" },
-                     { "nombre": "Ana Esfenoides", "fecha": "2025-07-11" },
-                     { "nombre": "Nuria Medicinas", "fecha": "2025-07-11" },
-                     { "nombre": "Anxo Soilán", "fecha": "2025-07-11" },
-                     { "nombre": "Marta Cortízas", "fecha": "2025-07-11" },
-                     { "nombre": "Carlos Nogueira", "fecha": "2025-07-11" },
-                     { "nombre": "Andoni Álvarez", "fecha": "2025-07-11" },
-                     { "nombre": "Rebeca Llacer", "fecha": "2025-07-11" },
-                     { "nombre": "Álvaro Verde", "fecha": "2025-07-11" },
-                     { "nombre": "Mia Otero", "fecha": "2025-07-11" },
-                     { "nombre": "Alejandra Lai", "fecha": "2025-07-10" },
-                     { "nombre": "Isa Vázquez", "fecha": "2025-07-11" },
-                     { "nombre": "Sara Mínguez", "fecha": "2025-07-11" },
-                     { "nombre": "Jacobo Camba", "fecha": "2025-07-11" },
-                     { "nombre": "Javier Llinares", "fecha": "2025-07-11" },
-                     { "nombre": "Cora Díaz", "fecha": "2025-07-11" },
-                     { "nombre": "Nacho Pena", "fecha": "2025-07-11" },
-                     { "nombre": "Bea Pérez", "fecha": "2025-07-11" },
-                     { "nombre": "Iria Ventosinos", "fecha": "2025-07-11" },
-                     { "nombre": "Helena Risco", "fecha": "2025-07-11" },
-                     { "nombre": "Rodrigo Novo", "fecha": "2025-07-10" }
-                     
-    ],
+          { "nombre": "Miguel Actor", "fecha": "2025-07-10" },
+          { "nombre": "Kike Lagares", "fecha": "2025-07-10" },
+          { "nombre": "Alejandro Barba", "fecha": "2025-07-10" },
+          { "nombre": "Gojo Carracedo", "fecha": "2025-07-10" },
+          { "nombre": "Cristina Casas", "fecha": "2025-07-10" },
+          { "nombre": "Aitor Insunza", "fecha": "2025-07-10" },
+          { "nombre": "Sara Villamarín", "fecha": "2025-07-10" },
+          { "nombre": "Nirei Orange", "fecha": "2025-07-10" },
+          { "nombre": "Andrea Ogando", "fecha": "2025-07-10" },
+          { "nombre": "Roberto Lago", "fecha": "2025-07-10" },
+          { "nombre": "Frank Díaz", "fecha": "2025-07-10" },
+          { "nombre": "Paloma Redondo", "fecha": "2025-07-10" },
+          { "nombre": "Fran Encabo", "fecha": "2025-07-10" },
+          { "nombre": "Deborah Forrester", "fecha": "2025-07-10" },
+          { "nombre": "María Selgas", "fecha": "2025-07-11" },
+          { "nombre": "Breogán Sousa", "fecha": "2025-07-10" },
+          { "nombre": "Víctor Castro", "fecha": "2025-07-10" },
+          { "nombre": "Ana Esfenoides", "fecha": "2025-07-11" },
+          { "nombre": "Nuria Medicinas", "fecha": "2025-07-11" },
+          { "nombre": "Anxo Soilán", "fecha": "2025-07-11" },
+          { "nombre": "Marta Cortízas", "fecha": "2025-07-11" },
+          { "nombre": "Carlos Nogueira", "fecha": "2025-07-11" },
+          { "nombre": "Andoni Álvarez", "fecha": "2025-07-11" },
+          { "nombre": "Rebeca Llacer", "fecha": "2025-07-11" },
+          { "nombre": "Álvaro Verde", "fecha": "2025-07-11" },
+          { "nombre": "Mia Otero", "fecha": "2025-07-11" },
+          { "nombre": "Alejandra Lai", "fecha": "2025-07-10" },
+          { "nombre": "Isa Vázquez", "fecha": "2025-07-11" },
+          { "nombre": "Sara Mínguez", "fecha": "2025-07-11" },
+          { "nombre": "Jacobo Camba", "fecha": "2025-07-11" },
+          { "nombre": "Javier Llinares", "fecha": "2025-07-11" },
+          { "nombre": "Cora Díaz", "fecha": "2025-07-11" },
+          { "nombre": "Nacho Pena", "fecha": "2025-07-11" },
+          { "nombre": "Bea Pérez", "fecha": "2025-07-11" },
+          { "nombre": "Iria Ventosinos", "fecha": "2025-07-11" },
+          { "nombre": "Helena Risco", "fecha": "2025-07-11" },
+          { "nombre": "Rodrigo Novo", "fecha": "2025-07-10" }
+        ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/aire-fresco.jpg",
         "requisitos": []
       },
@@ -95,7 +94,6 @@
           { "nombre": "Javi El Bueno", "fecha": "2025-08-05" },
           { "nombre": "Nirei Orange", "fecha": "2025-07-25" },
           { "nombre": "Iria Ventosinos", "fecha": "2025-07-25" }
-
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/topo.jpg",
         "requisitos": []
@@ -106,7 +104,7 @@
         "nombre": "Guiri Local",
         "descripcion": "Puntúa fuera de Galicia",
         "obtenido": [],
-        "imagen":"https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/guiri-local.jpg",
+        "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/guiri-local.jpg",
         "requisitos": [0]
       },
       {
@@ -114,7 +112,7 @@
         "descripcion": "Consigue probar 4 bebidas icónicas : Floreros, Maxia, Tumbadioses y Verditas",
         "obtenido": [],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/brebajes-misticos.jpg",
-        "requisitos": [1,2]
+        "requisitos": [1, 2]
       }
     ],
     "dificil": [
@@ -156,31 +154,31 @@
       {
         "nombre": "Takero",
         "descripcion": "Realiza un graffiti con las siglas ATF",
-        "obtenido": [{ "nombre": "Roberto Lago", "fecha": "2025-06-23" },
-                     { "nombre": "Víctor Castro", "fecha": "2025-06-23" }, 
-                     { "nombre": "Nirei Orange", "fecha": "2025-06-23" },
-                     { "nombre": "Andrea Ogando", "fecha": "2025-06-23" }
-                    ],
+        "obtenido": [
+          { "nombre": "Roberto Lago", "fecha": "2025-06-23" },
+          { "nombre": "Víctor Castro", "fecha": "2025-06-23" },
+          { "nombre": "Nirei Orange", "fecha": "2025-06-23" },
+          { "nombre": "Andrea Ogando", "fecha": "2025-06-23" }
+        ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/takero.jpg",
         "requisitos": []
       },
-       {
+      {
         "nombre": "Lienzo Humano",
         "descripcion": "Consigue que un borracho random pinte tu cuerpo",
-        "obtenido": [{"nombre":"Sara Mínguez", "fecha": "2025-07-04"},
-                     {"nombre": "Paloma Redondo", "fecha": "2025-07-04" },
-                     { "nombre": "Frank Díaz", "fecha": "2025-07-04" },
-                     { "nombre": "Nirei Orange", "fecha": "2025-07-04" },
-                     { "nombre": "Mia Otero", "fecha": "2025-07-04" },
-                     { "nombre": "Ale Lai", "fecha": "2025-07-04" },
-                     { "nombre": "Ana Esfenoides", "fecha": "2025-07-11" },
-                     { "nombre": "Maria Selgas", "fecha": "2025-07-22" },
-                     { "nombre": "Mateo", "fecha": "2025-07-22" },
-                     { "nombre": "Sergio González", "fecha": "2025-08-08" }
-                   
+        "obtenido": [
+          { "nombre": "Sara Mínguez", "fecha": "2025-07-04" },
+          { "nombre": "Paloma Redondo", "fecha": "2025-07-04" },
+          { "nombre": "Frank Díaz", "fecha": "2025-07-04" },
+          { "nombre": "Nirei Orange", "fecha": "2025-07-04" },
+          { "nombre": "Mia Otero", "fecha": "2025-07-04" },
+          { "nombre": "Ale Lai", "fecha": "2025-07-04" },
+          { "nombre": "Ana Esfenoides", "fecha": "2025-07-11" },
+          { "nombre": "Maria Selgas", "fecha": "2025-07-22" },
+          { "nombre": "Mateo", "fecha": "2025-07-22" },
+          { "nombre": "Sergio González", "fecha": "2025-08-08" }
+        ],
 
-                    ],
-                     
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/lienzo-humano.jpg",
         "requisitos": []
       },
@@ -201,7 +199,6 @@
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/alquimista.jpg",
         "requisitos": []
       }
-      
     ],
     "medio": [
       {
@@ -209,9 +206,9 @@
         "descripcion": "Dirige a borrachos desconocidos para que representen una pequeña obra de teatro",
         "obtenido": [],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/cubatin-tarantino.jpg",
-        "requisitos": [1,3]
+        "requisitos": [1, 3]
       },
-       {
+      {
         "nombre": "Alcoholic Rhapsody",
         "descripcion": "Cantad una ópera ATF en mitad de la calle y puntuad esa noche",
         "obtenido": [],
@@ -220,25 +217,25 @@
       }
     ],
     "dificil": [
-       {
+      {
         "nombre": "Artista Consagrado",
         "descripcion": "Crea cualquier tipo de obra artística de gran calidad relacionada con el ATF. Todo el ATF debe estar de acuerdo en que es una obra maestra",
+        "obtenido": [],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/artista-consagrado.jpg",
         "requisitos": []
       },
-           {
+      {
         "nombre": "Maestro Liador",
         "descripcion": "Consigue liar un porro con párkinson para concienciar a la gente. Debe ser 'fumable'",
-        "obtenido": [
-           { "nombre": "Deborah Forrester", "fecha": "2025-07-12" }
-        ],
+        "obtenido": [{ "nombre": "Deborah Forrester", "fecha": "2025-07-12" }],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/maestro-liador.jpg",
         "requisitos": []
       }
     ]
   },
   "olimpiadas": {
-    "facil": [ {
+    "facil": [
+      {
         "nombre": "Tahúr",
         "descripcion": "Gana una partida de ATF Heroes",
         "obtenido": [
@@ -249,19 +246,19 @@
           { "nombre": "Paloma Redondo", "fecha": "2025-08-05" },
           { "nombre": "Nirei Orange", "fecha": "2025-08-08" },
           { "nombre": "Iria Ventosinos", "fecha": "2025-08-08" }
-        
-      ],
+        ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/tahur.jpg",
         "requisitos": []
       },
       {
         "nombre": "Alehop!",
         "descripcion": "Salta al potro a un desconocido...Y que te salte el a ti!",
-        "obtenido": [ { "nombre": "Roberto Lago", "fecha": "2025-07-04" }, 
-                      { "nombre": "Sara Mínguez", "fecha": "2025-07-04" },
-                      { "nombre": "Nuria Medicinas", "fecha": "2025-07-18" },
-                      { "nombre": "Víctor Castro", "fecha": "2025-07-18" }
-                    ],
+        "obtenido": [
+          { "nombre": "Roberto Lago", "fecha": "2025-07-04" },
+          { "nombre": "Sara Mínguez", "fecha": "2025-07-04" },
+          { "nombre": "Nuria Medicinas", "fecha": "2025-07-18" },
+          { "nombre": "Víctor Castro", "fecha": "2025-07-18" }
+        ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/alehop.jpg",
         "requisitos": []
       },
@@ -289,7 +286,8 @@
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/wod.jpg",
         "requisitos": []
-      },  {
+      },
+      {
         "nombre": "Buena Suelte",
         "descripcion": "Cuélate por algún AGUJELO DE LA BUENA SUELTE!",
         "obtenido": [
@@ -320,30 +318,31 @@
         "requisitos": []
       }
     ],
-    "medio": [{
+    "medio": [
+      {
         "nombre": "Mula de carga",
         "descripcion": "Avanza con un miembro ATF a caballito durante al menos 300metros",
-        "obtenido": [ 
-            {"nombre": "Víctor Castro", "fecha": "2025-07-07" },
-            { "nombre": "Nirei Orange", "fecha": "2025-07-07" },
-            { "nombre": "Roberto Lago", "fecha": "2025-07-11" },
-            { "nombre": "Fran Encabo", "fecha": "2025-07-11" },
-            { "nombre": "Nacho Pena", "fecha": "2025-07-11" },
-            { "nombre": "Nuria Medicinas", "fecha": "2025-07-18" }
-          ],
+        "obtenido": [
+          { "nombre": "Víctor Castro", "fecha": "2025-07-07" },
+          { "nombre": "Nirei Orange", "fecha": "2025-07-07" },
+          { "nombre": "Roberto Lago", "fecha": "2025-07-11" },
+          { "nombre": "Fran Encabo", "fecha": "2025-07-11" },
+          { "nombre": "Nacho Pena", "fecha": "2025-07-11" },
+          { "nombre": "Nuria Medicinas", "fecha": "2025-07-18" }
+        ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/mula-de-carga.jpg",
-        "requisitos": [1,2]
+        "requisitos": [1, 2]
       },
       {
         "nombre": "Velocista Imparable",
         "descripcion": "Gana una carrera sin pantalones",
-        "obtenido": [
-                { "nombre": "Víctor Castro", "fecha": "2025-07-11" } 
-        ],
+        "obtenido": [{ "nombre": "Víctor Castro", "fecha": "2025-07-11" }],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/velocista-imparable.jpg",
-        "requisitos": [3,2]
-      }],
-    "dificil": [{
+        "requisitos": [3, 2]
+      }
+    ],
+    "dificil": [
+      {
         "nombre": "Mar Adentro",
         "descripcion": "Báñate en el mar (EN CALMA)",
         "obtenido": [],
@@ -353,12 +352,11 @@
       {
         "nombre": "La Imposible",
         "descripcion": "Haz una voltereta con un cubata en la mano sin derramar nada de contenido. No puedes usar una tapa sobre el vaso",
-        "obtenido": [
-                { "nombre": "Sara Mínguez", "fecha": "2025-07-19" }
-        ],
+        "obtenido": [{ "nombre": "Sara Mínguez", "fecha": "2025-07-19" }],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/la-imposible.jpg",
         "requisitos": [1]
-      }]
+      }
+    ]
   },
   "desfase": {
     "facil": [
@@ -371,8 +369,8 @@
           { "nombre": "Ana Esfenoides", "fecha": "2025-07-18" },
           { "nombre": "Nuria Medicinas", "fecha": "2025-07-18" },
           { "nombre": "Víctor Castro", "fecha": "2025-07-18" },
-           { "nombre": "Kike Lagares", "fecha": "2025-07-18" },
-           { "nombre": "Sara Mínguez", "fecha": "2025-07-19" }
+          { "nombre": "Kike Lagares", "fecha": "2025-07-18" },
+          { "nombre": "Sara Mínguez", "fecha": "2025-07-19" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/cubatazo.jpg",
         "requisitos": []
@@ -396,7 +394,7 @@
           { "nombre": "Frank Díaz", "fecha": "2025-07-11" },
           { "nombre": "Iria Ventosinos", "fecha": "2025-07-12" },
           { "nombre": "Nacho Pena", "fecha": "2025-07-12" },
-          { "nombre": "Helena Risco","fecha": "2025-07-11" },
+          { "nombre": "Helena Risco", "fecha": "2025-07-11" },
           { "nombre": "Patri Ludeña", "fecha": "2025-07-11" },
           { "nombre": "Marta Cortízas", "fecha": "2025-08-03" },
           { "nombre": "Carlos Nogueira", "fecha": "2025-08-03" },
@@ -421,10 +419,6 @@
           { "nombre": "Fran Encabo", "fecha": "2025-07-11" },
           { "nombre": "Ana Esfenoides", "fecha": "2025-07-11" },
           { "nombre": "Roberto Lago", "fecha": "2025-08-03" }
-          
-          
-  
-          
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/pudiente.jpg",
         "requisitos": []
@@ -435,29 +429,29 @@
         "nombre": "Guardería",
         "descripcion": "Puntúa ATF con algún menor (-18 años) en el grupo.",
         "obtenido": [
-            { "nombre": "Nuria Medicinas", "fecha": "2025-07-20" },
-            { "nombre": "Anxo Soilán", "fecha": "2025-07-20" },
-            { "nombre": "Iria Ventosinos", "fecha": "2025-07-20" },
-            { "nombre": "Ana Esfenoides", "fecha": "2025-07-20" },
-            { "nombre": "Perfe López", "fecha": "2025-07-26" },
-            { "nombre": "Alejandra Mangano", "fecha": "2025-07-26" },
-            { "nombre": "Víctor Castro", "fecha": "2025-07-26" },
-            { "nombre": "Roberto Lago", "fecha": "2025-07-26" },
-            { "nombre": "Nirei Orange", "fecha": "2025-07-26" },
-            { "nombre": "Andrea Ogando", "fecha": "2025-07-26" },
-            { "nombre": "Javier Llinares", "fecha": "2025-07-26" },
-            { "nombre": "Cora Díaz", "fecha": "2025-07-26" },
-            { "nombre": "Alvaro Verde", "fecha": "2025-07-26" },
-            { "nombre": "Mía Otero", "fecha": "2025-07-26" },
-            { "nombre": "María Selgas", "fecha": "2025-07-26" },
-            { "nombre": "Breogán Sousa", "fecha": "2025-07-26" },
-            { "nombre": "Nacho Pena", "fecha": "2025-07-26" },
-            { "nombre": "Frank Díaz", "fecha": "2025-07-26" },
-            { "nombre": "Paloma Redondo", "fecha": "2025-07-26" },
-            { "nombre": "Cristina Casas", "fecha": "2025-07-26" },
-            { "nombre": "Gojo Carracedo", "fecha": "2025-07-26" },
-            { "nombre": "Don Facto", "fecha": "2025-07-26" },
-            { "nombre": "Mateo Iglesias", "fecha": "2025-07-26" }
+          { "nombre": "Nuria Medicinas", "fecha": "2025-07-20" },
+          { "nombre": "Anxo Soilán", "fecha": "2025-07-20" },
+          { "nombre": "Iria Ventosinos", "fecha": "2025-07-20" },
+          { "nombre": "Ana Esfenoides", "fecha": "2025-07-20" },
+          { "nombre": "Perfe López", "fecha": "2025-07-26" },
+          { "nombre": "Alejandra Mangano", "fecha": "2025-07-26" },
+          { "nombre": "Víctor Castro", "fecha": "2025-07-26" },
+          { "nombre": "Roberto Lago", "fecha": "2025-07-26" },
+          { "nombre": "Nirei Orange", "fecha": "2025-07-26" },
+          { "nombre": "Andrea Ogando", "fecha": "2025-07-26" },
+          { "nombre": "Javier Llinares", "fecha": "2025-07-26" },
+          { "nombre": "Cora Díaz", "fecha": "2025-07-26" },
+          { "nombre": "Alvaro Verde", "fecha": "2025-07-26" },
+          { "nombre": "Mía Otero", "fecha": "2025-07-26" },
+          { "nombre": "María Selgas", "fecha": "2025-07-26" },
+          { "nombre": "Breogán Sousa", "fecha": "2025-07-26" },
+          { "nombre": "Nacho Pena", "fecha": "2025-07-26" },
+          { "nombre": "Frank Díaz", "fecha": "2025-07-26" },
+          { "nombre": "Paloma Redondo", "fecha": "2025-07-26" },
+          { "nombre": "Cristina Casas", "fecha": "2025-07-26" },
+          { "nombre": "Gojo Carracedo", "fecha": "2025-07-26" },
+          { "nombre": "Don Facto", "fecha": "2025-07-26" },
+          { "nombre": "Mateo Iglesias", "fecha": "2025-07-26" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/guarderia.jpg",
         "requisitos": [0]
@@ -466,29 +460,29 @@
         "nombre": "Geriátrico",
         "descripcion": "Puntúa ATF con algún viejo (+60 años) en el grupo.",
         "obtenido": [
-            { "nombre": "Nuria Medicinas", "fecha": "2025-07-20" },
-            { "nombre": "Anxo Soilán", "fecha": "2025-07-20" },
-            { "nombre": "Iria Ventosinos", "fecha": "2025-07-20" },
-            { "nombre": "Ana Esfenoides", "fecha": "2025-07-20" },
-            { "nombre": "Perfe López", "fecha": "2025-07-26" },
-            { "nombre": "Alejandra Mangano", "fecha": "2025-07-26" },
-            { "nombre": "Víctor Castro", "fecha": "2025-07-26" },
-            { "nombre": "Roberto Lago", "fecha": "2025-07-26" },
-            { "nombre": "Nirei Orange", "fecha": "2025-07-26" },
-            { "nombre": "Andrea Ogando", "fecha": "2025-07-26" },
-            { "nombre": "Javier Llinares", "fecha": "2025-07-26" },
-            { "nombre": "Cora Díaz", "fecha": "2025-07-26" },
-            { "nombre": "Alvaro Verde", "fecha": "2025-07-26" },
-            { "nombre": "Mía Otero", "fecha": "2025-07-26" },
-            { "nombre": "María Selgas", "fecha": "2025-07-26" },
-            { "nombre": "Breogán Sousa", "fecha": "2025-07-26" },
-            { "nombre": "Nacho Pena", "fecha": "2025-07-26" },
-            { "nombre": "Frank Díaz", "fecha": "2025-07-26" },
-            { "nombre": "Paloma Redondo", "fecha": "2025-07-26" },
-            { "nombre": "Cristina Casas", "fecha": "2025-07-26" },
-            { "nombre": "Gojo Carracedo", "fecha": "2025-07-26" },
-            { "nombre": "Don Facto", "fecha": "2025-07-26" },
-            { "nombre": "Mateo Iglesias", "fecha": "2025-07-26" }
+          { "nombre": "Nuria Medicinas", "fecha": "2025-07-20" },
+          { "nombre": "Anxo Soilán", "fecha": "2025-07-20" },
+          { "nombre": "Iria Ventosinos", "fecha": "2025-07-20" },
+          { "nombre": "Ana Esfenoides", "fecha": "2025-07-20" },
+          { "nombre": "Perfe López", "fecha": "2025-07-26" },
+          { "nombre": "Alejandra Mangano", "fecha": "2025-07-26" },
+          { "nombre": "Víctor Castro", "fecha": "2025-07-26" },
+          { "nombre": "Roberto Lago", "fecha": "2025-07-26" },
+          { "nombre": "Nirei Orange", "fecha": "2025-07-26" },
+          { "nombre": "Andrea Ogando", "fecha": "2025-07-26" },
+          { "nombre": "Javier Llinares", "fecha": "2025-07-26" },
+          { "nombre": "Cora Díaz", "fecha": "2025-07-26" },
+          { "nombre": "Alvaro Verde", "fecha": "2025-07-26" },
+          { "nombre": "Mía Otero", "fecha": "2025-07-26" },
+          { "nombre": "María Selgas", "fecha": "2025-07-26" },
+          { "nombre": "Breogán Sousa", "fecha": "2025-07-26" },
+          { "nombre": "Nacho Pena", "fecha": "2025-07-26" },
+          { "nombre": "Frank Díaz", "fecha": "2025-07-26" },
+          { "nombre": "Paloma Redondo", "fecha": "2025-07-26" },
+          { "nombre": "Cristina Casas", "fecha": "2025-07-26" },
+          { "nombre": "Gojo Carracedo", "fecha": "2025-07-26" },
+          { "nombre": "Don Facto", "fecha": "2025-07-26" },
+          { "nombre": "Mateo Iglesias", "fecha": "2025-07-26" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/geriatrico.jpg",
         "requisitos": [1]
