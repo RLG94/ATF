@@ -106,7 +106,7 @@ export class RankingComponent implements OnInit {
     {
       id: '8',
       nombre: 'Ana Esfenoides',
-      puntis: 23+2+1+1,
+      puntis: 24+2+1+1,
           //desfase//desfase//conquista//
       ganador: 1,
       posicion: null,
@@ -506,7 +506,7 @@ export class RankingComponent implements OnInit {
     {
       id: '6',
       nombre: 'Victor Castro',
-      puntis: 26+2+2+1,
+      puntis: 25+2+2+1,
         //desfase//olimpiadas//olimpiadas//
       ganador: 2,
       posicion: null,
