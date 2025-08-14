@@ -328,7 +328,9 @@
           { "nombre": "Roberto Lago", "fecha": "2025-07-11" },
           { "nombre": "Fran Encabo", "fecha": "2025-07-11" },
           { "nombre": "Nacho Pena", "fecha": "2025-07-11" },
-          { "nombre": "Nuria Medicinas", "fecha": "2025-07-18" }
+          { "nombre": "Nuria Medicinas", "fecha": "2025-07-18" },
+          { "nombre": "Frank Díaz", "fecha": "2025-08-13" },
+          { "nombre": "Sara Mínguez", "fecha": "2025-08-13" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/mula-de-carga.jpg",
         "requisitos": [1, 2]
@@ -336,7 +338,13 @@
       {
         "nombre": "Velocista Imparable",
         "descripcion": "Gana una carrera sin pantalones",
-        "obtenido": [{ "nombre": "Víctor Castro", "fecha": "2025-07-11" }],
+        "obtenido": [
+                    { "nombre": "Víctor Castro", "fecha": "2025-07-11" },
+                    { "nombre": "Nuria Medicinas", "fecha": "2025-08-13" },
+                    { "nombre": "Roberto Lago", "fecha": "2025-08-13" },
+                    { "nombre": "Nirei Orange", "fecha": "2025-08-13" }
+                  
+                  ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/velocista-imparable.jpg",
         "requisitos": [3, 2]
       }
@@ -345,14 +353,27 @@
       {
         "nombre": "Mar Adentro",
         "descripcion": "Báñate en el mar (EN CALMA)",
-        "obtenido": [],
+        "obtenido": [  { "nombre": "Nirei Orange", "fecha": "2025-08-13" },
+                       { "nombre": "Roberto Lago", "fecha": "2025-08-13" },
+                       { "nombre": "Frank Díaz", "fecha": "2025-08-13" },
+                       { "nombre": "Sara Mínguez", "fecha": "2025-08-13" },
+                       { "nombre": "Andrea Ogando", "fecha": "2025-08-13" },
+                       { "nombre": "Nuria Medicinas", "fecha": "2025-08-13" },
+                       { "nombre": "Carlos Sobrido", "fecha": "2025-08-13" }
+                       
+                      
+                      ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/mar-adentro.jpg",
         "requisitos": [0]
       },
       {
         "nombre": "La Imposible",
         "descripcion": "Haz una voltereta con un cubata en la mano sin derramar nada de contenido. No puedes usar una tapa sobre el vaso",
-        "obtenido": [{ "nombre": "Sara Mínguez", "fecha": "2025-07-19" }],
+        "obtenido": [
+                     { "nombre": "Sara Mínguez", "fecha": "2025-07-19" },
+                     { "nombre": "Nuria Medicinas", "fecha": "2025-08-13" },
+                     { "nombre": "Nirei Orange", "fecha": "2025-08-13" }
+                    ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/la-imposible.jpg",
         "requisitos": [1]
       }
