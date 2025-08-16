@@ -176,7 +176,8 @@
           { "nombre": "Ana Esfenoides", "fecha": "2025-07-11" },
           { "nombre": "Maria Selgas", "fecha": "2025-07-22" },
           { "nombre": "Mateo", "fecha": "2025-07-22" },
-          { "nombre": "Sergio González", "fecha": "2025-08-08" }
+          { "nombre": "Sergio González", "fecha": "2025-08-08" },
+          { "nombre": "Nuria Medicinas", "fecha": "2025-08-16" }
         ],
 
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/lienzo-humano.jpg",
@@ -282,7 +283,9 @@
           { "nombre": "Paloma Redondo", "fecha": "2025-07-04" },
           { "nombre": "Marta Cortízas", "fecha": "2025-07-12" },
           { "nombre": "Ana Esfenoides", "fecha": "2025-07-15" },
-          { "nombre": "Sergio González", "fecha": "2025-08-08" }
+          { "nombre": "Sergio González", "fecha": "2025-08-08" },
+          { "nombre": "Iria Ventosinos", "fecha": "2025-08-16" },
+          { "nombre": "Nuria Medicinas", "fecha": "2025-08-16" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/wod.jpg",
         "requisitos": []
@@ -503,7 +506,10 @@
           { "nombre": "Cristina Casas", "fecha": "2025-07-26" },
           { "nombre": "Gojo Carracedo", "fecha": "2025-07-26" },
           { "nombre": "Don Facto", "fecha": "2025-07-26" },
-          { "nombre": "Mateo Iglesias", "fecha": "2025-07-26" }
+          { "nombre": "Mateo Iglesias", "fecha": "2025-07-26" },
+          { "nombre": "Sara Mínguez", "fecha": "2025-08-08" },
+          { "nombre": "Rodri Novo", "fecha": "2025-08-08" },
+          { "nombre": "Marta Cortízas", "fecha": "2025-08-08" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/geriatrico.jpg",
         "requisitos": [1]
