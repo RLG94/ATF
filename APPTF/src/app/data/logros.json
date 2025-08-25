@@ -95,7 +95,8 @@
           { "nombre": "Sara Mínguez", "fecha": "2025-08-05" },
           { "nombre": "Javi El Bueno", "fecha": "2025-08-05" },
           { "nombre": "Nirei Orange", "fecha": "2025-07-25" },
-          { "nombre": "Iria Ventosinos", "fecha": "2025-07-25" }
+          { "nombre": "Iria Ventosinos", "fecha": "2025-07-25" },
+           { "nombre": "Sergio González", "fecha": "2025-08-24" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/topo.jpg",
         "requisitos": []
@@ -148,7 +149,8 @@
           { "nombre": "Paloma Redondo", "fecha": "2025-07-30" },
           { "nombre": "Cristina Casas", "fecha": "2025-08-03" },
           { "nombre": "Gojo Carracedo", "fecha": "2025-08-03" },
-          { "nombre": "Victor Castro", "fecha": "2025-08-03" }
+          { "nombre": "Victor Castro", "fecha": "2025-08-03" },
+          { "nombre": "Ana Esfenoides", "fecha": "2025-08-03" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/altruista.jpg",
         "requisitos": []
@@ -160,7 +162,8 @@
           { "nombre": "Roberto Lago", "fecha": "2025-06-23" },
           { "nombre": "Víctor Castro", "fecha": "2025-06-23" },
           { "nombre": "Nirei Orange", "fecha": "2025-06-23" },
-          { "nombre": "Andrea Ogando", "fecha": "2025-06-23" }
+          { "nombre": "Andrea Ogando", "fecha": "2025-06-23" },
+          { "nombre": "Ana Esfenoides", "fecha": "2025-08-23" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/takero.jpg",
         "requisitos": []
@@ -248,7 +251,10 @@
           { "nombre": "Breogán Sousa", "fecha": "2025-08-04" },
           { "nombre": "Paloma Redondo", "fecha": "2025-08-05" },
           { "nombre": "Nirei Orange", "fecha": "2025-08-08" },
-          { "nombre": "Iria Ventosinos", "fecha": "2025-08-08" }
+          { "nombre": "Iria Ventosinos", "fecha": "2025-08-08" },
+          { "nombre": "Maria Diz", "fecha": "2025-08-24" },
+          { "nombre": "Frank Díaz", "fecha": "2025-08-23" },
+          { "nombre": "Ale Lai", "fecha": "2025-08-23" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/tahur.jpg",
         "requisitos": []
@@ -260,7 +266,10 @@
           { "nombre": "Roberto Lago", "fecha": "2025-07-04" },
           { "nombre": "Sara Mínguez", "fecha": "2025-07-04" },
           { "nombre": "Nuria Medicinas", "fecha": "2025-07-18" },
-          { "nombre": "Víctor Castro", "fecha": "2025-07-18" }
+          { "nombre": "Víctor Castro", "fecha": "2025-07-18" },
+          { "nombre": "Nirei Orange", "fecha": "2025-08-24" },
+          { "nombre": "Ana Esfenoides", "fecha": "2025-08-24" },
+          { "nombre": "Iria Ventosinos", "fecha": "2025-08-24" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/alehop.jpg",
         "requisitos": []
@@ -335,7 +344,9 @@
           { "nombre": "Nacho Pena", "fecha": "2025-07-11" },
           { "nombre": "Nuria Medicinas", "fecha": "2025-07-18" },
           { "nombre": "Frank Díaz", "fecha": "2025-08-13" },
-          { "nombre": "Sara Mínguez", "fecha": "2025-08-13" }
+          { "nombre": "Sara Mínguez", "fecha": "2025-08-13" },
+          { "nombre": "Rodri Novo", "fecha": "2025-08-24" },
+          { "nombre": "Sergio González", "fecha": "2025-08-24" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/mula-de-carga.jpg",
         "requisitos": [1, 2]
@@ -377,7 +388,8 @@
         "obtenido": [
                      { "nombre": "Sara Mínguez", "fecha": "2025-07-19" },
                      { "nombre": "Nuria Medicinas", "fecha": "2025-08-13" },
-                     { "nombre": "Nirei Orange", "fecha": "2025-08-13" }
+                     { "nombre": "Nirei Orange", "fecha": "2025-08-13" },
+                     { "nombre": "Sergio González", "fecha": "2025-08-24" }
                     ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/la-imposible.jpg",
         "requisitos": [1]
@@ -396,7 +408,8 @@
           { "nombre": "Nuria Medicinas", "fecha": "2025-07-18" },
           { "nombre": "Víctor Castro", "fecha": "2025-07-18" },
           { "nombre": "Kike Lagares", "fecha": "2025-07-18" },
-          { "nombre": "Sara Mínguez", "fecha": "2025-07-19" }
+          { "nombre": "Sara Mínguez", "fecha": "2025-07-19" },
+          { "nombre": "Sergio González", "fecha": "2025-08-24" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/cubatazo.jpg",
         "requisitos": []
