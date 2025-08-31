@@ -8,7 +8,20 @@
           { "nombre": "Nuria Medicinas", "fecha": "2025-07-20" },
           { "nombre": "Anxo Soilán", "fecha": "2025-07-20" },
           { "nombre": "Iria Ventosinos", "fecha": "2025-07-20" },
-          { "nombre": "Ana Esfenoides", "fecha": "2025-07-20" }
+          { "nombre": "Ana Esfenoides", "fecha": "2025-07-20" },
+          { "nombre": "Victor Castro", "fecha": "2025-08-23" },
+          { "nombre": "Maria Selgas", "fecha": "2025-08-23" },
+          { "nombre": "Paloma Redondo", "fecha": "2025-08-23" },
+          { "nombre": "Rebeca Llacer", "fecha": "2025-08-23" },
+          { "nombre": "Don Facto", "fecha": "2025-08-23" },
+          { "nombre": "Breogán Sousa", "fecha": "2025-08-23" },
+          { "nombre": "Adrian Martínez", "fecha": "2025-08-23" },
+          { "nombre": "Alvaro Relojero", "fecha": "2025-08-23" },
+          { "nombre": "Nirei Orange", "fecha": "2025-08-28" },
+          { "nombre": "Deborah Forrester", "fecha": "2025-08-28" },
+          { "nombre": "Fran Encabo", "fecha": "2025-08-28" },
+          { "nombre": "Andrea Ogando", "fecha": "2025-08-28" }
+         
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/minifundio.jpg",
         "requisitos": []
@@ -96,7 +109,7 @@
           { "nombre": "Javi El Bueno", "fecha": "2025-08-05" },
           { "nombre": "Nirei Orange", "fecha": "2025-07-25" },
           { "nombre": "Iria Ventosinos", "fecha": "2025-07-25" },
-           { "nombre": "Sergio González", "fecha": "2025-08-24" }
+          { "nombre": "Sergio González", "fecha": "2025-08-24" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/topo.jpg",
         "requisitos": []
@@ -106,7 +119,12 @@
       {
         "nombre": "Guiri Local",
         "descripcion": "Puntúa fuera de Galicia",
-        "obtenido": [],
+        "obtenido": [
+          { "nombre": "Nirei Orange", "fecha": "2025-08-28" },
+          { "nombre": "Deborah Forrester", "fecha": "2025-08-28" },
+          { "nombre": "Fran Encabo", "fecha": "2025-08-28" },
+          { "nombre": "Andrea Ogando", "fecha": "2025-08-28" }
+        ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/guiri-local.jpg",
         "requisitos": [0]
       },
@@ -128,7 +146,7 @@
       },
       {
         "nombre": "Lobo de mar",
-        "descripcion": "Celebra fiesta en una embarcación (no requiere 2 AM)",
+        "descripcion": "Celebra fiesta(al menos 4 ATF) en una embarcación (no requiere 2 AM)",
         "obtenido": [],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/lobo-de-mar.jpg",
         "requisitos": [0]
@@ -254,7 +272,8 @@
           { "nombre": "Iria Ventosinos", "fecha": "2025-08-08" },
           { "nombre": "Maria Diz", "fecha": "2025-08-24" },
           { "nombre": "Frank Díaz", "fecha": "2025-08-23" },
-          { "nombre": "Ale Lai", "fecha": "2025-08-23" }
+          { "nombre": "Ale Lai", "fecha": "2025-08-23" },
+          { "nombre": "Ana Esfenoides", "fecha": "2025-08-23" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/tahur.jpg",
         "requisitos": []
@@ -389,7 +408,9 @@
                      { "nombre": "Sara Mínguez", "fecha": "2025-07-19" },
                      { "nombre": "Nuria Medicinas", "fecha": "2025-08-13" },
                      { "nombre": "Nirei Orange", "fecha": "2025-08-13" },
-                     { "nombre": "Sergio González", "fecha": "2025-08-24" }
+                     { "nombre": "Sergio González", "fecha": "2025-08-24" },
+                     { "nombre": "Paloma Redondo", "fecha": "2025-08-31" }
+      
                     ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/la-imposible.jpg",
         "requisitos": [1]
@@ -440,7 +461,9 @@
           { "nombre": "Carlos Nogueira", "fecha": "2025-08-03" },
           { "nombre": "Nuria Medicinas", "fecha": "2025-08-03" },
           { "nombre": "Sara Mínguez", "fecha": "2025-08-03" },
-          { "nombre": "Paloma Redondo", "fecha": "2025-08-03" }
+          { "nombre": "Paloma Redondo", "fecha": "2025-08-03" },
+          { "nombre": "Maria Selgas", "fecha": "2025-08-23" },
+          { "nombre": "Breogán Sousa", "fecha": "2025-08-23" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/mañaneo.jpg",
         "requisitos": []
