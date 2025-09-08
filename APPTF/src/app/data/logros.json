@@ -273,7 +273,9 @@
           { "nombre": "Maria Diz", "fecha": "2025-08-24" },
           { "nombre": "Frank Díaz", "fecha": "2025-08-23" },
           { "nombre": "Ale Lai", "fecha": "2025-08-23" },
-          { "nombre": "Ana Esfenoides", "fecha": "2025-08-23" }
+          { "nombre": "Ana Esfenoides", "fecha": "2025-08-23" },
+          { "nombre": "Roberto Lago", "fecha": "2025-09-04" },
+          { "nombre": "Aitor Insunza", "fecha": "2025-09-05" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/tahur.jpg",
         "requisitos": []
@@ -394,7 +396,8 @@
                        { "nombre": "Sara Mínguez", "fecha": "2025-08-13" },
                        { "nombre": "Andrea Ogando", "fecha": "2025-08-13" },
                        { "nombre": "Nuria Medicinas", "fecha": "2025-08-13" },
-                       { "nombre": "Carlos Sobrido", "fecha": "2025-08-13" }
+                       { "nombre": "Carlos Sobrido", "fecha": "2025-08-13" },
+                       { "nombre": "Víctor Castro", "fecha": "2025-09-06" }
                        
                       
                       ],
