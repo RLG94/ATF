@@ -123,7 +123,10 @@
           { "nombre": "Nirei Orange", "fecha": "2025-08-28" },
           { "nombre": "Deborah Forrester", "fecha": "2025-08-28" },
           { "nombre": "Fran Encabo", "fecha": "2025-08-28" },
-          { "nombre": "Andrea Ogando", "fecha": "2025-08-28" }
+          { "nombre": "Andrea Ogando", "fecha": "2025-08-28" },
+          { "nombre": "Ana Esfenoides", "fecha": "2025-09-20" },
+          { "nombre": "Anxo Soilán", "fecha": "2025-09-20" },
+          { "nombre": "Nuria Medicinas", "fecha": "2025-09-20" }
         ],
         "imagen": "https://raw.githubusercontent.com/RLG94/ATF/refs/heads/main/APPTF/src/assets/images/logros/icons/guiri-local.jpg",
         "requisitos": [0]
