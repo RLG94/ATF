@@ -282,7 +282,7 @@ export class RankingComponent implements OnInit {
    
     {
       id: '48',
-      nombre: 'Jacobo Camba (Tipos Majos)',
+      nombre: 'Jacobo Camba (Tipos Normales)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -348,7 +348,7 @@ export class RankingComponent implements OnInit {
     },
      {
       id: '81',
-      nombre: 'Mateo Iglesias (Tipos Majos)',
+      nombre: 'Mateo Iglesias (Tipos Normales)',
       puntis: 0,
       ganador: 0,
       posicion: null,
