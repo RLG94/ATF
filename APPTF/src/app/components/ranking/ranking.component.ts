@@ -23,7 +23,7 @@ export class RankingComponent implements OnInit {
     // Usar la interfaz Usuario para asegurar la tipificación
     {
       id: '3',
-      nombre: 'Adrian Martínez (DÚO Proyecto Hombre)',
+      nombre: 'Adrian Martínez (Proyecto Hombre)',
       puntis: 1,
       ganador: 0,
       posicion: null,
@@ -31,7 +31,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '25',
-      nombre: 'Aitor Nuñez (DÚO CHAT TERRA)',
+      nombre: 'Aitor Nuñez (CHAT TERRA)',
       puntis: 1,
       ganador: 0,
       posicion: null,
@@ -39,7 +39,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '16',
-      nombre: 'Alejandra Lai (DÚO Las hermanas Lai)',
+      nombre: 'Alejandra Lai (Las hermanas Lai)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -47,7 +47,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '37',
-      nombre: 'Alejandra Mangano (DÚO PENDIENTE)',
+      nombre: 'Alejandra Mangano (Los Alejandres)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -55,7 +55,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '43',
-      nombre: 'Alejandro Barba (DÚO PENDIENTE)',
+      nombre: 'Alejandro Barba (Los Alejandres)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -63,7 +63,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '42',
-      nombre: 'Alejandro Ces (DÚO PENDIENTE)',
+      nombre: 'Alejandro Ces (Los Inesperados)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -101,7 +101,7 @@ export class RankingComponent implements OnInit {
     },*/
     {
       id: '26',
-      nombre: 'Alvaro Verde (DÚO PENDIENTE)',
+      nombre: 'Alvaro Verde (Dos Personas)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -109,7 +109,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '8',
-      nombre: 'Ana Esfenoides (DÚO Speed Y Friends)',
+      nombre: 'Ana Esfenoides (Speed Y Friends)',
       puntis: 3,
       ganador: 1,
       posicion: null,
@@ -117,7 +117,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '2',
-      nombre: 'Andoni Álvarez (DÚO Mejores Amigos)',
+      nombre: 'Andoni Álvarez (Mejores Amigos)',
       puntis: 1,
       ganador: 0,
       posicion: null,
@@ -126,7 +126,7 @@ export class RankingComponent implements OnInit {
   
     {
       id: '39',
-      nombre: 'Andrea Nuñez (DÚO Las hermanas Lai)',
+      nombre: 'Andrea Nuñez (Las hermanas Lai)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -134,7 +134,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '27',
-      nombre: 'Andrea Ogando (DÚO Lorem Ipsum)',
+      nombre: 'Andrea Ogando (Lorem Ipsum)',
       puntis: 1,
       ganador: 0,
       posicion: null,
@@ -142,7 +142,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '56',
-      nombre: 'Anxo Soilán (DÚO PENDIENTE)',
+      nombre: 'Anxo Soilán (Canteira Lucense)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -151,7 +151,7 @@ export class RankingComponent implements OnInit {
    
     {
       id: '9',
-      nombre: 'Bea Vázquez (DÚO PENDIENTE)',
+      nombre: 'Bea Vázquez (Los Inesperados)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -159,7 +159,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '46',
-      nombre: 'Belén Pole (DÚO PENDIENTE)',
+      nombre: 'Belén Pole (Amigas del alma)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -167,7 +167,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '10',
-      nombre: 'Breo da Sousa (DÚO PENDIENTE)',
+      nombre: 'Breo da Sousa (Deborahndo Cañotos)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -175,7 +175,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '11',
-      nombre: 'Carlos Nogueira (DÚO GangSOS)',
+      nombre: 'Carlos Nogueira (GangSOS)',
       puntis: 1,
       ganador: 0,
       posicion: null,
@@ -183,7 +183,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '28',
-      nombre: 'Cora Diaz (DÚO PENDIENTE)',
+      nombre: 'Cora Diaz (Dos Personas)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -191,7 +191,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '29',
-      nombre: 'Cristina Casas (DÚO Soseras Sosez)',
+      nombre: 'Cristina Casas (Soseras Sósez)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -199,7 +199,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '30',
-      nombre: 'Deborah Forrester (DÚO PENDIENTE)',
+      nombre: 'Deborah Forrester (Deborahndo Cañotos)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -207,7 +207,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '53',
-      nombre: 'Diego Novio Belén (DÚO PENDIENTE)',
+      nombre: 'Diego Novio Belén (Amigos de Infancia)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -215,7 +215,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '12',
-      nombre: 'Don Facto (DÚO Proyecto Hombre)',
+      nombre: 'Don Facto (Proyecto Hombre)',
       puntis: 1,
       ganador: 1,
       posicion: null,
@@ -224,7 +224,7 @@ export class RankingComponent implements OnInit {
     
     {
       id: '51',
-      nombre: 'Helena Aurora (DÚO PENDIENTE)',
+      nombre: 'Helena Aurora (Amigos de Infancia)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -232,7 +232,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '31',
-      nombre: 'Francisco Encabo (DÚO PENDIENTE)',
+      nombre: "Francisco Encabo (Franks)",
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -240,32 +240,32 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '13',
-      nombre: 'Frank Díaz (DÚO PENDIENTE)',
+      nombre: 'Frank Díaz (Franks)',
       puntis: 0,
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/Zxott5t.jpeg',
     },
-   /* INACTIVO 2025 O pts
+   
     {
       id: '58',
-      nombre: 'Gabri Orizales',
-      puntis: 0,
+      nombre: 'Bea Pérez (Forzas do Eixo)',
+      puntis: 1,
       ganador: 0,
       posicion: null,
-      imagen: 'https://i.imgur.com/NquGdyO.jpeg',
-    },*/
+      imagen: 'https://i.imgur.com/A7WMOhA.jpeg',
+    },
     {
       id: '14',
-      nombre: 'Gojo Carracedo (DÚO Forzas do Eixo)',
-      puntis: 0,
+      nombre: 'Gojo Carracedo (Forzas do Eixo)',
+      puntis: 1,
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/Dfdenvn.jpeg',
     },
     {
       id: '49',
-      nombre: 'Iria Ventosinos (DÚO PENDIENTE)',
+      nombre: 'Iria Ventosinos (Canteira Lucense)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -273,8 +273,8 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '32',
-      nombre: 'Isa Vázquez (DÚO PENDIENTE)',
-      puntis: 0,
+      nombre: 'Isa Vázquez (NOMBRE PENDIENTE)',
+      puntis: 3,
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/hperML2.jpeg',
@@ -282,7 +282,7 @@ export class RankingComponent implements OnInit {
    
     {
       id: '48',
-      nombre: 'Jacobo Camba (DÚO PENDIENTE)',
+      nombre: 'Jacobo Camba (Tipos Majos)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -290,8 +290,8 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '15',
-      nombre: 'Javi Llinares (DÚO PENDIENTE)',
-      puntis: 1,
+      nombre: 'Javi Llinares (Perfectos Coruños)',
+      puntis: 3,
       ganador: 0,
       posicion: null,
       imagen:
@@ -299,7 +299,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '77',
-      nombre: 'Javi El Bueno (DÚO PENDIENTE)',
+      nombre: 'Javi El Bueno (Duo Divertido)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -307,7 +307,7 @@ export class RankingComponent implements OnInit {
     },
       {
       id: '71',
-      nombre: 'José Ruiz (DÚO PENDIENTE)',
+      nombre: 'José Ruiz (Duo Divertido)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -315,7 +315,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '44',
-      nombre: 'Kike Lagares (DÚO PENDIENTE)',
+      nombre: 'Kike Lagares (Completos Conocidos )',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -323,7 +323,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '17',
-      nombre: 'Laura Lua (DÚO PENDIENTE)',
+      nombre: 'Laura Lua (Completos Conocidos)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -332,7 +332,7 @@ export class RankingComponent implements OnInit {
  
     {
       id: '38',
-      nombre: 'Lidia Vilanova (DÚO PENDIENTE)',
+      nombre: 'Lidia Vilanova (Amigas del alma)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -340,7 +340,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '40',
-      nombre: 'Maria Ubeda (DÚO Honeymoon)',
+      nombre: 'Maria Ubeda (Honeymoon)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -348,7 +348,7 @@ export class RankingComponent implements OnInit {
     },
      {
       id: '81',
-      nombre: 'Mateo Iglesias (DÚO PENDIENTE)',
+      nombre: 'Mateo Iglesias (Tipos Majos)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -356,7 +356,7 @@ export class RankingComponent implements OnInit {
     },
      {
       id: '80',
-      nombre: 'Mia Otero (DÚO PENDIENTE)',
+      nombre: 'Mia Otero (Hermanazas)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -364,7 +364,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '47',
-      nombre: 'Maria Selgas (DÚO PENDIENTE)',
+      nombre: 'Maria Selgas (Purpurine Girls)',
       puntis: 0,
       ganador: 1,
       posicion: null,
@@ -372,7 +372,7 @@ export class RankingComponent implements OnInit {
     },
      {
       id: '74',
-      nombre: 'Maria Diz (DÚO PENDIENTE)',
+      nombre: 'Maria Diz (Hermanazas)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -380,7 +380,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '19',
-      nombre: 'Marta Cortizas (DÚO CHAT TERRA)',
+      nombre: 'Marta Cortizas (CHAT TERRA)',
       puntis: 1,
       ganador: 0,
       posicion: null,
@@ -389,7 +389,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '20',
-      nombre: 'Nacho Pena (DÚO Abrazos y Monsters)',
+      nombre: 'Nacho Pena (Abrazos y Monsters)',
       puntis: 3,
       ganador: 0,
       posicion: null,
@@ -398,7 +398,7 @@ export class RankingComponent implements OnInit {
    
     {
       id: '50',
-      nombre: 'Nuria Medicinas (DÚO PENDIENTE)',
+      nombre: 'Nuria Medicinas (Purpurine Girls)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -406,7 +406,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '21',
-      nombre: 'Nirei Orange (DÚO Speed Y Friends)',
+      nombre: 'Nirei Orange (Speed Y Friends)',
       puntis: 3,
       ganador: 1,
       posicion: null,
@@ -415,7 +415,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '22',
-      nombre: 'Pablo Saborido (DÚO PENDIENTE)',
+      nombre: 'Pablo Saborido (Puro Palique)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -423,23 +423,23 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '23',
-      nombre: 'Paloma Redondo (DÚO Cuatro Coronas)',
-      puntis: 1,
+      nombre: 'Paloma Redondo (Cuatro Coronas)',
+      puntis: 2,
       ganador: 2,
       posicion: null,
       imagen: 'https://imgur.com/kqbpMDo.jpeg',
     },
     {
       id: '36',
-      nombre: 'Perfe López (DÚO PENDIENTE)',
-      puntis: 0,
+      nombre: 'Perfe López (Perfectos Coruños)',
+      puntis: 3,
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/EKEmIVj.jpeg',
     },
     {
       id: '4',
-      nombre: 'Rebeca Llacer (DÚO PENDIENTE)',
+      nombre: 'Rebeca Llacer (Puro Palique)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -447,7 +447,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '1',
-      nombre: 'Roberto Lago (DÚO Abrazos y Monsters)',
+      nombre: 'Roberto Lago (Abrazos y Monsters)',
       puntis: 3,
       ganador: 0,
       posicion: null,
@@ -456,7 +456,7 @@ export class RankingComponent implements OnInit {
     },
      {
       id: '73',
-      nombre: 'Rodrigo Novo (DÚO Lorem Ipsum)',
+      nombre: 'Rodrigo Novo (Lorem Ipsum)',
       puntis: 1,
       ganador: 0,
       posicion: null,
@@ -473,7 +473,7 @@ export class RankingComponent implements OnInit {
     },*/
     {
       id: '73',
-      nombre: 'Rupert (DÚO PENDIENTE)',
+      nombre: 'Rupert (Pareja de Competidores)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -481,7 +481,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '24',
-      nombre: 'Sara Villamarín (DÚO Mejores Amigos)',
+      nombre: 'Sara Villamarín (Mejores Amigos)',
       puntis: 1,
       ganador: 1,
       posicion: null,
@@ -489,7 +489,7 @@ export class RankingComponent implements OnInit {
     },
      {
       id: '75',
-      nombre: 'Sergio Gonzalez (DÚO Soseras Sosez)',
+      nombre: 'Sergio Gonzalez (Soseras Sósez)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -498,15 +498,15 @@ export class RankingComponent implements OnInit {
   
     {
       id: '6',
-      nombre: 'Victor Castro (DÚO Cuatro Coronas)',
-      puntis: 1,
+      nombre: 'Victor Castro (Cuatro Coronas)',
+      puntis: 2,
       ganador: 2,
       posicion: null,
       imagen: 'https://imgur.com/0Ll40Sh.jpeg',
     },
      {
       id: '67',
-      nombre: 'Danae (DÚO PENDIENTE)',
+      nombre: 'Danae (Pareja de Competidores)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -514,7 +514,7 @@ export class RankingComponent implements OnInit {
     },
       {
       id: '66',
-      nombre: 'Miguel Actor (DÚO PENDIENTE)',
+      nombre: 'Miguel Actor (Uña y carne)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -522,7 +522,7 @@ export class RankingComponent implements OnInit {
     },
      {
       id: '68',
-      nombre: 'Sara Mínguez (DÚO GangSOS)',
+      nombre: 'Sara Mínguez (GangSOS)',
       puntis: 1,
       ganador: 0,
       posicion: null,
@@ -530,24 +530,23 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '69',
-      nombre: 'Danil Ruso (DÚO PENDIENTE)',
+      nombre: 'Danil Ruso (Equipo a tope)',
       puntis: 0,
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/5pvJIK8.jpeg',
     },
-     /* inactivo 2025 0pts   {
+      {
       id: '70',
-      nombre: 'Jose ',
-      puntis: 0,
+      nombre: 'Ana Garbayo (NOMBRE PENDIENTE)',
+      puntis: 3,
       ganador: 0,
       posicion: null,
-      imagen: '',
-    },*/
-  
+      imagen: 'https://i.imgur.com/4xlrF6Y.jpeg',
+    },
     {
       id: '76',
-      nombre: 'Belén Sierra (DÚO PENDIENTE)',
+      nombre: 'Belén Sierra (Equipo a tope)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -555,7 +554,7 @@ export class RankingComponent implements OnInit {
     },
     {
       id: '72',
-      nombre: 'Patri Ludeña (DÚO PENDIENTE)',
+      nombre: 'Patri Ludeña (Uña y carne)',
       puntis: 0,
       ganador: 0,
       posicion: null,
@@ -563,20 +562,20 @@ export class RankingComponent implements OnInit {
     },
     { 
       id: '77', 
-      nombre: 'Luchenso (DÚO PENDIENTE)',
+      nombre: 'Luchenso (Irresistibles)',
       puntis: 0, 
       ganador: 0, 
       posicion: null, 
       imagen: 'https://imgur.com/tAr0HVQ.jpeg' },
     {
       id: '78', 
-      nombre: 'Esperanza Heliosofista (DÚO PENDIENTE)',
+      nombre: 'Esperanza Heliosofista (Irresistibles)',
       puntis: 0, 
       ganador: 0, 
       posicion: null, 
       imagen: 'https://imgur.com/QPWMs2O.jpeg' },
 { id: '79', 
-       nombre: 'Carlos Sobrido (DÚO Honeymoon)',
+       nombre: 'Carlos Sobrido (Honeymoon)',
        puntis: 0, 
        ganador: 0, 
        posicion: null, 
