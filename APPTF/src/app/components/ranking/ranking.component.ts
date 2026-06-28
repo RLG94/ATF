@@ -169,7 +169,6 @@ export class RankingComponent implements OnInit {
       id: '10',
       nombre: 'Breo da Sousa (DÚO PENDIENTE)',
       puntis: 0,
-      //maria pita//
       ganador: 0,
       posicion: null,
       imagen: 'https://i.imgur.com/IvqMdu4.jpeg',
@@ -366,7 +365,7 @@ export class RankingComponent implements OnInit {
     {
       id: '47',
       nombre: 'Maria Selgas (DÚO PENDIENTE)',
-      puntis: 1,
+      puntis: 0,
       ganador: 1,
       posicion: null,
       imagen: 'https://imgur.com/pjWxyj2.jpeg',
@@ -382,7 +381,7 @@ export class RankingComponent implements OnInit {
     {
       id: '19',
       nombre: 'Marta Cortizas (DÚO CHAT TERRA)',
-      puntis: 0,
+      puntis: 1,
       ganador: 0,
       posicion: null,
       imagen:
@@ -425,7 +424,7 @@ export class RankingComponent implements OnInit {
     {
       id: '23',
       nombre: 'Paloma Redondo (DÚO Cuatro Coronas)',
-      puntis: 0,
+      puntis: 1,
       ganador: 2,
       posicion: null,
       imagen: 'https://imgur.com/kqbpMDo.jpeg',
@@ -529,7 +528,7 @@ export class RankingComponent implements OnInit {
       posicion: null,
       imagen: 'https://imgur.com/0IuzGWi.jpeg',
     },
-         {
+    {
       id: '69',
       nombre: 'Danil Ruso (DÚO PENDIENTE)',
       puntis: 0,
@@ -546,7 +545,7 @@ export class RankingComponent implements OnInit {
       imagen: '',
     },*/
   
-           {
+    {
       id: '76',
       nombre: 'Belén Sierra (DÚO PENDIENTE)',
       puntis: 0,
@@ -554,7 +553,7 @@ export class RankingComponent implements OnInit {
       posicion: null,
       imagen: '',
     },
-         {
+    {
       id: '72',
       nombre: 'Patri Ludeña (DÚO PENDIENTE)',
       puntis: 0,
@@ -562,19 +561,21 @@ export class RankingComponent implements OnInit {
       posicion: null,
       imagen: '',
     },
-    { id: '77', 
-       nombre: 'Luchenso (DÚO PENDIENTE)',
-       puntis: 0, 
-       ganador: 0, 
-       posicion: null, 
-       imagen: 'https://imgur.com/tAr0HVQ.jpeg' },
-     { id: '78', 
-       nombre: 'Esperanza Heliosofista (DÚO PENDIENTE)',
-       puntis: 0, 
-       ganador: 0, 
-       posicion: null, 
-       imagen: 'https://imgur.com/QPWMs2O.jpeg' },
-       { id: '79', 
+    { 
+      id: '77', 
+      nombre: 'Luchenso (DÚO PENDIENTE)',
+      puntis: 0, 
+      ganador: 0, 
+      posicion: null, 
+      imagen: 'https://imgur.com/tAr0HVQ.jpeg' },
+    {
+      id: '78', 
+      nombre: 'Esperanza Heliosofista (DÚO PENDIENTE)',
+      puntis: 0, 
+      ganador: 0, 
+      posicion: null, 
+      imagen: 'https://imgur.com/QPWMs2O.jpeg' },
+{ id: '79', 
        nombre: 'Carlos Sobrido (DÚO Honeymoon)',
        puntis: 0, 
        ganador: 0, 
