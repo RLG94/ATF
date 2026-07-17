@@ -9,7 +9,6 @@ interface usuario {
   ganador: number;
   posicion?: number | null;
   imagen?: string; // La propiedad es opcional, indicada por el signo '?'
-  miembros?: string[]; // Nombre + inicial del apellido de cada integrante del duo
 }
 
 @Component({
@@ -628,7 +627,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/4uzrk2s.jpeg', // Nacho Pena + Roberto Lago  o
-      miembros: ['Nacho', 'Roberto'],
     },
     {
       id: '2',
@@ -637,7 +635,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://i.imgur.com/UBrQPAZ.jpeg', // Belén Pole + Lidia Vilanova
-      miembros: ['Belén', 'Lidia'],
     },
     {
       id: '3',
@@ -646,7 +643,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/J493wRE.jpeg', // Diego Novio Belén + Helena Aurora
-      miembros: ['Diego N.B.', 'Helena'],
     },
     {
       id: '4',
@@ -655,7 +651,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/we6pmV6.jpeg', // Anxo Soilán + Iria Ventosinos
-      miembros: ['Iria', 'Anxo'],
     },
     {
       id: '5',
@@ -664,7 +659,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://i.imgur.com/b9OHLEm.jpeg', // Aitor Nuñez + Marta Cortizas
-      miembros: ['Aitor', 'Marta'],
     },
     {
       id: '6',
@@ -673,16 +667,14 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/kyRyBfK.jpeg', // Kike Lagares + Laura Lua
-      miembros: ['Kike', 'Lua'],
     },
     {
       id: '7',
       nombre: 'Cuatro Coronas',
       puntis: 10,
-      ganador: 4,
+      ganador: 2,
       posicion: null,
       imagen: 'https://imgur.com/0Ll40Sh.jpeg', // Paloma Redondo + Victor Castro o
-      miembros: ['Paloma', 'Victor'],
     },
     {
       id: '8',
@@ -691,7 +683,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://i.imgur.com/IvqMdu4.jpeg', // Breo da Sousa + Deborah Forrester
-      miembros: ['Breo', 'Deborah'],
     },
     {
       id: '9',
@@ -700,7 +691,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://i.imgur.com/mMEBKcM.jpeg', // Alvaro Verde + Cora Diaz
-      miembros: ['Alvaro', 'Cora'],
     },
     {
       id: '10',
@@ -709,7 +699,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/3AHrHId.jpeg', // Javi El Bueno + José Ruiz
-      miembros: ['Javi Bueno', 'José Ruiz'],
     },
     {
       id: '11',
@@ -718,7 +707,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/5pvJIK8.jpeg', // Danil Ruso + Belén Sierra
-      miembros: ['Danil R.', 'Belén S.'],
     },
     {
       id: '12',
@@ -727,7 +715,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/Dfdenvn.jpeg', // Bea Pérez + Gojo Carracedo
-      miembros: ['Bea Pérez', 'Gojo'],
     },
     {
       id: '13',
@@ -736,7 +723,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://i.imgur.com/LP5Idr3.jpeg', // Francisco Encabo + Frank Díaz
-      miembros: ['Fran', 'Frank'],
     },
     {
       id: '14',
@@ -745,7 +731,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/YvwjqvG.jpeg', // Carlos Nogueira + Sara Mínguez
-      miembros: ['Caglos', 'Sara M.'],
     },
     {
       id: '15',
@@ -754,7 +739,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/ghX05Hb.jpeg', // Mia Otero + Maria Diz
-      miembros: ['Mia', 'Maria Diz'],
     },
     {
       id: '16',
@@ -763,7 +747,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/x4mlTid.jpeg', // Maria Ubeda + Carlos Sobrido
-      miembros: ['Mery Ubeda', 'Chivas'],
     },
     {
       id: '17',
@@ -772,7 +755,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/tAr0HVQ.jpeg', // Luchenso + Esperanza Heliosofista
-      miembros: ['Luchenso', 'Esperanza'],
     },
     {
       id: '18',
@@ -781,7 +763,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/IpWUcqC.jpeg', // Alejandra Lai + Andrea Nuñez
-      miembros: ['Lai', 'Andrea'],
     },
     {
       id: '19',
@@ -790,7 +771,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/4Ip96es.jpeg', // Andrea Ogando + Rodrigo Novo
-      miembros: ['Andrew', 'Rodri Novo'],
     },
     {
       id: '20',
@@ -799,7 +779,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://i.imgur.com/UV3B3eI.jpeg', // Alejandra Mangano + Alejandro Barba
-      miembros: ['Alejandra M.', 'Alex Porron'],
     },
     {
       id: '21',
@@ -808,7 +787,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/N65lQWi.jpeg', // Alejandro Ces + Bea Vázquez
-      miembros: ['Ces', 'Bea Coru'],
     },
     {
       id: '22',
@@ -817,7 +795,6 @@ export class RankingComponent implements OnInit {
       ganador: 1,
       posicion: null,
       imagen: 'https://avatars.githubusercontent.com/u/153908128?v=4', // Andoni Álvarez + Sara Villamarín
-      miembros: ['Andoni', 'Sara V.'],
     },
     {
       id: '23',
@@ -826,7 +803,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/hperML2.jpeg', // Isa Vázquez + Ana Garbayo
-      miembros: ['Isa', 'Ana G.'],
     },
     {
       id: '24',
@@ -835,7 +811,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/APr7IdQ.jpeg', // Rupert + Danae
-      miembros: ['Rupert', 'Danae'],
     },
     {
       id: '25',
@@ -844,7 +819,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/EKEmIVj.jpeg', // Javi Llinares + Perfe López
-      miembros: ['Llina', 'Perfe'],
     },
     {
       id: '26',
@@ -853,7 +827,6 @@ export class RankingComponent implements OnInit {
       ganador: 1,
       posicion: null,
       imagen: 'https://imgur.com/iGHvV9L.jpeg', // Adrian Martínez + Don Facto
-      miembros: ['Adri', 'Facto'],
     },
     {
       id: '27',
@@ -862,7 +835,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/bJoHy5V.jpeg', // Pablo Saborido + Rebeca Llacer
-      miembros: ['Pablo Vigo', 'Rebeca'],
     },
     {
       id: '28',
@@ -871,7 +843,6 @@ export class RankingComponent implements OnInit {
       ganador: 1,
       posicion: null,
       imagen: 'https://imgur.com/9gw6fF2.jpeg', // Maria Selgas + Nuria Medicinas
-      miembros: ['Selgas', 'Nuria'],
     },
     {
       id: '29',
@@ -880,16 +851,14 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://i.imgur.com/eQfFIe4.jpeg', // Cristina Casas + Sergio Gonzalez
-      miembros: ['Cris', 'Sergio Lai'],
     },
     {
       id: '30',
       nombre: 'Speed Y Friends',
       puntis: 12,
-      ganador: 2,
+      ganador: 1,
       posicion: null,
       imagen: 'https://i.imgur.com/8YWExKM.jpeg', // Ana Esfenoides + Nirei Orange
-      miembros: ['Ana', 'Nirei'],
     },
     {
       id: '31',
@@ -898,7 +867,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/E0ntJlr.jpeg', // Jacobo Camba + Mateo Iglesias
-      miembros: ['Jaco Vigo', 'Mateo'],
     },
     {
       id: '32',
@@ -907,7 +875,6 @@ export class RankingComponent implements OnInit {
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/2qK1J4g.jpeg', // Miguel Actor + Patri Ludeña
-      miembros: ['Miguel Porron', 'Patri'],
     },
   ];
   // usuarioAnterior = [{}]; //Este sería el elemento que me gustaria utilizar para comparar las posiciones anteriores, pero creo que no va a ser posible porque solo funcionaria en cache.
