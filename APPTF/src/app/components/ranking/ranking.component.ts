@@ -624,10 +624,10 @@ export class RankingComponent implements OnInit {
     {
       id: '1',
       nombre: 'Abrazos y Monsters',
-      puntis: 9,
+      puntis: 10,
       ganador: 0,
       posicion: null,
-      imagen: 'https://imgur.com/4uzrk2s.jpeg', // Nacho Pena + Roberto Lago  o
+      imagen: 'https://i.imgur.com/C6JnvxQ.jpeg', // Nacho Pena + Roberto Lago  o
       miembros: ['Nacho', 'Roberto'],
     },
     {
@@ -660,7 +660,7 @@ export class RankingComponent implements OnInit {
     {
       id: '5',
       nombre: 'CHAT TERRA',
-      puntis: 6,
+      puntis: 8,
       ganador: 0,
       posicion: null,
       imagen: 'https://i.imgur.com/b9OHLEm.jpeg', // Aitor Nuñez + Marta Cortizas
@@ -669,7 +669,7 @@ export class RankingComponent implements OnInit {
     {
       id: '6',
       nombre: 'Completos Conocidos',
-      puntis: 4,
+      puntis: 6,
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/kyRyBfK.jpeg', // Kike Lagares + Laura Lua
@@ -678,19 +678,19 @@ export class RankingComponent implements OnInit {
     {
       id: '7',
       nombre: 'Cuatro Coronas',
-      puntis: 11,
+      puntis: 13,
       ganador: 4,
       posicion: null,
-      imagen: 'https://imgur.com/0Ll40Sh.jpeg', // Paloma Redondo + Victor Castro o
+      imagen: 'https://i.imgur.com/Xtujutc.jpeg', // Paloma Redondo + Victor Castro o
       miembros: ['Paloma', 'Victor'],
     },
     {
       id: '8',
       nombre: 'Deborahndo Cañotos',
-      puntis: 9,
+      puntis: 11,
       ganador: 0,
       posicion: null,
-      imagen: 'https://i.imgur.com/IvqMdu4.jpeg', // Breo da Sousa + Deborah Forrester
+      imagen: 'https://i.imgur.com/M4Hkqqc.jpeg', // Breo da Sousa + Deborah Forrester
       miembros: ['Breo', 'Deborah'],
     },
     {
@@ -699,7 +699,7 @@ export class RankingComponent implements OnInit {
       puntis: 3,
       ganador: 0,
       posicion: null,
-      imagen: 'https://i.imgur.com/mMEBKcM.jpeg', // Alvaro Verde + Cora Diaz
+      imagen: 'https://i.imgur.com/vvXakwV.jpeg', // Alvaro Verde + Cora Diaz
       miembros: ['Alvaro', 'Cora'],
     },
     {
@@ -732,7 +732,7 @@ export class RankingComponent implements OnInit {
     {
       id: '13',
       nombre: 'Franks',
-      puntis: 4,
+      puntis: 6,
       ganador: 0,
       posicion: null,
       imagen: 'https://i.imgur.com/LP5Idr3.jpeg', // Francisco Encabo + Frank Díaz
@@ -786,7 +786,7 @@ export class RankingComponent implements OnInit {
     {
       id: '19',
       nombre: 'Lorem Ipsum',
-      puntis: 7,
+      puntis: 10,
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/4Ip96es.jpeg', // Andrea Ogando + Rodrigo Novo
@@ -795,7 +795,7 @@ export class RankingComponent implements OnInit {
     {
       id: '20',
       nombre: 'Los Alejandres',
-      puntis: 1,
+      puntis: 3,
       ganador: 0,
       posicion: null,
       imagen: 'https://i.imgur.com/UV3B3eI.jpeg', // Alejandra Mangano + Alejandro Barba
@@ -813,10 +813,10 @@ export class RankingComponent implements OnInit {
     {
       id: '22',
       nombre: 'Mejores Amigos',
-      puntis: 9,
+      puntis: 11,
       ganador: 1,
       posicion: null,
-      imagen: 'https://avatars.githubusercontent.com/u/153908128?v=4', // Andoni Álvarez + Sara Villamarín
+      imagen: 'https://i.imgur.com/ToynapJ.jpeg', // Andoni Álvarez + Sara Villamarín
       miembros: ['Andoni', 'Sara V.'],
     },
     {
@@ -885,7 +885,7 @@ export class RankingComponent implements OnInit {
     {
       id: '30',
       nombre: 'Speed Y Friends',
-      puntis: 13,
+      puntis: 15,
       ganador: 2,
       posicion: null,
       imagen: 'https://i.imgur.com/8YWExKM.jpeg', // Ana Esfenoides + Nirei Orange
@@ -903,7 +903,7 @@ export class RankingComponent implements OnInit {
     {
       id: '32',
       nombre: 'Uña y carne',
-      puntis: 0,
+      puntis: 2,
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/2qK1J4g.jpeg', // Miguel Actor + Patri Ludeña
