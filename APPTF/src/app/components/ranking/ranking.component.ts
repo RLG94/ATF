@@ -660,7 +660,7 @@ export class RankingComponent implements OnInit {
     {
       id: '5',
       nombre: 'CHAT TERRA',
-      puntis: 12,
+      puntis: 13,
       ganador: 0,
       posicion: null,
       imagen: 'https://i.imgur.com/b9OHLEm.jpeg', // Aitor Nuñez + Marta Cortizas
@@ -687,7 +687,7 @@ export class RankingComponent implements OnInit {
     {
       id: '8',
       nombre: 'Deborahndo Cañotos',
-      puntis: 17,
+      puntis: 20,
       ganador: 0,
       posicion: null,
       imagen: 'https://i.imgur.com/M4Hkqqc.jpeg', // Breo da Sousa + Deborah Forrester
@@ -732,7 +732,7 @@ export class RankingComponent implements OnInit {
     {
       id: '13',
       nombre: 'Franks',
-      puntis: 8,
+      puntis: 9,
       ganador: 0,
       posicion: null,
       imagen: 'https://i.imgur.com/LP5Idr3.jpeg', // Francisco Encabo + Frank Díaz
@@ -786,7 +786,7 @@ export class RankingComponent implements OnInit {
     {
       id: '19',
       nombre: 'Lorem Ipsum',
-      puntis: 12,
+      puntis: 13,
       ganador: 0,
       posicion: null,
       imagen: 'https://imgur.com/4Ip96es.jpeg', // Andrea Ogando + Rodrigo Novo
@@ -813,7 +813,7 @@ export class RankingComponent implements OnInit {
     {
       id: '22',
       nombre: 'Mejores Amigos',
-      puntis: 15,
+      puntis: 16,
       ganador: 1,
       posicion: null,
       imagen: 'https://i.imgur.com/ToynapJ.jpeg', // Andoni Álvarez + Sara Villamarín
@@ -867,7 +867,7 @@ export class RankingComponent implements OnInit {
     {
       id: '28',
       nombre: 'Purpurine Girls',
-      puntis: 12,
+      puntis: 13,
       ganador: 1,
       posicion: null,
       imagen: 'https://imgur.com/9gw6fF2.jpeg', // Maria Selgas + Nuria Medicinas
@@ -885,7 +885,7 @@ export class RankingComponent implements OnInit {
     {
       id: '30',
       nombre: 'Speed Y Friends',
-      puntis: 17,
+      puntis: 18,
       ganador: 2,
       posicion: null,
       imagen: 'https://i.imgur.com/8YWExKM.jpeg', // Ana Esfenoides + Nirei Orange
