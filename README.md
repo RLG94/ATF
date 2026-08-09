@@ -1,7 +1,7 @@
-#Roberto Lago Úbeda , nota para a profesora
 
 
-#Ola! envío esta web como tarefa da actividade 7.2, porque é un proxecto persoal no que levo traballando xunto con un amigo xa #varios meses e aplicando e mellorandoa cos contidos que vou aprendendo no ciclo superior. 
+
+# tarefa da actividade 7.2, porque é un proxecto persoal no que levo traballando xunto con un amigo xa #varios meses e aplicando e mellorandoa cos contidos que vou aprendendo no ciclo superior. 
 
 #Non é necesario arrincala no propio pc , aquí estan todos os arquivos que a compoñen pero a teño aloxada en GitHub Pages ,  e #pode verse  a traves do línk https://rlg94.github.io/ATF/#/
 
